@@ -1,0 +1,1020 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - complementary [ref=e3]:
+      - paragraph [ref=e4]: The Collapse of Complex Societies (New Studies in Archaeology)
+      - navigation [ref=e5]:
+        - button "01 Unit 001" [ref=e56] [cursor=pointer]:
+          - generic [ref=e57]: "01"
+          - generic [ref=e58]: Unit 001
+        - button "02 Unit 002" [ref=e59] [cursor=pointer]:
+          - generic [ref=e60]: "02"
+          - generic [ref=e61]: Unit 002
+        - button "03 Unit 003" [ref=e62] [cursor=pointer]:
+          - generic [ref=e63]: "03"
+          - generic [ref=e64]: Unit 003
+        - button "04 Unit 004" [ref=e65] [cursor=pointer]:
+          - generic [ref=e66]: "04"
+          - generic [ref=e67]: Unit 004
+        - button "05 Unit 005" [ref=e68] [cursor=pointer]:
+          - generic [ref=e69]: "05"
+          - generic [ref=e70]: Unit 005
+        - button "06 Unit 006" [ref=e71] [cursor=pointer]:
+          - generic [ref=e72]: "06"
+          - generic [ref=e73]: Unit 006
+        - button "07 Unit 007" [ref=e74] [cursor=pointer]:
+          - generic [ref=e75]: "07"
+          - generic [ref=e76]: Unit 007
+        - button "08 Unit 008" [ref=e77] [cursor=pointer]:
+          - generic [ref=e78]: "08"
+          - generic [ref=e79]: Unit 008
+        - button "09 Unit 009" [ref=e80] [cursor=pointer]:
+          - generic [ref=e81]: "09"
+          - generic [ref=e82]: Unit 009
+        - button "10 Unit 010" [ref=e83] [cursor=pointer]:
+          - generic [ref=e84]: "10"
+          - generic [ref=e85]: Unit 010
+        - button "11 Unit 011" [ref=e86] [cursor=pointer]:
+          - generic [ref=e87]: "11"
+          - generic [ref=e88]: Unit 011
+    - main [ref=e39]:
+      - generic [ref=e40]:
+        - heading "Chapter 2. Unit 002" [level=1] [ref=e89]
+        - generic [ref=e42]: 0:28 / 10:27:06
+      - article [ref=e43]:
+        - paragraph [ref=e90] [cursor=pointer]: NEWSTUDIES INARCHAEOLOGY
+        - paragraph [ref=e91] [cursor=pointer]: Series editors
+        - paragraph [ref=e92] [cursor=pointer]: Colin Renfrew, University ofCambridge
+        - paragraph [ref=e93] [cursor=pointer]: Jeremy Sabloff, University ofPittsburgh
+        - paragraph [ref=e94] [cursor=pointer]: Other titles in the series include
+        - paragraph [ref=e95] [cursor=pointer]: "Dean E. Arnold: Ceramic Theory and Cultural Process"
+        - paragraph [ref=e96] [cursor=pointer]: "Graeme Barker: Prehistoric Farming in Europe"
+        - paragraph [ref=e97] [cursor=pointer]: "Richard E.G. Blanton, Stephen A. Kowalewski, Gary M. Feinman and Jill Appel: Ancient Mesoamerica"
+        - paragraph [ref=e98] [cursor=pointer]: "Peter Bogucki: Forest Farmers and Stockherders"
+        - paragraph [ref=e99] [cursor=pointer]: "Graham Connah: Three Thousand Years in Africa"
+        - paragraph [ref=e100] [cursor=pointer]: "Geoffrey Conrad and Arthur Demarest: Religion and Empire: The Dynamics ofAztec and Inca Expansionism"
+        - paragraph [ref=e101] [cursor=pointer]: "John Fox: Maya Postclassic State Formation"
+        - paragraph [ref=e102] [cursor=pointer]: "Bo Graslund: The Birth of Prehistoric Chronology"
+        - paragraph [ref=e103] [cursor=pointer]: "Ian Hodder and Clive Orton: Spatial Analysis in Archaeology"
+        - paragraph [ref=e104] [cursor=pointer]: "Rosalind L. Hunter-Anderson: Prehistoric Adaptation in the American Southwest"
+        - paragraph [ref=e105] [cursor=pointer]: "Patrick Vinton Kirch: The Evolution of the Polynesian Chiefdoms"
+        - paragraph [ref=e106] [cursor=pointer]: "Daniel Miller: Artefacts as Categories"
+        - paragraph [ref=e107] [cursor=pointer]: "Olivier de Montmollin: The Archaeology of Political Structure: Settlement Analysis in a Classic Maya Polity"
+        - paragraph [ref=e108] [cursor=pointer]: "Ian Morris: Burial and Ancient Society: The Rise of the Greek City State"
+        - paragraph [ref=e109] [cursor=pointer]: "Keith Muckelroy: Maritime Archaeology"
+        - paragraph [ref=e110] [cursor=pointer]: "Stephen Plog: Stylistic Variation in Prehistoric Ceramics"
+        - paragraph [ref=e111] [cursor=pointer]: "Joseph Tainter: The Collapse of Complex Societies"
+        - paragraph [ref=e112] [cursor=pointer]: "Michael Shanks and Christopher Tilley: Re-Constructing Archaeology"
+        - paragraph [ref=e113] [cursor=pointer]: "Robin Torrence: Production and Exchange of Stone Tools"
+        - paragraph [ref=e114] [cursor=pointer]: "Peter Wells: Culture Contact and Culture Change"
+        - paragraph [ref=e115] [cursor=pointer]: "Alasdair Whittle: Problems in Neolithic Archaeology"
+        - paragraph [ref=e116] [cursor=pointer]: The Collapse of Complex Societies (New Studies in Archaeology) by Joseph A. Tainter
+        - paragraph [ref=e117] [cursor=pointer]: JOSEPH A. TAINTER
+        - paragraph [ref=e118] [cursor=pointer]: The Collapse of Complex Societies (New Studies in Archaeology) by Joseph A. Tainter
+        - paragraph [ref=e119] [cursor=pointer]: The Collapse of
+        - paragraph [ref=e120] [cursor=pointer]: Complex Societies
+        - paragraph [ref=e121] [cursor=pointer]: The Collapse of Complex Societies (New Studies in Archaeology) by Joseph A. Tainter
+        - paragraph [ref=e122] [cursor=pointer]: PUBLISHED BY THE PRESS SYNDICATE OF THE UNIVERSITY OF CAMBRIDGE
+        - paragraph [ref=e123] [cursor=pointer]: The Pitt Building, Trumpington Street, Cambridge, United Kingdom
+        - paragraph [ref=e124] [cursor=pointer]: CAMBRIDGE UNIVERSITY PRESS
+        - paragraph [ref=e125] [cursor=pointer]: The Edinburgh Building, Cambrige CB2 2RU, UK
+        - paragraph [ref=e126] [cursor=pointer]: 40 West 20th Street, New York, NY 10011-4211, USA
+        - paragraph [ref=e127] [cursor=pointer]: 10 Stamford Road, Oakleigh, V1C 3166, Australia
+        - paragraph [ref=e128] [cursor=pointer]: Ruiz de Alarcón 13, 28014 Madrid, Spain
+        - paragraph [ref=e129] [cursor=pointer]: Dock House, The Waterfront, Cape Town 8001, South Africa
+        - paragraph [ref=e130] [cursor=pointer]: http://www.cambridge.org
+        - paragraph [ref=e131] [cursor=pointer]: © Cambridge University Press 1988
+        - paragraph [ref=e132] [cursor=pointer]: This book is in copyright.
+        - paragraph [ref=e133] [cursor=pointer]: First published 1988
+        - paragraph [ref=e134] [cursor=pointer]: Reprinted 1989
+        - paragraph [ref=e135] [cursor=pointer]: First paperback edition 1990
+        - paragraph [ref=e136] [cursor=pointer]: Reprinted 1990, 1992, 1993, 1994, 1995, 1997, 1999, 2000
+        - paragraph [ref=e137] [cursor=pointer]: Printed in the United Kingdom at the University Press, Cambridge
+        - paragraph [ref=e138] [cursor=pointer]: British Library Cataloguing in Publication data
+        - paragraph [ref=e139] [cursor=pointer]: Tainter, Joseph A.
+        - paragraph [ref=e140] [cursor=pointer]: The collapse of complex societies. -
+        - paragraph [ref=e141] [cursor=pointer]: (New studies in archaeology)
+        - paragraph [ref=e142] [cursor=pointer]: 1. History, Ancient 2. Civilization
+        - paragraph [ref=e143] [cursor=pointer]: "1."
+        - paragraph [ref=e144] [cursor=pointer]: Title.
+        - paragraph [ref=e145] [cursor=pointer]: II.
+        - paragraph [ref=e146] [cursor=pointer]: Series.
+        - paragraph [ref=e147] [cursor=pointer]: 930 D57
+        - paragraph [ref=e148] [cursor=pointer]: Library of Congress Cataloguing in Publication data
+        - paragraph [ref=e149] [cursor=pointer]: Tainter, Joseph A.
+        - paragraph [ref=e150] [cursor=pointer]: The collapse of complex societies.
+        - paragraph [ref=e151] [cursor=pointer]: (New studies in archaeology)
+        - paragraph [ref=e152] [cursor=pointer]: 1. Civilization, Ancient
+        - paragraph [ref=e153] [cursor=pointer]: "2."
+        - paragraph [ref=e154] [cursor=pointer]: Comparative civilization 3.
+        - paragraph [ref=e155] [cursor=pointer]: Civilization - Philosophy.
+        - paragraph [ref=e156] [cursor=pointer]: "1."
+        - paragraph [ref=e157] [cursor=pointer]: Title.
+        - paragraph [ref=e158] [cursor=pointer]: II.
+        - paragraph [ref=e159] [cursor=pointer]: Series.
+        - paragraph [ref=e160] [cursor=pointer]: CB311 T245 1987 930 86-33432
+        - paragraph [ref=e161] [cursor=pointer]: ISBN 0 321 38673 X paperback
+        - paragraph [ref=e162] [cursor=pointer]: Cambridge University Press
+        - paragraph [ref=e163] [cursor=pointer]: Cambridge, New York, Oakleigh
+        - paragraph [ref=e164] [cursor=pointer]: Madrid, Cape Town
+        - paragraph [ref=e165] [cursor=pointer]: Cambridge University Press
+        - paragraph [ref=e166] [cursor=pointer]: The Edinburgh Building, Cambridge cb2
+        - paragraph [ref=e167] [cursor=pointer]: 2ru, UK
+        - paragraph [ref=e168] [cursor=pointer]: www.cambridge.org
+        - paragraph [ref=e169] [cursor=pointer]: © Cambridge University Press
+        - paragraph [ref=e170] [cursor=pointer]: "Information on this title:"
+        - paragraph [ref=e171] [cursor=pointer]: www.cambridge.org/
+        - paragraph [ref=e172] [cursor=pointer]: This publication is in copyright.
+        - paragraph [ref=e173] [cursor=pointer]: Published in the United States of America by Cambridge University Press, New York
+        - paragraph [ref=e174] [cursor=pointer]: The Collapse of Complex Societies (New Studies in Archaeology) by Joseph A. Tainter
+        - paragraph [ref=e175] [cursor=pointer]: "Frontispiece: Baalbec."
+        - paragraph [ref=e176] [cursor=pointer]: From The Holy Land, Volume it, by David Roberts (1843).
+        - paragraph [ref=e177] [cursor=pointer]: F.
+        - paragraph [ref=e178] [cursor=pointer]: G.
+        - paragraph [ref=e179] [cursor=pointer]: Moon, London.
+        - paragraph [ref=e180] [cursor=pointer]: The Collapse of Complex Societies (New Studies in Archaeology) by Joseph A. Tainter
+        - paragraph [ref=e181] [cursor=pointer]: For Bonnie and Emmet
+        - paragraph [ref=e182] [cursor=pointer]: The Collapse of Complex Societies (New Studies in Archaeology) by Joseph A. Tainter
+        - paragraph [ref=e183] [cursor=pointer]: CONTENTS
+        - paragraph [ref=e184] [cursor=pointer]: Acknowledgements
+        - paragraph [ref=e185] [cursor=pointer]: The Mesoamerican
+        - paragraph [ref=e186] [cursor=pointer]: Highlands 12;
+        - paragraph [ref=e187] [cursor=pointer]: CasasGrandes 14;
+        - paragraph [ref=e188] [cursor=pointer]: The Chacoans 14;
+        - paragraph [ref=e189] [cursor=pointer]: The Hohokam 15;
+        - paragraph [ref=e190] [cursor=pointer]: The Eastern Woodlands 15;
+        - paragraph [ref=e191] [cursor=pointer]: The Huari and Tiahuanaco Empires 16;
+        - paragraph [ref=e192] [cursor=pointer]: The Kachin 17;
+        - paragraph [ref=e193] [cursor=pointer]: The 1k 17;
+        - paragraph [ref=e194] [cursor=pointer]: Remarks
+        - paragraph [ref=e195] [cursor=pointer]: After collapse
+        - paragraph [ref=e196] [cursor=pointer]: 1 Introduction to collapse I
+        - paragraph [ref=e197] [cursor=pointer]: What is collapse?
+        - paragraph [ref=e198] [cursor=pointer]: Collapse in history
+        - paragraph [ref=e199] [cursor=pointer]: The Western Chou Empire S;
+        - paragraph [ref=e200] [cursor=pointer]: The Harappan Civilization 6;
+        - paragraph [ref=e201] [cursor=pointer]: Mesopotamia 7;
+        - paragraph [ref=e202] [cursor=pointer]: The Egyptian Old
+        - paragraph [ref=e203] [cursor=pointer]: Kingdom 8;
+        - paragraph [ref=e204] [cursor=pointer]: The Hittite Empire 8;
+        - paragraph [ref=e205] [cursor=pointer]: Minoan Civilization 9;
+        - paragraph [ref=e206] [cursor=pointer]: Mycenaean Civilization 10;
+        - paragraph [ref=e207] [cursor=pointer]: The
+        - paragraph [ref=e208] [cursor=pointer]: Western Roman Empire I1;
+        - paragraph [ref=e209] [cursor=pointer]: The Olmec 11;
+        - paragraph [ref=e210] [cursor=pointer]: The Lowland Classic Maya 12;
+        - paragraph [ref=e211] [cursor=pointer]: 2 The nature of complex societies
+        - paragraph [ref=e212] [cursor=pointer]: Introduction
+        - paragraph [ref=e213] [cursor=pointer]: Complexity
+        - paragraph [ref=e214] [cursor=pointer]: Nature of complexity 23;
+        - paragraph [ref=e215] [cursor=pointer]: Simpler societies 24;
+        - paragraph [ref=e216] [cursor=pointer]: States 26;
+        - paragraph [ref=e217] [cursor=pointer]: Levels of complexity
+        - paragraph [ref=e218] [cursor=pointer]: The evolution of complexity
+        - paragraph [ref=e219] [cursor=pointer]: Summary and implications
+        - paragraph [ref=e220] [cursor=pointer]: 3 The study of collapse
+        - paragraph [ref=e221] [cursor=pointer]: Introduction
+        - paragraph [ref=e222] [cursor=pointer]: What collapses? More on definitions
+        - paragraph [ref=e223] [cursor=pointer]: Classification of theories
+        - paragraph [ref=e224] [cursor=pointer]: Framework of discussion
+        - paragraph [ref=e225] [cursor=pointer]: Resource depletion
+        - paragraph [ref=e226] [cursor=pointer]: Mesoamerica 45; Peru 46;
+        - paragraph [ref=e227] [cursor=pointer]: The American Southwest 46;
+        - paragraph [ref=e228] [cursor=pointer]: Eastern North America 47;
+        - paragraph [ref=e229] [cursor=pointer]: Egypt 47;
+        - paragraph [ref=e230] [cursor=pointer]: The Harappan Civilization 48;
+        - paragraph [ref=e231] [cursor=pointer]: Mesopotamia 48;
+        - paragraph [ref=e232] [cursor=pointer]: Mycenaean Civilization 49;
+        - paragraph [ref=e233] [cursor=pointer]: The Roman
+        - paragraph [ref=e234] [cursor=pointer]: Empire 49;
+        - paragraph [ref=e235] [cursor=pointer]: Assessment
+        - paragraph [ref=e236] [cursor=pointer]: New resources
+        - paragraph [ref=e237] [cursor=pointer]: Assessment
+        - paragraph [ref=e238] [cursor=pointer]: Catastrophes
+        - paragraph [ref=e239] [cursor=pointer]: Mesoamerica 52;
+        - paragraph [ref=e240] [cursor=pointer]: Minoan Civilization 53;
+        - paragraph [ref=e241] [cursor=pointer]: The Roman Empire 53;
+        - paragraph [ref=e242] [cursor=pointer]: Assessment
+        - paragraph [ref=e243] [cursor=pointer]: Insufficient response to circumstances
+        - paragraph [ref=e244] [cursor=pointer]: Assessment
+        - paragraph [ref=e245] [cursor=pointer]: Other complex societies
+        - paragraph [ref=e246] [cursor=pointer]: Assessment
+        - paragraph [ref=e247] [cursor=pointer]: Intruders
+        - paragraph [ref=e248] [cursor=pointer]: The Harappan Civilization 62;
+        - paragraph [ref=e249] [cursor=pointer]: Mesopotamia 62;
+        - paragraph [ref=e250] [cursor=pointer]: The Hittite Empire 63;
+        - paragraph [ref=e251] [cursor=pointer]: North and South America 61;
+        - paragraph [ref=e252] [cursor=pointer]: Minoan Civilization 63;
+        - paragraph [ref=e253] [cursor=pointer]: Mycenaean Civilization 63;
+        - paragraph [ref=e254] [cursor=pointer]: The Roman Empire 63;
+        - paragraph [ref=e255] [cursor=pointer]: China 63;
+        - paragraph [ref=e256] [cursor=pointer]: Assessment
+        - paragraph [ref=e257] [cursor=pointer]: Conflict/contradictions/mismanagement
+        - paragraph [ref=e258] [cursor=pointer]: General 65;
+        - paragraph [ref=e259] [cursor=pointer]: Mesoamerica 67;
+        - paragraph [ref=e260] [cursor=pointer]: Peru 67;
+        - paragraph [ref=e261] [cursor=pointer]: China 67;
+        - paragraph [ref=e262] [cursor=pointer]: Mesopotamia 68;
+        - paragraph [ref=e263] [cursor=pointer]: The Roman Empire 69;
+        - paragraph [ref=e264] [cursor=pointer]: The Byzantine Empire 70;
+        - paragraph [ref=e265] [cursor=pointer]: Spain 71;
+        - paragraph [ref=e266] [cursor=pointer]: The Netherlands 71;
+        - paragraph [ref=e267] [cursor=pointer]: The Harappans 71;
+        - paragraph [ref=e268] [cursor=pointer]: Easter Island 71;
+        - paragraph [ref=e269] [cursor=pointer]: Assessment
+        - paragraph [ref=e270] [cursor=pointer]: Social dysfunction
+        - paragraph [ref=e271] [cursor=pointer]: Assessment
+        - paragraph [ref=e272] [cursor=pointer]: Mystical factors
+        - paragraph [ref=e273] [cursor=pointer]: Assessment
+        - paragraph [ref=e274] [cursor=pointer]: Chance concatenation of events
+        - paragraph [ref=e275] [cursor=pointer]: Assessment
+        - paragraph [ref=e276] [cursor=pointer]: Economic explanations
+        - paragraph [ref=e277] [cursor=pointer]: Assessment
+        - paragraph [ref=e278] [cursor=pointer]: Summary and discussion
+        - paragraph [ref=e279] [cursor=pointer]: "4 Understanding collapse: the marginal productivity of sociopolitical change"
+        - paragraph [ref=e280] [cursor=pointer]: The marginal productivity of increasing complexity
+        - paragraph [ref=e281] [cursor=pointer]: Agriculture and resource production
+        - paragraph [ref=e282] [cursor=pointer]: Information processing 99;
+        - paragraph [ref=e283] [cursor=pointer]: Sociopolitical control and
+        - paragraph [ref=e284] [cursor=pointer]: specialization 106;
+        - paragraph [ref=e285] [cursor=pointer]: Overall economic productivity 108;
+        - paragraph [ref=e286] [cursor=pointer]: Explaining declining marginal returns in complex societies
+        - paragraph [ref=e287] [cursor=pointer]: Agriculture and resource production 110;
+        - paragraph [ref=e288] [cursor=pointer]: Information processing 111;
+        - paragraph [ref=e289] [cursor=pointer]: Sociopolitical control and
+        - paragraph [ref=e290] [cursor=pointer]: specialization 115;
+        - paragraph [ref=e291] [cursor=pointer]: Overall economic productivity
+        - paragraph [ref=e292] [cursor=pointer]: Explaining collapse
+        - paragraph [ref=e293] [cursor=pointer]: Alternatives to collapse
+        - paragraph [ref=e294] [cursor=pointer]: "5 Evaluation: complexity and marginal returns in collapsing societies"
+        - paragraph [ref=e295] [cursor=pointer]: The collapse of the Western Roman Empire
+        - paragraph [ref=e296] [cursor=pointer]: Assessment of the Roman collapse
+        - paragraph [ref=e297] [cursor=pointer]: The Classic Maya collapse
+        - paragraph [ref=e298] [cursor=pointer]: The setting 152;
+        - paragraph [ref=e299] [cursor=pointer]: Views of the Maya 155;
+        - paragraph [ref=e300] [cursor=pointer]: The evolution ofMaya Civilization 156;
+        - paragraph [ref=e301] [cursor=pointer]: Population 159;
+        - paragraph [ref=e302] [cursor=pointer]: Subsistence 160;
+        - paragraph [ref=e303] [cursor=pointer]: Sociopolitical complexity 162;
+        - paragraph [ref=e304] [cursor=pointer]: Warfare 164;
+        - paragraph [ref=e305] [cursor=pointer]: The collapse 166;
+        - paragraph [ref=e306] [cursor=pointer]: Assessment of the Maya collapse
+        - paragraph [ref=e307] [cursor=pointer]: The Chacoan collapse
+        - paragraph [ref=e308] [cursor=pointer]: Assessment of the Chacoan collapse
+        - paragraph [ref=e309] [cursor=pointer]: Evaluation
+        - paragraph [ref=e310] [cursor=pointer]: The Roman collapse 188;
+        - paragraph [ref=e311] [cursor=pointer]: The Mayan collapse 189;
+        - paragraph [ref=e312] [cursor=pointer]: The Chacoan collapse
+        - paragraph [ref=e313] [cursor=pointer]: Conclusions
+        - paragraph [ref=e314] [cursor=pointer]: 6 Summary and implications
+        - paragraph [ref=e315] [cursor=pointer]: Summary 193;
+        - paragraph [ref=e316] [cursor=pointer]: Collapse and the declining productivity of complexity 197;
+        - paragraph [ref=e317] [cursor=pointer]: Further implications of
+        - paragraph [ref=e318] [cursor=pointer]: declining marginal returns 199;
+        - paragraph [ref=e319] [cursor=pointer]: Suggestions far further applications 203;
+        - paragraph [ref=e320] [cursor=pointer]: Declining marginal returns and
+        - paragraph [ref=e321] [cursor=pointer]: other theories of collapse 205;
+        - paragraph [ref=e322] [cursor=pointer]: Contemporary conditions
+        - paragraph [ref=e323] [cursor=pointer]: References
+        - paragraph [ref=e324] [cursor=pointer]: Index
+        - paragraph [ref=e325] [cursor=pointer]: The Collapse of Complex Societies (New Studies in Archaeology) by Joseph A. Tainter
+        - paragraph [ref=e326] [cursor=pointer]: FIGURES
+        - paragraph [ref=e327] [cursor=pointer]: 1 Relationship of marginal and average product 93
+        - paragraph [ref=e328] [cursor=pointer]: 2 Average returns of agriculture 96
+        - paragraph [ref=e329] [cursor=pointer]: 3 Marginal returns of agriculture 96
+        - paragraph [ref=e330] [cursor=pointer]: 4 Average returns of agriculture in Jamaica, 1954-5 96
+        - paragraph [ref=e331] [cursor=pointer]: 5 Marginal returns of agriculture in India 97
+        - paragraph [ref=e332] [cursor=pointer]: 6 Marginal productivity of agriculture in northern Greece 97
+        - paragraph [ref=e333] [cursor=pointer]: 7 Labor productivity in Asian agriculture 97
+        - paragraph [ref=e334] [cursor=pointer]: 8 Productivity of caloric intake for increasing life expectancy 98
+        - paragraph [ref=e335] [cursor=pointer]: 9 Patent applications and issues in respect to population and scientific/technical personnel, 1870-1950 100
+        - paragraph [ref=e336] [cursor=pointer]: 10 Patent applications in respect to research inputs 101
+        - paragraph [ref=e337] [cursor=pointer]: 11 Productivity of the U.S.
+        - paragraph [ref=e338] [cursor=pointer]: health care system, 1930-82 103
+        - paragraph [ref=e339] [cursor=pointer]: 12 American expenditures on higher education, 1900-60 104
+        - paragraph [ref=e340] [cursor=pointer]: 13 Specialization in American education, 1870-1960 105
+        - paragraph [ref=e341] [cursor=pointer]: 14 Productivity of educational investment for the development of specialized expertise 106
+        - paragraph [ref=e342] [cursor=pointer]: 15 Ratios of administrative and production employees in five countries for selected years 108
+        - paragraph [ref=e343] [cursor=pointer]: 16 Growth of GNP per capita 109
+        - paragraph [ref=e344] [cursor=pointer]: 17 Reductions in fuel consumption of steam engines resulting from increases in thermal efficiency 110
+        - paragraph [ref=e345] [cursor=pointer]: 18 Marginal yield in a branch of science 113
+        - paragraph [ref=e346] [cursor=pointer]: 19 The marginal product of increasing complexity 119
+        - paragraph [ref=e347] [cursor=pointer]: 20 The marginal product of increasing complexity, with technological innovation or acquisition of an energy subsidy 125
+        - paragraph [ref=e348] [cursor=pointer]: 21 Growth curves of empires 125
+        - paragraph [ref=e349] [cursor=pointer]: 22 The Roman Empire at the time of Hadrian 130
+        - paragraph [ref=e350] [cursor=pointer]: 23 Debasement of the denarius from Nero to Septimius Severus 136
+        - paragraph [ref=e351] [cursor=pointer]: 24 The Mayan area, showing major subdivisions and selected sites 154
+        - paragraph [ref=e352] [cursor=pointer]: 25 Construction of dated monuments at Classic Maya sites 165
+        - paragraph [ref=e353] [cursor=pointer]: 26 Occupation of Classic Maya centers 165
+        - paragraph [ref=e354] [cursor=pointer]: 27 Southern Lowland Mayan radiocarbon dates from elite contexts 168
+        - paragraph [ref=e355] [cursor=pointer]: 28 Southern Lowland Mayan radiocarbon dates from commoner contexts 168
+        - paragraph [ref=e356] [cursor=pointer]: 29 San Juan Basin and surrounding terrain 176
+        - paragraph [ref=e357] [cursor=pointer]: 30 The Chacoan regional system, A.D.
+        - paragraph [ref=e358] [cursor=pointer]: 1050-1175 181
+        - paragraph [ref=e359] [cursor=pointer]: The Collapse of Complex Societies (New Studies in Archaeology) by Joseph A. Tainter
+        - paragraph [ref=e360] [cursor=pointer]: TABLES
+        - paragraph [ref=e361] [cursor=pointer]: 1 American dairy labor efficiency, 1850-1910 98
+        - paragraph [ref=e362] [cursor=pointer]: 2 British Admiralty statistics, 1914-67 107
+        - paragraph [ref=e363] [cursor=pointer]: 3 British Colonial Office officials 107
+        - paragraph [ref=e364] [cursor=pointer]: 4 Variations in economic growth 109
+        - paragraph [ref=e365] [cursor=pointer]: 5 Roman emperors 131
+        - paragraph [ref=e366] [cursor=pointer]: 6 Debasement of the denarius from Nero to Septimius Severus 135
+        - paragraph [ref=e367] [cursor=pointer]: 7 Emperors and pretenders from 235 to 285 A.
+        - paragraph [ref=e368] [cursor=pointer]: D.
+        - paragraph [ref=e369] [cursor=pointer]: "138"
+        - paragraph [ref=e370] [cursor=pointer]: The Collapse of Complex Societies (New Studies in Archaeology) by Joseph A. Tainter
+        - paragraph [ref=e371] [cursor=pointer]: ACKNOWLEDGEMENTS
+        - paragraph [ref=e372] [cursor=pointer]: "Edward Hallett Carr once suggested that Toynbee's cyclical theory of history was the characteristic view of a society in crisis (1961: 37), and others have noted that there is often a concern with collapse at times of distress."
+        - paragraph [ref=e373] [cursor=pointer]: While doubtlessly this is true, the present work reflects an interest that has lain unfulfilled since my first exposure to this topic.
+        - paragraph [ref=e374] [cursor=pointer]: Its fruition owes much to two persons.
+        - paragraph [ref=e375] [cursor=pointer]: Foremost is my wife, Bonnie Bagley Tainter, who encouraged me to transform my interest in collapse, and my dissatisfaction with the state of its study, into this book.
+        - paragraph [ref=e376] [cursor=pointer]: Where I had in mind perhaps a few papers, she saw that only a longer treatment would suffice, and the work owes a great deal to her foresight.
+        - paragraph [ref=e377] [cursor=pointer]: It was in the course of many conversations with Bonnie that the ideas presented here reached their final form.
+        - paragraph [ref=e378] [cursor=pointer]: Both she and our son, Emmet, tolerated the disruption that such a work entails, for the nearly two years needed for research and writing, without wavering in their support.
+        - paragraph [ref=e379] [cursor=pointer]: Finally, Bonnie's sharp editorial eye helped smooth the first draft into a more readable document.
+        - paragraph [ref=e380] [cursor=pointer]: Thomas King has for several years been dissatisfied with the archaeological research done in the United States under the mandate of historic preservation.
+        - paragraph [ref=e381] [cursor=pointer]: To formulate a program of improvement, he organized a symposium for the 1982 Annual Meeting of the Society for American Archaeology on the subject of 'National Archaeological Research Topics,' and invited me to make a presentation.
+        - paragraph [ref=e382] [cursor=pointer]: The short paper that resulted was my first attempt to articulate what previously had been vague misgivings about the study of collapse.
+        - paragraph [ref=e383] [cursor=pointer]: What is presented in these pages is an outgrowth of that paper, and of Tom's encouragement to undertake it.
+        - paragraph [ref=e384] [cursor=pointer]: A number of colleagues with whom I corresponded expressed interest in the work, and responded readily to my requests for references and papers.
+        - paragraph [ref=e385] [cursor=pointer]: These were George Cowgill, T.
+        - paragraph [ref=e386] [cursor=pointer]: Patrick Culbert, Michael Parker-Pearson, John Pfeiffer, Robert Sharer, Stephen Whittington, Robert Wenke, and most especially, Norman Yoffee.
+        - paragraph [ref=e387] [cursor=pointer]: Emily Garber and Carol Raish gave generously of time and effort to help obtain bibliographic materials.
+        - paragraph [ref=e388] [cursor=pointer]: I am grateful to Larry Nordby of the U.
+        - paragraph [ref=e389] [cursor=pointer]: S.
+        - paragraph [ref=e390] [cursor=pointer]: National Park Service, and to various authors and publishers as noted in the text, who gave permission to reproduce illustrations.
+        - paragraph [ref=e391] [cursor=pointer]: Sherry Holtke capably prepared Fig.
+        - paragraph [ref=e392] [cursor=pointer]: 19, and Scott Shermer developed several computer-generated illustrations.
+        - paragraph [ref=e393] [cursor=pointer]: Several colleagues also, upon request, reviewed either the 1982 paper or drafts of the present work, and made welcome suggestions.
+        - paragraph [ref=e394] [cursor=pointer]: These include Arthur Ireland, Christopher Peebles, Michael Schiffer, H.
+        - paragraph [ref=e395] [cursor=pointer]: Wolcott Toll, Henry Wright and Norman Yoffee.
+        - paragraph [ref=e396] [cursor=pointer]: I must especially mention Colin Renfrew and Jeremy Sabloff, series editors for the New Studies in Archaeology, whose interest in the work brought it to its present form, and whose comments led to material improvements.
+        - paragraph [ref=e397] [cursor=pointer]: Peter Richards, archaeology editor for Cambridge University Press, and lain White, who meticulously prepared the typescript for printing, deserve special thanks.
+        - paragraph [ref=e398] [cursor=pointer]: To all - family, colleagues, and editors - I offer my great appreciation for your help.
+        - paragraph [ref=e399] [cursor=pointer]: Joseph A. Tainter
+        - paragraph [ref=e400] [cursor=pointer]: The Collapse of Complex Societies (New Studies in Archaeology) by Joseph A. Tainter
+        - paragraph [ref=e401] [cursor=pointer]: "1"
+        - paragraph [ref=e402] [cursor=pointer]: Introduction to collapse
+        - paragraph [ref=e403] [cursor=pointer]: Much of the central floodplain of the ancient Euphrates now lies beyond the frontiers of cultivation, a region of empty desolation.
+        - paragraph [ref=e404] [cursor=pointer]: Tangled dunes, long disused canal levees, and the rubble-strewn mounds of former settlement contribute only low, featureless relief.
+        - paragraph [ref=e405] [cursor=pointer]: Vegetation is sparse, and in many areas it is almost wholly absent.
+        - paragraph [ref=e406] [cursor=pointer]: Rough, wind-eroded land surfaces and periodically flooded depressions form an irregular patchwork in all directions, discouraging any but the most committed traveler.
+        - paragraph [ref=e407] [cursor=pointer]: To suggest the immediate impact of human life there is only a rare tent...
+        - paragraph [ref=e408] [cursor=pointer]: Yet at one time here lay the core, the heartland, the oldest urban, literate civilization in the world.
+        - paragraph [ref=e409] [cursor=pointer]: Robert McC. Adams
+        - paragraph [ref=e410] [cursor=pointer]: "(1981: xvii)"
+        - paragraph [ref=e411] [cursor=pointer]: We ascended by large stone steps, in some places perfect, and in others thrown down by trees which had grown up between the crevices...
+        - paragraph [ref=e412] [cursor=pointer]: we followed our guide...
+        - paragraph [ref=e413] [cursor=pointer]: through the thick forest, among half-buried fragments, to fourteen monuments...
+        - paragraph [ref=e414] [cursor=pointer]: one displaced from its pedestal by enormous roots; another locked in the close embrace of branches of trees, and almost lifted out of the earth; another hurled to the ground, and bound down by huge vines and creepers; and one standing, with its altar before it, in a grove of trees which grew around it, seeming to shade and shroud it as a sacred thing...
+        - paragraph [ref=e415] [cursor=pointer]: The only sounds that disturbed the quiet of this buried city were the noise of monkeys...
+        - paragraph [ref=e416] [cursor=pointer]: John L. Stephens
+        - paragraph [ref=e417] [cursor=pointer]: "(1850: 102-3)"
+        - paragraph [ref=e418] [cursor=pointer]: "The image of lost civilizations is compelling: cities buried by drifting sands or tangled jungle, ruin and desolation where once there were people and abundance."
+        - paragraph [ref=e419] [cursor=pointer]: Surely few persons can read such descriptions and not sense awe and mystery.
+        - paragraph [ref=e420] [cursor=pointer]: Invariably we are spellbound, and want to know more.
+        - paragraph [ref=e421] [cursor=pointer]: Who were these people and, particularly, what happened to them?
+        - paragraph [ref=e422] [cursor=pointer]: How could flourishing civilizations have existed in what are now such devastated circumstances?
+        - paragraph [ref=e423] [cursor=pointer]: Did the people degrade their environment, did the climate change, or did civil conflict lead to collapse?
+        - paragraph [ref=e424] [cursor=pointer]: Did foreign invaders put these cities to an end?
+        - paragraph [ref=e425] [cursor=pointer]: Or is there some mysterious, internal dynamic to the rise and fall of civilizations?
+        - paragraph [ref=e426] [cursor=pointer]: Some of us are so fascinated by these questions that we devote our lives to studying them.
+        - paragraph [ref=e427] [cursor=pointer]: Most people encounter the dilemma of fallen empires and devastated cities in casual reading, or in a school course.
+        - paragraph [ref=e428] [cursor=pointer]: The image is troublesome to all, not only for the vast human endeavors that have mysteriously failed, but also for the enduring implication of these failures.
+        - paragraph [ref=e429] [cursor=pointer]: "The implication is clear: civilizations are fragile, impermanent things."
+        - paragraph [ref=e430] [cursor=pointer]: This fact inevitably captures our attention, and however we might wish otherwise, prompts disturbing questions.
+        - paragraph [ref=e431] [cursor=pointer]: Are modern societies similarly vulnerable?
+        - paragraph [ref=e432] [cursor=pointer]: "Is it likely, as Ortega asserts, that 'The possibility that a civilization should die doubles our own mortality' (quoted in Mazzarino [1966: 171])?"
+        - paragraph [ref=e433] [cursor=pointer]: Many of course prefer to believe that modern civilization, with its scientific and technological capacity, its energy resources, and its knowledge of economics and history, should be able to survive whatever crises ancient and simpler societies found insurmountable.
+        - paragraph [ref=e434] [cursor=pointer]: But how firm is this belief?
+        - paragraph [ref=e435] [cursor=pointer]: "Many persons who have some awareness of history no doubt harbor the suspicion, as Wilamowitz voiced regarding the Roman Empire, that 'Civilization can die, because it has already died once' (quoted in Mazzarino [1966: 174])."
+        - paragraph [ref=e436] [cursor=pointer]: "To some historians of the early twentieth century the twilight of Rome seemed almost a page of contemporary history (Mazzarino 1966: 173; Casson 1937: 183)."
+        - paragraph [ref=e437] [cursor=pointer]: This analogy has become deeply rooted in popular thought, and certainly persists today.
+        - paragraph [ref=e438] [cursor=pointer]: It is even reflected in the writings of some modern competent authorities (e.g., Isaac 1971).
+        - paragraph [ref=e439] [cursor=pointer]: The irresistible allusion to ancient Rome has dominated the thinking of large numbers of people for one and one-half millennia (Mazzarino 1966).
+        - paragraph [ref=e440] [cursor=pointer]: Were it not for this well-documented example of a powerful empire disintegrating, to which every Western schoolchild is exposed, the fear of collapse would certainly be less widespread.
+        - paragraph [ref=e441] [cursor=pointer]: As it is, those who are concerned about the future of industrial society, about its economic direction, its ecological basis, and its political superstructure, have an irrefutable illustration of the contention that civilizations, even powerful ones, are vulnerable.
+        - paragraph [ref=e442] [cursor=pointer]: Why study collapse?
+        - paragraph [ref=e443] [cursor=pointer]: "Many social scientists might agree with Isaac: 'It goes without saying that the collapse of ancient civilization is the most outstanding event in its history...'"
+        - paragraph [ref=e444] [cursor=pointer]: "(1971: xi)."
+        - paragraph [ref=e445] [cursor=pointer]: "Yet beyond scientific interest there is an additional reason: collapse is a topic of the most widespread concern and the highest social significance."
+        - paragraph [ref=e446] [cursor=pointer]: The reason why complex societies disintegrate is of vital importance to every member of one, and today that includes nearly the entire world population.
+        - paragraph [ref=e447] [cursor=pointer]: Whether or not collapse was the most outstanding event of ancient history, few would care for it to become the most significant event of the present era.
+        - paragraph [ref=e448] [cursor=pointer]: Even if one believes that modern societies are less vulnerable to collapse than ancient ones, the possibility that they may not be so remains troubling.
+        - paragraph [ref=e449] [cursor=pointer]: In the absence of a systematic, scientific treatment of collapse such concerns range untethered to any firm, reliable base.
+        - paragraph [ref=e450] [cursor=pointer]: Disintegration of the social order has been a recurrent concern in Western history, and has often been expressed in a religious idiom.
+        - paragraph [ref=e451] [cursor=pointer]: In the last few decades this concern has seemingly become rampant, and has achieved expression through a more secular form.
+        - paragraph [ref=e452] [cursor=pointer]: "A review of a recent exhibit of Mayan artifacts expressed popular thinking well:"
+        - paragraph [ref=e453] [cursor=pointer]: ...some of the fascination of the Maya.
+        - paragraph [ref=e454] [cursor=pointer]: ..may lie in the legendary 'collapse' of their culture several centuries before the Spanish conquest.
+        - paragraph [ref=e455] [cursor=pointer]: Every thoughtful person who ponders the bureaucratic and technological pressures on ordinary life today must wonder whether it is possible for a society to strangle on its own complexities...
+        - paragraph [ref=e456] [cursor=pointer]: Sensing that our own collective future is in jeopardy..
+        - paragraph [ref=e457] [cursor=pointer]: ".we are hungry for historical analysis to help us imagine the direction events might take (Baker 1986: 12)."
+        - paragraph [ref=e458] [cursor=pointer]: This concern crosses the social and intellectual spectrum, from the responsible scientists and business leaders who make up the Club of Rome, to the more extreme fringes of the 'survivalist' movement.
+        - paragraph [ref=e459] [cursor=pointer]: "In between one finds a variety of serious, well-meaning persons: environmentalists, no-growth advocates, nuclear-freeze proponents, and others."
+        - paragraph [ref=e460] [cursor=pointer]: All fear, for one reason or another, that industrial civilization is in danger.
+        - paragraph [ref=e461] [cursor=pointer]: Such fears are frequently based on historical analogy with past civilizations that have disappeared (and indeed it is sometimes suggested that we are about to go the way of the dinosaurs).
+        - paragraph [ref=e462] [cursor=pointer]: Contemporary thinkers foresee collapse from such catastrophes as nuclear war, resource depletion, economic decline, ecological crises, or sociopolitical disintegration (e.g., Meadows et al.
+        - paragraph [ref=e463] [cursor=pointer]: 1972; Catton 1980; Turco et al.
+        - paragraph [ref=e464] [cursor=pointer]: 1984).
+        - paragraph [ref=e465] [cursor=pointer]: Only recently have such fears become widespread.
+        - paragraph [ref=e466] [cursor=pointer]: "As Dawson has noted:"
+        - paragraph [ref=e467] [cursor=pointer]: "Of all the changes that the twentieth century has brought, none goes deeper than the disappearance of that unquestioning faith in the future and the absolute value of our civilization which was the dominant note of the nineteenth century (1956: 54)."
+        - paragraph [ref=e468] [cursor=pointer]: Although collapse has been of interest for as long as societies have proven vulnerable, it has been a difficult mystery for historians and social scientists.
+        - paragraph [ref=e469] [cursor=pointer]: Perhaps because of this, the development of political complexity has attracted more scholarly attention than collapse, its antithesis.
+        - paragraph [ref=e470] [cursor=pointer]: Human history as a whole has been characterized by a seemingly inexorable trend toward higher levels of complexity, specialization, and sociopolitical control, processing of greater quantities of energy and information, formation of ever larger settlements, and development of more complex and capable technologies.
+        - paragraph [ref=e471] [cursor=pointer]: This persistent aspect of our history has rightfully received an overwhelming amount of research, so that today we are beginning to understand how this came about.
+        - paragraph [ref=e472] [cursor=pointer]: Yet the instances when this almost universal trend has been disrupted by collapse have not received a corresponding level of attention.
+        - paragraph [ref=e473] [cursor=pointer]: To be sure, innumerable writers have produced myriad explanations of collapse; but even so, understanding disintegration has remained a distinctly minor concern in the social sciences.
+        - paragraph [ref=e474] [cursor=pointer]: Explanations of collapse have tended to be ad hoc, pertaining only to one or a few societies, so that a general understanding remains elusive.
+        - paragraph [ref=e475] [cursor=pointer]: At the same time, as will be shown, such theories have suffered in common from a number of conceptual and logical failings.
+        - paragraph [ref=e476] [cursor=pointer]: When this study was begun there was no reliable, universal explanation of collapse, no theory that would help us to understand most or all of its occurrences.
+        - paragraph [ref=e477] [cursor=pointer]: It was indeed this state of affairs that prompted the present undertaking.
+        - paragraph [ref=e478] [cursor=pointer]: The objective of this work then is to develop a general explanation of collapse, applicable in a variety of contexts, and with implications for current conditions.
+        - paragraph [ref=e479] [cursor=pointer]: This is a work of archaeology and history, but more basically of social theory.
+        - paragraph [ref=e480] [cursor=pointer]: The approach is to first introduce and exemplify collapse, and then in Chapter 2 to briefly examine the nature of complex societies.
+        - paragraph [ref=e481] [cursor=pointer]: Chapter 3 discusses and evaluates existing approaches to understanding collapse.
+        - paragraph [ref=e482] [cursor=pointer]: A general explanation is developed in Chapter 4, and evaluated by case studies in Chapter 5.
+        - paragraph [ref=e483] [cursor=pointer]: A concluding chapter further discusses the proposed explanation, synthesizes the work, and raises some implications for the contemporary scene.
+        - paragraph [ref=e484] [cursor=pointer]: What is collapse?
+        - paragraph [ref=e485] [cursor=pointer]: "`Collapse' is a broad term that can cover many kinds of processes."
+        - paragraph [ref=e486] [cursor=pointer]: It means different things to different people.
+        - paragraph [ref=e487] [cursor=pointer]: Some see collapse as a thing that could happen only to societies organized at the most complex level.
+        - paragraph [ref=e488] [cursor=pointer]: To them, the notion of tribal societies or village horticulturalists collapsing will seem odd.
+        - paragraph [ref=e489] [cursor=pointer]: Others view collapse in terms of economic disintegration, of which the predicted end of industrial society is the ultimate expression.
+        - paragraph [ref=e490] [cursor=pointer]: Still others question the very utility of the concept, pointing out that art styles and literary traditions often survive political decentralization.
+        - paragraph [ref=e491] [cursor=pointer]: Collapse, as viewed in the present work, is a political process.
+        - paragraph [ref=e492] [cursor=pointer]: It may, and often does, have consequences in such areas as economics, art, and literature, but it is fundamentally a matter of the sociopolitical sphere.
+        - paragraph [ref=e493] [cursor=pointer]: A society has collapsed when it displays a rapid, significant loss of an established level of sociopolitical complexity.
+        - paragraph [ref=e494] [cursor=pointer]: The term 'established level' is important.
+        - paragraph [ref=e495] [cursor=pointer]: To qualify as an instance of collapse a society must have been at, or developing toward, a level of complexity for more than one or two generations.
+        - paragraph [ref=e496] [cursor=pointer]: The demise of the Carolingian Empire, thus, is not a case of collapse - merely an unsuccessful attempt at empire building.
+        - paragraph [ref=e497] [cursor=pointer]: The collapse, in turn, must be rapid - taking no more than a few decades - and must entail a substantial loss of sociopolitical structure.
+        - paragraph [ref=e498] [cursor=pointer]: Losses that are less severe, or take longer to occur, are to be considered cases of weakness and decline.
+        - paragraph [ref=e499] [cursor=pointer]: "Collapse is manifest in such things as:"
+        - paragraph [ref=e500] [cursor=pointer]: a lower degree of stratification and social differentiation;
+        - paragraph [ref=e501] [cursor=pointer]: less economic and occupational specialization, of individuals, groups, and territories;
+        - paragraph [ref=e502] [cursor=pointer]: less centralized control; that is, less regulation and integration of diverse economic and political groups by elites;
+        - paragraph [ref=e503] [cursor=pointer]: less behavioral control and regimentation;
+        - paragraph [ref=e504] [cursor=pointer]: "less investment in the epiphenomena of complexity, those elements that define the concept of 'civilization': monumental architecture, artistic and literary achievements, and the like;"
+        - paragraph [ref=e505] [cursor=pointer]: less flow of information between individuals, between political and economic groups, and between a center and its periphery;
+        - paragraph [ref=e506] [cursor=pointer]: less sharing, trading, and redistribution of resources;
+        - paragraph [ref=e507] [cursor=pointer]: less overall coordination and organization of individuals and groups;
+        - paragraph [ref=e508] [cursor=pointer]: a smaller territory integrated within a single political unit.
+        - paragraph [ref=e509] [cursor=pointer]: Not all collapsing societies, to be sure, will be equally characterized by each item on this list, and the list is by no means complete.
+        - paragraph [ref=e510] [cursor=pointer]: Some societies that come under this definition have not possessed all of these features, and indeed one or two that will be introduced had few of them.
+        - paragraph [ref=e511] [cursor=pointer]: This list, however, provides a fairly concise description of what happened in most of the better known cases of collapse.
+        - paragraph [ref=e512] [cursor=pointer]: Collapse is a general process that is not restricted to any type of society or level of complexity.
+        - paragraph [ref=e513] [cursor=pointer]: Complexity in human societies, as discussed in greater detail in Chapter 2, is not an all-or-nothing proposition.
+        - paragraph [ref=e514] [cursor=pointer]: Societies vary in complexity along a continuous scale, and any society that increases or decreases in complexity does so along the progression of this scale.
+        - paragraph [ref=e515] [cursor=pointer]: There is no point on such a scale at which complexity can be said to emerge.
+        - paragraph [ref=e516] [cursor=pointer]: Hunting bands and tribal cultivators experience changes in complexity, either increases or decreases, just as surely as do large nations.
+        - paragraph [ref=e517] [cursor=pointer]: Collapse, involving as it does a sudden, major loss of an established level of complexity, must be considered relative to the size of the society in which it occurs.
+        - paragraph [ref=e518] [cursor=pointer]: Simple societies can lose an established level of complexity just as do great empires.
+        - paragraph [ref=e519] [cursor=pointer]: Sedentary horticulturalists may become mobile foragers, and lose the sociopolitical trappings of village life.
+        - paragraph [ref=e520] [cursor=pointer]: A region organized under central chiefly administration may lose this hierarchical umbrella and revert to independent, feuding villages.
+        - paragraph [ref=e521] [cursor=pointer]: A group of foragers may be so distressed by environmental deterioration that sharing and societal organization are largely abandoned.
+        - paragraph [ref=e522] [cursor=pointer]: These are cases of collapse, no less so than the end of Rome, and no less significant for their respective populations.
+        - paragraph [ref=e523] [cursor=pointer]: To the extent, moreover, that the collapses of simpler societies can be understood by general principles, they are no less illuminating than the fall of nations and empires.
+        - paragraph [ref=e524] [cursor=pointer]: Any explanation of collapse that purports to have general potential should help us to understand the full spectrum of its manifestations, from the simplest to the most complex.
+        - paragraph [ref=e525] [cursor=pointer]: This, indeed, is one of the central points and goals of the work.
+        - paragraph [ref=e526] [cursor=pointer]: These points made, it should be cautioned that in fact defining collapse is no easy matter.
+        - paragraph [ref=e527] [cursor=pointer]: The present discussion may serve to introduce the orientation, but the definition will have to be added to as the work progresses.
+        - paragraph [ref=e528] [cursor=pointer]: Collapse in history
+        - paragraph [ref=e529] [cursor=pointer]: The fall of the Roman Empire is, in the West, the most widely known instance of collapse, the one which comes most readily to popular thought.
+        - paragraph [ref=e530] [cursor=pointer]: Yet it is only one case, if a particularly dramatic one, of a fairly common process.
+        - paragraph [ref=e531] [cursor=pointer]: Collapse is a recurrent feature of human societies, and indeed it is this fact that makes it worthwhile to explore a general explanation.
+        - paragraph [ref=e532] [cursor=pointer]: The following pages give a brief overview of some cases of collapse.
+        - paragraph [ref=e533] [cursor=pointer]: This overview is intended to illustrate common elements to the phenomenon, and also to portray the range of societies that are susceptible.
+        - paragraph [ref=e534] [cursor=pointer]: In accord with the discussion of the previous section, the reader will find in the following pages a spectrum of societies from simple to powerful and complex.
+        - paragraph [ref=e535] [cursor=pointer]: The discussion is arranged by major geographical areas, and then chronologically.
+        - paragraph [ref=e536] [cursor=pointer]: The picture that emerges is of a process recurrent in history and prehistory, and global in its distribution.
+        - paragraph [ref=e537] [cursor=pointer]: This is by no means a complete list.
+        - paragraph [ref=e538] [cursor=pointer]: Further cases were no longer sought when it seemed that redundancy would result.
+        - paragraph [ref=e539] [cursor=pointer]: There have been, in addition, no doubt many hundreds or thousands of collapses among centralized societies that were not organized at a sufficient level of complexity to produce written records.
+        - paragraph [ref=e540] [cursor=pointer]: Some of these are known archaeologically, but probably only a small minority.
+        - paragraph [ref=e541] [cursor=pointer]: To the extent that collapse is a general process, such cases are fully pertinent to understanding it, and should be studied whenever found.
+        - paragraph [ref=e542] [cursor=pointer]: The Western Chou Empire
+        - paragraph [ref=e543] [cursor=pointer]: The Chou dynasty succeeded the corrupt Shang in the mastery of China by 1122 B.C.
+        - paragraph [ref=e544] [cursor=pointer]: A reign was subsequently established that later Chinese looked back on as a golden age.
+        - paragraph [ref=e545] [cursor=pointer]: The Chou ruled through a feudal system, but within a few centuries their control began to slip.
+        - paragraph [ref=e546] [cursor=pointer]: The royal house began to lose power as early as 934 B.C.
+        - paragraph [ref=e547] [cursor=pointer]: Barbarian invasions increased in frequency through the ninth and eighth centuries, and regional lords began to ignore their obligations to the Chou court.
+        - paragraph [ref=e548] [cursor=pointer]: In 771 B.C.
+        - paragraph [ref=e549] [cursor=pointer]: the last Western Chou ruler was killed in battle and the capital city, Hao, overrun and sacked by northerners.
+        - paragraph [ref=e550] [cursor=pointer]: Following this disaster, the Chou capital was moved east to Loyang, where the Eastern Chou dynasty resided from 770 to 256 B.C.
+        - paragraph [ref=e551] [cursor=pointer]: "The Eastern Chou, however, were powerless figureheads: Chinese unity effectively collapsed with the Western Chou."
+        - paragraph [ref=e552] [cursor=pointer]: Through the Spring and Autumn (770-464 B.C.)
+        - paragraph [ref=e553] [cursor=pointer]: and Warring States (463-222 B.C.)
+        - paragraph [ref=e554] [cursor=pointer]: periods, disintegration and endless conflict were the norms.
+        - paragraph [ref=e555] [cursor=pointer]: Powerful regional states emerged which contended endlessly for hegemony, forging and breaking alliances, engaging in wars, and manipulating barbarian groups.
+        - paragraph [ref=e556] [cursor=pointer]: Through time, as conflict intensified, smaller states were continuously absorbed.
+        - paragraph [ref=e557] [cursor=pointer]: The contending states became fewer but larger, until finally the Ch'in reunified China in 221 B.C.
+        - paragraph [ref=e558] [cursor=pointer]: The period of disintegration and conflict produced some of China's major philosophical, literary, and scientific achievements.
+        - paragraph [ref=e559] [cursor=pointer]: Confucius wrote during, and in reaction to, this era.
+        - paragraph [ref=e560] [cursor=pointer]: Contending schools of philosophy (the 'Hundred Schools') proliferated and flourished between 500 and 250 B.C.
+        - paragraph [ref=e561] [cursor=pointer]: In addition to many technical and economic developments, Chinese political thought in its classical form emerged during the worst of the breakdown (Creel 1953, 1970; Needham 1965; Levenson and Schurman 1969; Hucker 1975).
+        - paragraph [ref=e562] [cursor=pointer]: The Harappan Civilization
+        - paragraph [ref=e563] [cursor=pointer]: The Harappan, or Indus Valley, Civilization existed in northwestern India perhaps as early as 2400 B.C.
+        - paragraph [ref=e564] [cursor=pointer]: It was apparently dominated by two major cities, Mohenjo-Daro in the central Indus Valley, and Harappa upstream.
+        - paragraph [ref=e565] [cursor=pointer]: "Both were established according to similar designs: a fortified citadel on the western side, with civic and religious buildings, and a lower urban zone, with gridded, standardized streets, and systems of drainage and refuse disposal."
+        - paragraph [ref=e566] [cursor=pointer]: There were many smaller centers, some with the same basic layout.
+        - paragraph [ref=e567] [cursor=pointer]: Seaports controlled the coastline above and below the Indus.
+        - paragraph [ref=e568] [cursor=pointer]: This literate civilization shows a striking degree of uniformity through time and space in pottery, ornaments, bricks, weapons, implements of bronze and stone, seals, and civic planning.
+        - paragraph [ref=e569] [cursor=pointer]: Both major sites had massive granaries.
+        - paragraph [ref=e570] [cursor=pointer]: The impression is of a highly centralized society in which the state controlled many facets of daily living - milling grain, manufacturing bricks and mass producing pottery, obtaining firewood, and building residences.
+        - paragraph [ref=e571] [cursor=pointer]: Yet by roughly 1750 B.C.
+        - paragraph [ref=e572] [cursor=pointer]: this regional uniformity and centralized control had broken down.
+        - paragraph [ref=e573] [cursor=pointer]: In urban centers the standardization of street frontages declined, brickwork was less careful, bricks from older buildings were reused in new, expedient ones, and older buildings were subdivided.
+        - paragraph [ref=e574] [cursor=pointer]: Pottery kilns came for the first time to be built within city walls.
+        - paragraph [ref=e575] [cursor=pointer]: Expressive art became simpler.
+        - paragraph [ref=e576] [cursor=pointer]: Hoards of jewelry were stashed away.
+        - paragraph [ref=e577] [cursor=pointer]: Groups of unburied corpses were left lying in the streets.
+        - paragraph [ref=e578] [cursor=pointer]: At some centers, the Harappan occupation was followed by people who lived among the ruins in flimsy huts, seemingly after the complete breakdown of civil authority.
+        - paragraph [ref=e579] [cursor=pointer]: Eventually these, too, passed into history (Piggott 1950; Raikes 1964; Dales 1966; Thapar 1966; Wheeler 1966, 1968; Allchin and Allchin 1968; Gupta 1982).
+        - paragraph [ref=e580] [cursor=pointer]: Mesopotamia
+        - paragraph [ref=e581] [cursor=pointer]: Mesopotamia is characteristically seen as the heartland, the center of origin of civilization and urban society.
+        - paragraph [ref=e582] [cursor=pointer]: It displays a history of political rises and declines that furnishes many examples of collapse.
+        - paragraph [ref=e583] [cursor=pointer]: From the competing city-states of the early third millennium B.C., Sargon of Akkad developed the first Mesopotamian empire (ca.
+        - paragraph [ref=e584] [cursor=pointer]: 2350-2150 B.C.).
+        - paragraph [ref=e585] [cursor=pointer]: Its fall some 200 years following establishment was presaged by a series of rebellions in the subject city-states.
+        - paragraph [ref=e586] [cursor=pointer]: A period of decentralization followed in southern Mesopotamia.
+        - paragraph [ref=e587] [cursor=pointer]: The next period of regional hegemony was established by the Third Dynasty of Ur (ca.
+        - paragraph [ref=e588] [cursor=pointer]: 2100-2000 B.C.), which set up a vast regional bureaucracy to collect taxes and tribute.
+        - paragraph [ref=e589] [cursor=pointer]: The Third Dynasty of Ur encouraged expansion of the irrigation system, and growth of population and settlement.
+        - paragraph [ref=e590] [cursor=pointer]: This attempt to maximize economic and political power led to a rapid collapse, with disastrous consequences for southern Mesopotamia.
+        - paragraph [ref=e591] [cursor=pointer]: Over the next millennium or so there was a 40 percent reduction in the number of settlements, and a 77 percent reduction in settled area.
+        - paragraph [ref=e592] [cursor=pointer]: Political power shifted to the north, to Babylon.
+        - paragraph [ref=e593] [cursor=pointer]: The empire established by Hammurabi (ca.
+        - paragraph [ref=e594] [cursor=pointer]: 1792-1750 B.C.)
+        - paragraph [ref=e595] [cursor=pointer]: did not survive the death of his son, Samsuiluna (died ca.
+        - paragraph [ref=e596] [cursor=pointer]: 1712 B.C.).
+        - paragraph [ref=e597] [cursor=pointer]: Four succeeding kings ruled a greatly reduced realm, until the dynasty was terminated by the Hittites.
+        - paragraph [ref=e598] [cursor=pointer]: Partly coterminously, the Assyrians in the period between 1920 and 1780 B.C.
+        - paragraph [ref=e599] [cursor=pointer]: established widespread trade routes, and then collapsed.
+        - paragraph [ref=e600] [cursor=pointer]: The Assyrians enjoyed a political resurgence in the 14th century B.C., and then again from the ninth to the seventh centuries.
+        - paragraph [ref=e601] [cursor=pointer]: In this latter era they held a vast empire over much of the Near East, only to lose most of these dependencies and suffer defeat by the Medes in 614 B.C.
+        - paragraph [ref=e602] [cursor=pointer]: Assyrian social and political institutions disappeared thereafter.
+        - paragraph [ref=e603] [cursor=pointer]: After a brief resurgence by Babylon, brought to an end by Cyrus the Great, Mesopotamia was incorporated into successive Near Eastern empires of varying size and durability - Achaemenian, Seleucid, Parthian, Sassanian, and Islamic.
+        - paragraph [ref=e604] [cursor=pointer]: There was an irregular but largely sustained increase in the scale and complexity of the agricultural regime, in population density, and in city building.
+        - paragraph [ref=e605] [cursor=pointer]: Sometime in the seventh through tenth centuries A.D., however, there was a major collapse in the Mesopotamian alluvium.
+        - paragraph [ref=e606] [cursor=pointer]: By the eleventh or twelfth centuries A.D.
+        - paragraph [ref=e607] [cursor=pointer]: the total occupied area had shrunk to only about six percent of its level 500 years earlier.
+        - paragraph [ref=e608] [cursor=pointer]: Population dropped to the lowest point in five millennia.
+        - paragraph [ref=e609] [cursor=pointer]: State resources declined precipitously.
+        - paragraph [ref=e610] [cursor=pointer]: In many strategic and formerly prosperous areas, there were tax revenue losses of 90 percent or more in less than a single lifetime.
+        - paragraph [ref=e611] [cursor=pointer]: People rebelled and the countryside became ungovernable.
+        - paragraph [ref=e612] [cursor=pointer]: By the early tenth century irrigation weirs were nearly all confined to the vicinity of Baghdad.
+        - paragraph [ref=e613] [cursor=pointer]: As described in the quote that heads this chapter, the basis for urban life in perhaps 10,000 square kilometers of the Mesopotamian heartland was eliminated for centuries.
+        - paragraph [ref=e614] [cursor=pointer]: Until the modern era the region was claimed primarily by nomads (R.
+        - paragraph [ref=e615] [cursor=pointer]: McC.
+        - paragraph [ref=e616] [cursor=pointer]: Adams 1978, 1981; Jacobsen and Adams 1958; Waines 1977; Yoffee 1979, 1982).
+        - paragraph [ref=e617] [cursor=pointer]: The Egyptian Old Kingdom
+        - paragraph [ref=e618] [cursor=pointer]: The unification of Upper and Lower Egypt is usually traced to the First Dynasty, ca.
+        - paragraph [ref=e619] [cursor=pointer]: 3100 B.C.
+        - paragraph [ref=e620] [cursor=pointer]: This event has always been regarded as a milestone in political history.
+        - paragraph [ref=e621] [cursor=pointer]: The Egyptian Old Kingdom was a highly centralized political system headed by a leader with qualified supernatural authority.
+        - paragraph [ref=e622] [cursor=pointer]: The government was based on a literate, hierarchically organized bureaucracy.
+        - paragraph [ref=e623] [cursor=pointer]: It enjoyed substantial permanent income from the crown lands, commanded large labor pools, and virtually monopolized some vital materials and imported luxuries.
+        - paragraph [ref=e624] [cursor=pointer]: This government in turn enhanced productive capabilities, provided administration and outward expansion, and maintained supernatural relations.
+        - paragraph [ref=e625] [cursor=pointer]: As the Old Kingdom developed, however, it became difficult to ensure effective control of the provinces, which began to show strong feudal characteristics.
+        - paragraph [ref=e626] [cursor=pointer]: The political authority of the ruler seems to have declined, while the power of provincial officials and the wealth of the administrative nobility rose.
+        - paragraph [ref=e627] [cursor=pointer]: Crown lands were subdivided.
+        - paragraph [ref=e628] [cursor=pointer]: The establishment of tax-exempt funerary endowments diminished royal resources.
+        - paragraph [ref=e629] [cursor=pointer]: And yet these developments coincided with immense construction at royal expense.
+        - paragraph [ref=e630] [cursor=pointer]: The last ruler of the Sixth Dynasty, Phiops II, built a magnificent funerary monument even as the declining power of the royal family was felt sharply at the close of his reign.
+        - paragraph [ref=e631] [cursor=pointer]: With the end of the Sixth Dynasty in 2181 B.C.
+        - paragraph [ref=e632] [cursor=pointer]: the Old Kingdom collapsed.
+        - paragraph [ref=e633] [cursor=pointer]: Beginning with the Seventh Dynasty there was a period of strife, one of the darkest episodes in Egyptian history.
+        - paragraph [ref=e634] [cursor=pointer]: In the First Intermediate Period national centralization collapsed, and was replaced by a number of independent and semi-independent polities.
+        - paragraph [ref=e635] [cursor=pointer]: There were many rulers and generally short reigns.
+        - paragraph [ref=e636] [cursor=pointer]: Royal tombs became less elaborate.
+        - paragraph [ref=e637] [cursor=pointer]: Contemporary records are few, but those that exist indicate a breakdown of order.
+        - paragraph [ref=e638] [cursor=pointer]: There was strife between districts; looting, killing, revolutions, and social anarchy; and incursions into the Delta.
+        - paragraph [ref=e639] [cursor=pointer]: Tombs were plundered, royal women were clothed in rags, and officials were insulted; peasants carried shields as they tilled their fields.
+        - paragraph [ref=e640] [cursor=pointer]: Foreign trade dropped, famines recurred, and life expectancy declined.
+        - paragraph [ref=e641] [cursor=pointer]: With the Eleventh Dynasty, beginning in 2131 B.C., order and unity began to be restored.
+        - paragraph [ref=e642] [cursor=pointer]: The Middle Kingdom was established.
+        - paragraph [ref=e643] [cursor=pointer]: Yet local and regional independence was not fully suppressed until ca.
+        - paragraph [ref=e644] [cursor=pointer]: 1870 B.C.
+        - paragraph [ref=e645] [cursor=pointer]: (Smith 1971; Bell 1971; O'Connor 1974).
+        - paragraph [ref=e646] [cursor=pointer]: The Hittite Empire
+        - paragraph [ref=e647] [cursor=pointer]: The Hittites are a little known people of Anatolia, whose political history begins about 1792 B.C.
+        - paragraph [ref=e648] [cursor=pointer]: with the conquests of Anitta.
+        - paragraph [ref=e649] [cursor=pointer]: Throughout the succeeding centuries Hittite fortunes rose and fell.
+        - paragraph [ref=e650] [cursor=pointer]: Episodes of conquest and expansion were interspersed with periods of defense and disintegration.
+        - paragraph [ref=e651] [cursor=pointer]: During the latter times Hittite armies suffered reverses, provinces were lost, and the Kaska tribes raided and burned the cities of the homeland.
+        - paragraph [ref=e652] [cursor=pointer]: Even the Hittite capital, Khattusha, fell to the Kaska.
+        - paragraph [ref=e653] [cursor=pointer]: The great ruler Shuppiluliumash restored the Hittite position after his accession to the throne ca.
+        - paragraph [ref=e654] [cursor=pointer]: 1380 B.C.
+        - paragraph [ref=e655] [cursor=pointer]: In this and succeeding reigns the empire was firmly established in Anatolia and Syria.
+        - paragraph [ref=e656] [cursor=pointer]: In Syria the Hittites contested successfully for domination with Egypt, concluding a treaty with Rameses in 1284 B.C.
+        - paragraph [ref=e657] [cursor=pointer]: In the early thirteenth century B.C.
+        - paragraph [ref=e658] [cursor=pointer]: the Hittites were at the height of their power.
+        - paragraph [ref=e659] [cursor=pointer]: Their empire included most of Anatolia, Syria, and Cyprus.
+        - paragraph [ref=e660] [cursor=pointer]: The Hittites and the Egyptians were the two major powers in the region.
+        - paragraph [ref=e661] [cursor=pointer]: Yet the resources of this empire were strained.
+        - paragraph [ref=e662] [cursor=pointer]: Although relations with Egypt remained peaceful, the Hittites encountered troubles in nearly all directions, including the Assyrians to the southeast, the Kaska tribes to the east, and little known peoples in western Asia Minor and Cyprus.
+        - paragraph [ref=e663] [cursor=pointer]: Toward the end of the thirteenth century B.C.
+        - paragraph [ref=e664] [cursor=pointer]: their written records decline and finally cease altogether.
+        - paragraph [ref=e665] [cursor=pointer]: As the Hittite Empire collapsed a catastrophe of major magnitude but uncertain form overtook the region.
+        - paragraph [ref=e666] [cursor=pointer]: Excavated sites across Anatolia and Syria are consistently found to have burned about this time.
+        - paragraph [ref=e667] [cursor=pointer]: Hittite Civilization collapsed with the Empire.
+        - paragraph [ref=e668] [cursor=pointer]: The life of the central Anatolian Plateau, after about 1204 B.C., was disrupted for a century or more.
+        - paragraph [ref=e669] [cursor=pointer]: The area ceased to sustain urban settlements, and seems to have been thinly populated or used by nomads.
+        - paragraph [ref=e670] [cursor=pointer]: When a new empire emerged in the region between the twelfth and ninth centuries B.C.
+        - paragraph [ref=e671] [cursor=pointer]: it was Phrygian, and totally unrelated to that of the Hittites (Gurney 1973a, 1973b; Goetze 1975a, 1975b, 1975c; Hogarth 1926; Akurgal 1962; Barnett 1975b).
+        - paragraph [ref=e672] [cursor=pointer]: Minoan Civilization
+        - paragraph [ref=e673] [cursor=pointer]: The Minoan Civilization of Crete was the first in Europe.
+        - paragraph [ref=e674] [cursor=pointer]: The earliest palaces on the island were built soon after 2000 B.C.
+        - paragraph [ref=e675] [cursor=pointer]: They were thereafter repeatedly destroyed by earthquakes, and up to the final collapse were each time rebuilt more splendidly than before.
+        - paragraph [ref=e676] [cursor=pointer]: The Minoans possessed advanced knowledge of architecture, engineering, drainage, and hydraulics.
+        - paragraph [ref=e677] [cursor=pointer]: The palace of Knossos after 1700 B.C.
+        - paragraph [ref=e678] [cursor=pointer]: was more luxurious than the contemporary palaces of Egypt and the Near East.
+        - paragraph [ref=e679] [cursor=pointer]: It contained water-flushing latrines and a drainage system.
+        - paragraph [ref=e680] [cursor=pointer]: Rich frescoes adorned many walls.
+        - paragraph [ref=e681] [cursor=pointer]: There were craft production rooms for potters, weavers, metal workers, and lapidaries.
+        - paragraph [ref=e682] [cursor=pointer]: Palaces functioned as administrative centers, as warehouses, and as controlling nodes in the economy.
+        - paragraph [ref=e683] [cursor=pointer]: They contained large numbers of storerooms and storage vessels, Knossos alone having the capacity to hold more than 240,000 gallons of olive oil.
+        - paragraph [ref=e684] [cursor=pointer]: "There was administrative writing: records included the contents of armories, and indicate that goods were directed to the palace, and from there redistributed."
+        - paragraph [ref=e685] [cursor=pointer]: The Phaistos Disk is the oldest known example of printing, being made from movable type impressed into the clay.
+        - paragraph [ref=e686] [cursor=pointer]: The Minoans traded widely about the Mediterranean, particularly the eastern half.
+        - paragraph [ref=e687] [cursor=pointer]: They were most likely the major sea power of the time.
+        - paragraph [ref=e688] [cursor=pointer]: For most of Minoan history Crete seems to have been peaceful, for the palaces were unfortified and the scenes on the frescoes peaceful.
+        - paragraph [ref=e689] [cursor=pointer]: About 1500 B.C., however, a powerful earthquake caused widespread destruction, and thereafter there were major changes.
+        - paragraph [ref=e690] [cursor=pointer]: An earlier script, undeciphered but known as Linear A, was replaced by the Greek Linear B.
+        - paragraph [ref=e691] [cursor=pointer]: New methods of warfare were introduced, involving new kinds of arms and the horse.
+        - paragraph [ref=e692] [cursor=pointer]: The Mycenaean civilization of mainland Greece became a serious trade competitor.
+        - paragraph [ref=e693] [cursor=pointer]: Security declined as militarism increased.
+        - paragraph [ref=e694] [cursor=pointer]: The central and eastern parts of Crete, and possibly the whole island, may have come under the domination of Knossos.
+        - paragraph [ref=e695] [cursor=pointer]: Many palaces were devastated.
+        - paragraph [ref=e696] [cursor=pointer]: At places like Phaistos the local governor had to report agricultural and industrial production in detail to Knossos.
+        - paragraph [ref=e697] [cursor=pointer]: About 1380 B.C.
+        - paragraph [ref=e698] [cursor=pointer]: the Cretan palaces were finally destroyed; most were not rebuilt.
+        - paragraph [ref=e699] [cursor=pointer]: Minoan Civilization collapsed.
+        - paragraph [ref=e700] [cursor=pointer]: Political, economic, and administrative centralization declined.
+        - paragraph [ref=e701] [cursor=pointer]: A late, reduced administration at Knossos and some other sites finally ended about 1200 B.C.
+        - paragraph [ref=e702] [cursor=pointer]: (Matz 1973a, 1973b; Willetts 1977; Stubbings 1975b; Hooker 1976; Chadwick 1976).
+        - paragraph [ref=e703] [cursor=pointer]: Mycenaean Civilization
+        - paragraph [ref=e704] [cursor=pointer]: Mycenaean Civilization of Mainland Greece began to develop about 1650 B.C.
+        - paragraph [ref=e705] [cursor=pointer]: It reached the height of its power and prosperity after 1400 B.C., following the Minoan collapse.
+        - paragraph [ref=e706] [cursor=pointer]: Throughout central and southern Greece there developed a great deal of homogeneity in such things as art, architecture, and political organization.
+        - paragraph [ref=e707] [cursor=pointer]: This region was divided among a number of independent states which were each centered on a fortified palace/citadel complex headed by a single ruler.
+        - paragraph [ref=e708] [cursor=pointer]: Mycenae itself is the most famous of these, and was probably the most powerful.
+        - paragraph [ref=e709] [cursor=pointer]: Nobles made up the royal court and administration; major land holders (lesser nobles) administered estates in the countryside.
+        - paragraph [ref=e710] [cursor=pointer]: The Linear B tablets from Pylos indicate that this kingdom was divided into 16 administrative districts, each controlled by a governor and deputy.
+        - paragraph [ref=e711] [cursor=pointer]: Mycenaean palaces, like their Cretan counterparts, served as controlling economic centers at which goods and foodstuffs were stored and redistributed.
+        - paragraph [ref=e712] [cursor=pointer]: Much of the Linear B writing was devoted to the accounting needs created thereby.
+        - paragraph [ref=e713] [cursor=pointer]: The art and architecture of Mycenaean Civilization are widely known.
+        - paragraph [ref=e714] [cursor=pointer]: Major structures were built with massive, 'cyclopean' walls.
+        - paragraph [ref=e715] [cursor=pointer]: Palaces contained frescoes and bathrooms.
+        - paragraph [ref=e716] [cursor=pointer]: Gem cutting, metalwork, and pottery making were carried out by skilled artisans, as was inlay and work in ivory, glass, and faience.
+        - paragraph [ref=e717] [cursor=pointer]: Very often these artisans worked under the close supervision of a palace authority.
+        - paragraph [ref=e718] [cursor=pointer]: Roads, viaducts, and aqueducts were built.
+        - paragraph [ref=e719] [cursor=pointer]: Mycenaean wares were traded widely about the Mediterranean.
+        - paragraph [ref=e720] [cursor=pointer]: After about 1200 B.C.
+        - paragraph [ref=e721] [cursor=pointer]: disaster struck.
+        - paragraph [ref=e722] [cursor=pointer]: Palace after palace was destroyed.
+        - paragraph [ref=e723] [cursor=pointer]: There followed a period of more than 100 years of unstable conditions, repeated catastrophes afflicting many centers, and movement of population.
+        - paragraph [ref=e724] [cursor=pointer]: The uniform Mycenaean style of pottery gave way to local styles that were less well executed.
+        - paragraph [ref=e725] [cursor=pointer]: Metalwork became simpler.
+        - paragraph [ref=e726] [cursor=pointer]: Writing disappeared.
+        - paragraph [ref=e727] [cursor=pointer]: The craftsmen and artisans seem to have everywhere vanished.
+        - paragraph [ref=e728] [cursor=pointer]: Fortifications were built across the Isthmus of Corinth and at other places.
+        - paragraph [ref=e729] [cursor=pointer]: At Mycenae, Tiryns, and Athens water sources were developed within the citadel, cut through solid rock at great labor.
+        - paragraph [ref=e730] [cursor=pointer]: The rock-cut well at Athens, at least, seems to date to the time of the troubles.
+        - paragraph [ref=e731] [cursor=pointer]: Trade dropped off, and one author has suggested that the subsequent preference for iron implements was due to a sharp decline in copper and tin trade.
+        - paragraph [ref=e732] [cursor=pointer]: The number of occupied settlements dropped precipitously, from 320 in the thirteenth century B.C., to 130 in the twelfth, and 40 in the eleventh.
+        - paragraph [ref=e733] [cursor=pointer]: In some areas, such as the southwest Peloponnese, settlement increased at this time, and it seems that some of the people of the devastated regions may have migrated to less troubled areas.
+        - paragraph [ref=e734] [cursor=pointer]: Yet only a small part of the population loss can be accounted for in this way.
+        - paragraph [ref=e735] [cursor=pointer]: Estimates of the magnitude of overall population decline range from 75 to 90 percent.
+        - paragraph [ref=e736] [cursor=pointer]: Even areas that escaped devastation, such as Athens, suffered ultimate political collapse.
+        - paragraph [ref=e737] [cursor=pointer]: By 1050 B.C.
+        - paragraph [ref=e738] [cursor=pointer]: Mycenaean Civilization, despite brief local resurgences, was everywhere gone, and the Greek Dark Ages had begun (Stubbings 1975a, 1975b; Hooker 1976; Chadwick 1976; Desborough 1972, 1975; Betancourt 1976; Snodgrass 1971; Mylonas 1966; Taylour 1964).
+        - paragraph [ref=e739] [cursor=pointer]: The Western Roman Empire
+        - paragraph [ref=e740] [cursor=pointer]: The Roman Empire is the prime example of collapse; it is the one case above all others that inspires fascination to this day.
+        - paragraph [ref=e741] [cursor=pointer]: A vast empire with supreme military power and seemingly unlimited resources, its vulnerability has always carried the message that civilizations are fleeting things.
+        - paragraph [ref=e742] [cursor=pointer]: If the Roman Empire, dominant in its world, was subject to the impersonal forces of history, then it is no wonder that so many fear for the future of contemporary civilization.
+        - paragraph [ref=e743] [cursor=pointer]: Rome in the last few centuries B.C.
+        - paragraph [ref=e744] [cursor=pointer]: extended its domination first over Italy, then over the Mediterranean and its fringing lands, and finally into northwestern Europe.
+        - paragraph [ref=e745] [cursor=pointer]: A combination of stresses at home, dangers abroad, and irresistible opportunities made expansion a workable policy until Augustus (27 B.C.-14 A.D.)
+        - paragraph [ref=e746] [cursor=pointer]: effectively capped the size of the empire.
+        - paragraph [ref=e747] [cursor=pointer]: Additions thereafter tended to be of minor importance.
+        - paragraph [ref=e748] [cursor=pointer]: Despite Rome's spectacular rise, the Pax Romana did not endure long.
+        - paragraph [ref=e749] [cursor=pointer]: As early as the second century A.D.
+        - paragraph [ref=e750] [cursor=pointer]: barbarian invasions and plague at home combined to weaken the empire.
+        - paragraph [ref=e751] [cursor=pointer]: In the third century the empire nearly disintegrated, as civil wars and economic crises were added to more barbarian incursions and another outbreak of plague.
+        - paragraph [ref=e752] [cursor=pointer]: By the end of the third and the beginning of the fourth centuries, Diocletian and Constantine restored order for a time.
+        - paragraph [ref=e753] [cursor=pointer]: In 395 A.D.
+        - paragraph [ref=e754] [cursor=pointer]: the Roman Empire was permanently divided into western and eastern halves.
+        - paragraph [ref=e755] [cursor=pointer]: The West began a precipitous decline as provinces were increasingly lost to barbarians.
+        - paragraph [ref=e756] [cursor=pointer]: Finally, the last Roman Emperor of the West was deposed in 476 A.
+        - paragraph [ref=e757] [cursor=pointer]: D.
+        - paragraph [ref=e758] [cursor=pointer]: (Gibbon 1776-88; A.
+        - paragraph [ref=e759] [cursor=pointer]: Jones 1964, 1974).
+        - paragraph [ref=e760] [cursor=pointer]: The Olmec
+        - paragraph [ref=e761] [cursor=pointer]: Mexico's oldest civilization, the Olmec, developed in the humid swamps of coastal Veracruz toward the end of the first millennium B.C.
+        - paragraph [ref=e762] [cursor=pointer]: Olmec art influenced much of Mesoamerica, and many subsequent civilizations.
+        - paragraph [ref=e763] [cursor=pointer]: A succession of Olmec political centers emerged and disappeared in the jungle before the final collapse of Olmec Civilization.
+        - paragraph [ref=e764] [cursor=pointer]: This latter event is poorly dated, but seems to have occurred sometime in the last few centuries B.C.
+        - paragraph [ref=e765] [cursor=pointer]: The Olmec are best known from the archaeological remains of their political centers.
+        - paragraph [ref=e766] [cursor=pointer]: Perhaps the earliest of these was San Lorenzo Tenochtitlan (ca.
+        - paragraph [ref=e767] [cursor=pointer]: 1150-900 B.C.).
+        - paragraph [ref=e768] [cursor=pointer]: It consists in part of a major, formally arranged mound complex on a primarily artificial plateau.
+        - paragraph [ref=e769] [cursor=pointer]: Groups of long, low mounds flank courts, with large pyramids at one or both ends.
+        - paragraph [ref=e770] [cursor=pointer]: A stone aqueduct was built, and pools were lined with bentonite.
+        - paragraph [ref=e771] [cursor=pointer]: Exotic obsidians were imported from the Mesoamerican Highlands, and there were workshops for obsidian, brown flint, and serpentine.
+        - paragraph [ref=e772] [cursor=pointer]: Basalt monuments weighing more than 20 tons were brought from mountains some 50 kilometers away, and then lifted a vertical distance of 50 meters.
+        - paragraph [ref=e773] [cursor=pointer]: The site of La Venta (ca.
+        - paragraph [ref=e774] [cursor=pointer]: 800-400 B.C.)
+        - paragraph [ref=e775] [cursor=pointer]: may have been the political successor to San Lorenzo.
+        - paragraph [ref=e776] [cursor=pointer]: It too consists of mounds, platforms, and a pyramid.
+        - paragraph [ref=e777] [cursor=pointer]: Basalt columns weighing several tons in aggregate form a court that may never have been finished.
+        - paragraph [ref=e778] [cursor=pointer]: A large jaguar mask mosaic was built of serpentine and then buried.
+        - paragraph [ref=e779] [cursor=pointer]: After the demise of La Venta power may have shifted to Tres Zapotes, a site about which little is known.
+        - paragraph [ref=e780] [cursor=pointer]: At some Olmec sites, including San Lorenzo, there is evidence of violence at the end.
+        - paragraph [ref=e781] [cursor=pointer]: At a cost of great effort, basalt monuments were deliberately and systematically mutilated and destroyed, and subsequently buried (Drucker, Heizer, and Squier 1959; Coe 1981; Soustelle 1984).
+        - paragraph [ref=e782] [cursor=pointer]: The Lowland Classic Maya
+        - paragraph [ref=e783] [cursor=pointer]: One of the most famous of civilizations that have collapsed, the Maya of the southern Peten lowlands have left a legacy of temples, palaces, entire cities lying abandoned in the jungle.
+        - paragraph [ref=e784] [cursor=pointer]: This creates a powerful image.
+        - paragraph [ref=e785] [cursor=pointer]: No doubt the rain forest has much to do with this.
+        - paragraph [ref=e786] [cursor=pointer]: In popular thought, civilization is what stands between humanity and the chaos of nature.
+        - paragraph [ref=e787] [cursor=pointer]: The picture of cities that have been overcome by this chaos compels us to morbid fascination.
+        - paragraph [ref=e788] [cursor=pointer]: Elements of the complex of features called Mayan Civilization can be traced far into the first millennium B.C.
+        - paragraph [ref=e789] [cursor=pointer]: By the last few centuries B.C.
+        - paragraph [ref=e790] [cursor=pointer]: complex political organization and massive public architecture were emerging in many areas.
+        - paragraph [ref=e791] [cursor=pointer]: Throughout most of the first millennium A.
+        - paragraph [ref=e792] [cursor=pointer]: D.
+        - paragraph [ref=e793] [cursor=pointer]: Mayan cities grew in size and power.
+        - paragraph [ref=e794] [cursor=pointer]: Vast public works were undertaken, temples and palaces were built and decorated, the arts flourished, and the landscape was modified and claimed for planting.
+        - paragraph [ref=e795] [cursor=pointer]: These patterns intensified in the first half of the eighth century A.D.
+        - paragraph [ref=e796] [cursor=pointer]: Thereafter, with a swiftness that is shocking, the Mayan cities began one-by-one to collapse.
+        - paragraph [ref=e797] [cursor=pointer]: By about 900 A.D.
+        - paragraph [ref=e798] [cursor=pointer]: political and ceremonial activity on the previous level came to an end, although some remnant populations tried to carry on city life.
+        - paragraph [ref=e799] [cursor=pointer]: A major part of the southern Lowlands population was correspondingly lost, either to increased mortality, or to emigration from the newly deserted centers (J.
+        - paragraph [ref=e800] [cursor=pointer]: Thompson 1966; Culbert n.d.).
+        - paragraph [ref=e801] [cursor=pointer]: The Mesoamerican Highlands
+        - paragraph [ref=e802] [cursor=pointer]: A number of powerful states rose to regional prominence and subsequently collapsed in the prehistory of the Mesoamerican Highlands.
+        - paragraph [ref=e803] [cursor=pointer]: These include Teotihuacan in the northern part of the Valley of Mexico, Tula to the northwest of the Valley, and Monte Alban in Oaxaca.
+        - paragraph [ref=e804] [cursor=pointer]: Teotihuacan was the largest native city in the New World (and in 600 A.D.
+        - paragraph [ref=e805] [cursor=pointer]: the sixth largest in the world), with a peak population estimated at roughly 125,000.
+        - paragraph [ref=e806] [cursor=pointer]: Its central feature, the Street of the Dead, contains more than two kilometers of monumental construction.
+        - paragraph [ref=e807] [cursor=pointer]: There are more than 75 temples, including the Pyramids of the Sun and the Moon.
+        - paragraph [ref=e808] [cursor=pointer]: The former is the largest structure in pre-Columbian America, measuring 210 meters along each axis and 64 meters in height, with an estimated 1,000,000 cubic meters of material.
+        - paragraph [ref=e809] [cursor=pointer]: At the south end of this street was the Ciudadela, with twin palaces.
+        - paragraph [ref=e810] [cursor=pointer]: The city contained more than 2000 residential compounds, and hundreds of craft workshops in obsidian, pottery, jade, onyx, and shell.
+        - paragraph [ref=e811] [cursor=pointer]: There were hundreds of painted murals.
+        - paragraph [ref=e812] [cursor=pointer]: Networks of drains carried off rainwater.
+        - paragraph [ref=e813] [cursor=pointer]: Teotihuacan exerted a major influence throughout Mesoamerica.
+        - paragraph [ref=e814] [cursor=pointer]: The city leaders had the ability to mobilize labor at an unprecedented level.
+        - paragraph [ref=e815] [cursor=pointer]: The population and resources of the Valley of Mexico and beyond were economically reorganized.
+        - paragraph [ref=e816] [cursor=pointer]: Tens of thousands of people were relocated to Teotihuacan and its vicinity.
+        - paragraph [ref=e817] [cursor=pointer]: For 600 years or more, 85 to 90 percent of the population of the eastern and northern Valley of Mexico lived in or near the city.
+        - paragraph [ref=e818] [cursor=pointer]: Materials such as shell, mica, and cinnabar were imported from locations up to hundreds of kilometers away.
+        - paragraph [ref=e819] [cursor=pointer]: In the later phase of Teotihuacan's dominance military themes became prominent in art.
+        - paragraph [ref=e820] [cursor=pointer]: The flow of some goods into the city was reduced.
+        - paragraph [ref=e821] [cursor=pointer]: About 700 A.D.
+        - paragraph [ref=e822] [cursor=pointer]: Teotihuacan abruptly collapsed.
+        - paragraph [ref=e823] [cursor=pointer]: The politically and ceremonially symbolic center of the city, the Street of the Dead and its monuments, was systematically, ritually burned.
+        - paragraph [ref=e824] [cursor=pointer]: The population dropped within 50 years to no more than a fourth of its peak level.
+        - paragraph [ref=e825] [cursor=pointer]: This remnant population sealed off doorways, and partitioned large rooms into smaller ones.
+        - paragraph [ref=e826] [cursor=pointer]: A period of political fragmentation followed.
+        - paragraph [ref=e827] [cursor=pointer]: To the south, in Oaxaca, the center of Monte Alban was roughly coeval with Teotihuacan.
+        - paragraph [ref=e828] [cursor=pointer]: Monte Alban is located on a mountaintop.
+        - paragraph [ref=e829] [cursor=pointer]: A large section of this was leveled to build a center of monumental architecture and a community.
+        - paragraph [ref=e830] [cursor=pointer]: The population of perhaps 24,000 created pyramids, temples, ballcourts, stelae, and frescoes.
+        - paragraph [ref=e831] [cursor=pointer]: Defensive walls were built, and there was craft production in obsidian, shell, and other commodities.
+        - paragraph [ref=e832] [cursor=pointer]: Monte Alban experienced its major growth between 200 and 600 A.
+        - paragraph [ref=e833] [cursor=pointer]: D.
+        - paragraph [ref=e834] [cursor=pointer]: Sometime in the seventh century it collapsed as the political center of the Valley, and a series of autonomous petty states formed.
+        - paragraph [ref=e835] [cursor=pointer]: Within a few generations population at Monte Alban had declined to about 18 percent of its peak level, and more defensive walls were built.
+        - paragraph [ref=e836] [cursor=pointer]: Tula is generally regarded as the center of the semi-mythical Toltecs of Mesoamerican legend and history.
+        - paragraph [ref=e837] [cursor=pointer]: Tula was a city of about 35,000 people with pyramids, ballcourts, and palaces.
+        - paragraph [ref=e838] [cursor=pointer]: It reached its maximum size and importance between about 950 and 1150/1200 A.D.
+        - paragraph [ref=e839] [cursor=pointer]: Craft specialists included obsidian workers, lapidaries, metalworkers, wood carvers, feather workers, scribes, potters, spinners, and weavers.
+        - paragraph [ref=e840] [cursor=pointer]: Raw materials and finished goods were imported over long distances.
+        - paragraph [ref=e841] [cursor=pointer]: Tula as a state was overwhelmingly concerned with militarism.
+        - paragraph [ref=e842] [cursor=pointer]: Like Teotihuacan before, it attracted a major part of the Basin of Mexico population.
+        - paragraph [ref=e843] [cursor=pointer]: The end of Tula came between about 1150 and 1200 A.D., and may have been accompanied by burning of its ceremonial center (Blanton 1978; Blanton and Kowalewski 1981; Davies 1977; Diehl 1981; Katz 1972; Millon 1981; Parsons 1968; Pfeiffer 1975; Sanders 1981b; Sanders et al.
+        - paragraph [ref=e844] [cursor=pointer]: 1979; M.
+        - paragraph [ref=e845] [cursor=pointer]: Weaver 1972; Willey 1966).
+        - paragraph [ref=e846] [cursor=pointer]: Casas Grandes
+        - paragraph [ref=e847] [cursor=pointer]: In northern Mexico, far north of Mesoamerica and a few kilometers south of the present U.S./Mexico border, a major center was built which displays both Mesoamerican and Southwestern trappings of centralized political integration.
+        - paragraph [ref=e848] [cursor=pointer]: Beginning about 1060 A.D., there was a major construction program at the regionally unique center of Casas Grandes.
+        - paragraph [ref=e849] [cursor=pointer]: Various rehuildings took place until the site reached its zenith in the first half of the thirteenth century.
+        - paragraph [ref=e850] [cursor=pointer]: At this time it formed a massive, multistoried apartment complex surrounded by a ring of ceremonial structures that included geometric mounds, effigy mounds, ballcourts, open plazas, a marketplace, and other specialized edifices.
+        - paragraph [ref=e851] [cursor=pointer]: A city water system included a reservoir, underground stone-lined channels, and perhaps a sewage drain.
+        - paragraph [ref=e852] [cursor=pointer]: These structures were clearly built in an economic system in which labor and building materials were hierarchically controlled.
+        - paragraph [ref=e853] [cursor=pointer]: Casas Grandes was surrounded by several thousand satellite villages.
+        - paragraph [ref=e854] [cursor=pointer]: It was supported by a hydraulic agricultural system and by an extensive trade network.
+        - paragraph [ref=e855] [cursor=pointer]: The site contained millions of marine shells representing over 60 species, plus ricolite, turquoise, salt, selenite, copper ore, and elaborate ceramic vessels.
+        - paragraph [ref=e856] [cursor=pointer]: (These last have inspired a modern imitative renaissance that serves the tourist industry in the Southwestern United States.)
+        - paragraph [ref=e857] [cursor=pointer]: Occupational specialists worked in shell, copper, and other materials.
+        - paragraph [ref=e858] [cursor=pointer]: Sometime about 1340 A.D.
+        - paragraph [ref=e859] [cursor=pointer]: Casas Grandes political supremacy came to an end.
+        - paragraph [ref=e860] [cursor=pointer]: The site fell into disrepair.
+        - paragraph [ref=e861] [cursor=pointer]: Goods were still produced in large volume, but civil construction and public maintenance ceased.
+        - paragraph [ref=e862] [cursor=pointer]: Public and ceremonial areas were altered for living quarters.
+        - paragraph [ref=e863] [cursor=pointer]: The dead were buried in city water canals and plaza drains.
+        - paragraph [ref=e864] [cursor=pointer]: As walls crumbled, ramps were built to reach the still usable upper rooms.
+        - paragraph [ref=e865] [cursor=pointer]: Casas Grandes finally burned, at which time corpses were left unburied in public places, and altars were systematically destroyed (DiPeso 1974).
+        - paragraph [ref=e866] [cursor=pointer]: The Chacoans
+        - paragraph [ref=e867] [cursor=pointer]: The San Juan Basin is an arid, upland plateau located in northwestern New Mexico.
+        - paragraph [ref=e868] [cursor=pointer]: Across this inhospitable landscape are found the remains of once-populous towns and villages, now utterly ruined and filled with windblown sand.
+        - paragraph [ref=e869] [cursor=pointer]: The Chacoan towns, while not as widely known as the Mayan cities, present a similarly compelling picture.
+        - paragraph [ref=e870] [cursor=pointer]: Instead of cities overtaken by jungle, the Chacoan image is of lost towns filled with drifting sands, and frequented only by desert fauna or occasional Navajo herders.
+        - paragraph [ref=e871] [cursor=pointer]: The Chacoans were clearly masters of this desert, but somehow, disturbingly, they lost their mastery and the desert prevailed.
+        - paragraph [ref=e872] [cursor=pointer]: The Chacoans built a series of walled stone towns, called pueblos, across the San Juan Basin, and connected many of them by roads - roads that traverse the desert, ascend mesas, and cross ravines.
+        - paragraph [ref=e873] [cursor=pointer]: Exotic goods were imported from as far away as northern Mexico and the Pacific Ocean.
+        - paragraph [ref=e874] [cursor=pointer]: Trees to roof the towns were carried up to 50 kilometers across the desert to Chaco Canyon, the center of the Basin.
+        - paragraph [ref=e875] [cursor=pointer]: From as early as 500 A.D.
+        - paragraph [ref=e876] [cursor=pointer]: this regional society thrived.
+        - paragraph [ref=e877] [cursor=pointer]: Sometime after 1050 A.D., however, something went wrong.
+        - paragraph [ref=e878] [cursor=pointer]: Construction at towns ended, and some, then many, began to be abandoned.
+        - paragraph [ref=e879] [cursor=pointer]: Trade networks declined, and the towns were scavenged for building materials.
+        - paragraph [ref=e880] [cursor=pointer]: By 1300 A.D.
+        - paragraph [ref=e881] [cursor=pointer]: the last sedentary peoples had either left, or reverted to a simple, mobile lifestyle.
+        - paragraph [ref=e882] [cursor=pointer]: The Chacoans were not alone among prehistoric Southwesterners in this experience.
+        - paragraph [ref=e883] [cursor=pointer]: Peoples such as the Mimbres, the Jornada, and many others lived through their own episodes of collapse and abandonment of settled areas (Powers et al.
+        - paragraph [ref=e884] [cursor=pointer]: 1983; Schelberg 1982; Tainter and Gillio 1980; Jelinek 1967; Stuart and Gauthier 1981; Upham 1984; Minnis 1985; Kelley 1952; Reed 1944).
+        - paragraph [ref=e885] [cursor=pointer]: The Hohokam
+        - paragraph [ref=e886] [cursor=pointer]: The Hohokam were dwellers of the southern Arizona desert, who before their collapse in the fifteenth century A.D.
+        - paragraph [ref=e887] [cursor=pointer]: developed a complex cultural system characterized by extensive canal irrigation, public architecture, and an elaborate artifactual repertoire.
+        - paragraph [ref=e888] [cursor=pointer]: The Hohokam canal systems from the Salt and Gila rivers were large and sophisticated.
+        - paragraph [ref=e889] [cursor=pointer]: Modern canals around the city of Phoenix parallel this ancient pattern.
+        - paragraph [ref=e890] [cursor=pointer]: The population supported by this system invested in the construction of Mesoamerican-like symbols of political integration, such as ball courts and platform mounds.
+        - paragraph [ref=e891] [cursor=pointer]: After ca.
+        - paragraph [ref=e892] [cursor=pointer]: 1300 A.D.
+        - paragraph [ref=e893] [cursor=pointer]: the Hohokam began to develop a new form of architecture, characterized by 'Great Houses' of above-ground, multi-storied, poured adobe.
+        - paragraph [ref=e894] [cursor=pointer]: The Great House at Casa Grande was situated within a 26 hectare walled compound that included many residential structures.
+        - paragraph [ref=e895] [cursor=pointer]: The site of Los Muertos extended over several square kilometers.
+        - paragraph [ref=e896] [cursor=pointer]: The contemporary Pima of southern Arizona appear to be the lineal descendants of the Hohokam, but at the time of European contact lacked the political centralization that was characteristic of their ancestors (Haury 1976; Doyel 1981; McGuire 1982; Martin and Plog 1973).
+        - paragraph [ref=e897] [cursor=pointer]: The Eastern Woodlands
+        - paragraph [ref=e898] [cursor=pointer]: "There were at least two cases of region-wide sociopolitical collapse in the prehistory of the North American Eastern Woodlands: those of the Hopewell and Mississippian complexes."
+        - paragraph [ref=e899] [cursor=pointer]: The Hopewell complex developed in the last one or two centuries B.C.
+        - paragraph [ref=e900] [cursor=pointer]: and the first four centuries A.D.
+        - paragraph [ref=e901] [cursor=pointer]: in the Great Lakes-Riverine area of the Midwest.
+        - paragraph [ref=e902] [cursor=pointer]: Hopewell is distinguished by such features as construction of large earthworks requiring mobilization and coordination of labor, complex systems of mortuary ritual, elaborate artifact forms, and importation of exotic raw materials and goods from across the eastern two-thirds of what is now the United States.
+        - paragraph [ref=e903] [cursor=pointer]: Archaeological analysis reveals that Hopewell in many areas was characterized by complex, hierarchically organized societies in which segments of the economic system were controlled by elites of hereditary status.
+        - paragraph [ref=e904] [cursor=pointer]: By perhaps 400 A.D., however, the regional constellation of localized Hopewellian societies had everywhere collapsed.
+        - paragraph [ref=e905] [cursor=pointer]: The succeeding Late Woodland period (ca.
+        - paragraph [ref=e906] [cursor=pointer]: 400-900 A.D.)
+        - paragraph [ref=e907] [cursor=pointer]: is marked by a curtailment in trade, mortuary ceremonialism, public construction, and social complexity.
+        - paragraph [ref=e908] [cursor=pointer]: This hiatus was terminated by the Mississippian complex, with trade, ceremonialism, public architecture, and political centralization that exceeded by far the levels of Hopewell.
+        - paragraph [ref=e909] [cursor=pointer]: The most complex, and best known, Mississippian polity was centered at Cahokia.
+        - paragraph [ref=e910] [cursor=pointer]: Located at a confluence of major river systems in what is now East St Louis, Cahokia is the largest archaeological site north of Mesoamerica.
+        - paragraph [ref=e911] [cursor=pointer]: Cahokia contained some 120 mounds spread across 8 square kilometers, and with its outlying settlements had a population of perhaps 40,000 persons.
+        - paragraph [ref=e912] [cursor=pointer]: It contains Monks Mound, a 6 hectare, 600,000 cubic meter, 30 meter high earthwork that is the third largest pyramid in the Americas and one of the largest features ever built by prehistoric peoples.
+        - paragraph [ref=e913] [cursor=pointer]: A timber stockade was built around the central part of Cahokia, including Monks Mound.
+        - paragraph [ref=e914] [cursor=pointer]: Several circular astronomical observatories were built, considered by some to be wooden versions of England's famous Stonehenge (and misappropriately labeled 'woodhenges').
+        - paragraph [ref=e915] [cursor=pointer]: There is a planned pattern to Cahokia.
+        - paragraph [ref=e916] [cursor=pointer]: It was built by a stratified society in which there was centralized control of resources.
+        - paragraph [ref=e917] [cursor=pointer]: At least one member of the community elite was buried with human retainers and an array of imported luxury goods.
+        - paragraph [ref=e918] [cursor=pointer]: After 1250 A.D.
+        - paragraph [ref=e919] [cursor=pointer]: activity at Cahokia declined, some areas were converted from public to private use, and over time this center lost its regional supremacy.
+        - paragraph [ref=e920] [cursor=pointer]: Some Mississippian-like societies persisted in the southeastern U.S.
+        - paragraph [ref=e921] [cursor=pointer]: until European contact, but no native societies in the Midwest achieved a comparable level of complexity (D.
+        - paragraph [ref=e922] [cursor=pointer]: Cook 1981; Fowler 1975; Griffin 1967; Pfeiffer 1974; Struever 1964; Struever and Houart 1972; Tainter 1977, 1980, 1983; for another view see Braun [1977]).
+        - paragraph [ref=e923] [cursor=pointer]: The Huari and Tiahuanaco Empires
+        - paragraph [ref=e924] [cursor=pointer]: The period between 200 B.C.
+        - paragraph [ref=e925] [cursor=pointer]: and 600 or 700 A.D.
+        - paragraph [ref=e926] [cursor=pointer]: saw the development in Peru of extensive irrigation and agricultural terracing in conjunction with growth of population.
+        - paragraph [ref=e927] [cursor=pointer]: True cities were built that were the capitals of regional states.
+        - paragraph [ref=e928] [cursor=pointer]: These shared a common heritage of technology and ideology, but were divided by distinctive art styles, separate governments, and competition for food and land.
+        - paragraph [ref=e929] [cursor=pointer]: Out of this competitive situation two empires emerged, those of Huari in the north and Tiahuanaco in the south.
+        - paragraph [ref=e930] [cursor=pointer]: At its height the Huari Empire dominated almost the entire central Andes and much of the adjacent coastal lowlands.
+        - paragraph [ref=e931] [cursor=pointer]: This empire was controlled by the highland city of Huari.
+        - paragraph [ref=e932] [cursor=pointer]: In a short time, Huari-derived ceramic styles (themselves influenced by Tiahuanaco wares) appeared in many regions.
+        - paragraph [ref=e933] [cursor=pointer]: "Early Huari ceramics (like the later Inca wares) tend to occur in politico-religious contexts: in ceremonial centers, in cities, and in other high-prestige sites."
+        - paragraph [ref=e934] [cursor=pointer]: Molds were used for the mass production of pottery.
+        - paragraph [ref=e935] [cursor=pointer]: As these wares spread, local styles began to lose importance.
+        - paragraph [ref=e936] [cursor=pointer]: The Huari Empire imposed economic, social, and cultural changes on the areas it dominated.
+        - paragraph [ref=e937] [cursor=pointer]: Local cultures were disrupted.
+        - paragraph [ref=e938] [cursor=pointer]: Major urban centers were established in each valley.
+        - paragraph [ref=e939] [cursor=pointer]: Building complexes in the Huari architectural style (administrative structures, storehouses, or barracks) were constructed at various places.
+        - paragraph [ref=e940] [cursor=pointer]: Cities rose and fell with the Huari Empire.
+        - paragraph [ref=e941] [cursor=pointer]: Goods and information were exchanged across the central Andes on a scale never seen before.
+        - paragraph [ref=e942] [cursor=pointer]: Various authors have suggested that urbanism and militarism, state distribution of foodstuffs, the Andean road system, and the spread of the Quechua language began with the Huari Empire.
+        - paragraph [ref=e943] [cursor=pointer]: Until recently, the case for a contemporaneous, or chronologically overlapping, Tiahuanaco Empire was less clear.
+        - paragraph [ref=e944] [cursor=pointer]: Since the only detailed work had been at the city of Tiahuanaco itself, in the Lake Titicaca Basin, the argument for an empire was by comparison to Huari.
+        - paragraph [ref=e945] [cursor=pointer]: Recent work, however, has shown that a large rural hinterland was transformed by the Tiahuanaco rulers into an artificial agricultural landscape.
+        - paragraph [ref=e946] [cursor=pointer]: There were massive public reclamation and construction projects that required large, coordinated labor forces.
+        - paragraph [ref=e947] [cursor=pointer]: Throughout the Lake Titicaca Basin state administrative structures were built near potentially arable land.
+        - paragraph [ref=e948] [cursor=pointer]: The settlement pattern suggests political unification of the Basin, and the existence of an empire.
+        - paragraph [ref=e949] [cursor=pointer]: Tiahuanaco itself may have held between 20,000 and 40,000 persons.
+        - paragraph [ref=e950] [cursor=pointer]: In both cases there was a major collapse by ca.
+        - paragraph [ref=e951] [cursor=pointer]: 1000/1100 A.D.
+        - paragraph [ref=e952] [cursor=pointer]: With the fall of the city of Huari, centers in various provinces were abandoned.
+        - paragraph [ref=e953] [cursor=pointer]: Regional traditions re-emerged, as did local and regional political organizations.
+        - paragraph [ref=e954] [cursor=pointer]: All cities of the southern highlands were abandoned, and their populations scattered to the countryside.
+        - paragraph [ref=e955] [cursor=pointer]: The north coast must have been depopulated.
+        - paragraph [ref=e956] [cursor=pointer]: With the fall of the Huari Empire an era of smaller, contending states emerged (Lanning 1967; Lumbreras 1974; Willey 1971; Kolata 1986).
+        - paragraph [ref=e957] [cursor=pointer]: The Kachin
+        - paragraph [ref=e958] [cursor=pointer]: The Kachin of Highland Burma are a classic people of anthropology.
+        - paragraph [ref=e959] [cursor=pointer]: They are organized into three contrasting forms of society.
+        - paragraph [ref=e960] [cursor=pointer]: These are the gumlao, or egalitarian, the gumsa, or stratified, and the shan, or feudal.
+        - paragraph [ref=e961] [cursor=pointer]: Sociopolitical complexity and level of hierarchical authority increase through these social forms, in the order listed.
+        - paragraph [ref=e962] [cursor=pointer]: The noteworthy fact about the Kachin is that these forms are not static.
+        - paragraph [ref=e963] [cursor=pointer]: Local groups may oscillate between gumlao and shan-like characteristics.
+        - paragraph [ref=e964] [cursor=pointer]: Gumsa organization is a compromise between these contrasting poles.
+        - paragraph [ref=e965] [cursor=pointer]: Some gumsa become shan, others revert back to gumlao organization.
+        - paragraph [ref=e966] [cursor=pointer]: Yet equality of descent groups cannot be maintained, and eventually gumsa societies emerge from gumlao.
+        - paragraph [ref=e967] [cursor=pointer]: What is most pertinent to the present topic is that stratified gumsa societies do not remain so.
+        - paragraph [ref=e968] [cursor=pointer]: Through disaffection of their members, principles of hierarchy and associated complexity are periodically lost as such societies collapse to egalitarian organization (Leach 1954).
+        - paragraph [ref=e969] [cursor=pointer]: The Ik
+        - paragraph [ref=e970] [cursor=pointer]: The Ik are a people of northern Uganda who live at what must surely be the extreme of deprivation and disaster.
+        - paragraph [ref=e971] [cursor=pointer]: A largely hunting and gathering people who have in recent times practiced some crop planting, the Ik are not classifiable as a complex society in the sense of Chapter 2.
+        - paragraph [ref=e972] [cursor=pointer]: They are, nonetheless, a morbidly fascinating case of collapse in which a former, low level of social complexity has essentially disappeared.
+        - paragraph [ref=e973] [cursor=pointer]: Due to drought and disruption by national boundaries of the traditional cycle of movement, the Ik live in such a food- and water-scarce environment that there is absolutely no advantage to reciprocity and social sharing.
+        - paragraph [ref=e974] [cursor=pointer]: The Ik, in consequence, display almost nothing of what could be considered societal organization.
+        - paragraph [ref=e975] [cursor=pointer]: They are so highly fragmented that most activities, especially subsistence, are pursued individually.
+        - paragraph [ref=e976] [cursor=pointer]: Each Ik will spend days or weeks on his or her own, searching for food and water.
+        - paragraph [ref=e977] [cursor=pointer]: Sharing is virtually nonexistent.
+        - paragraph [ref=e978] [cursor=pointer]: Two siblings or other kin can live side-by-side, one dying of starvation and the other well nourished, without the latter giving the slightest assistance to the other.
+        - paragraph [ref=e979] [cursor=pointer]: The family as a social unit has become dysfunctional.
+        - paragraph [ref=e980] [cursor=pointer]: Even conjugal pairs don't form a cooperative unit except for a few specific purposes.
+        - paragraph [ref=e981] [cursor=pointer]: Their motivation for marriage or cohabitation is that one person can't build a house alone.
+        - paragraph [ref=e982] [cursor=pointer]: The members of a conjugal pair forage alone, and do not share food.
+        - paragraph [ref=e983] [cursor=pointer]: Indeed, their foraging is so independent that if both members happen to be at their residence together it is by accident.
+        - paragraph [ref=e984] [cursor=pointer]: Each conjugal compound is stockaded against the others.
+        - paragraph [ref=e985] [cursor=pointer]: Several compounds together form a village, but this is a largely meaningless occurrence.
+        - paragraph [ref=e986] [cursor=pointer]: Villages have no political functions or organization, not even a central meeting place.
+        - paragraph [ref=e987] [cursor=pointer]: Children are minimally cared for by their mothers until age three, and then are put out to fend for themselves.
+        - paragraph [ref=e988] [cursor=pointer]: This separation is absolute.
+        - paragraph [ref=e989] [cursor=pointer]: By age three they are expected to find their own food and shelter, and those that survive do provide for themselves.
+        - paragraph [ref=e990] [cursor=pointer]: Children band into age-sets for protection, since adults will steal a child's food whenever possible.
+        - paragraph [ref=e991] [cursor=pointer]: No food sharing occurs within an age-set.
+        - paragraph [ref=e992] [cursor=pointer]: Groups of children will forage in agricultural fields, which scares off birds and baboons.
+        - paragraph [ref=e993] [cursor=pointer]: This is often given as the reason for having children.
+        - paragraph [ref=e994] [cursor=pointer]: Although little is known about how the Ik got to their present situation, there are some indications of former organizational patterns.
+        - paragraph [ref=e995] [cursor=pointer]: They possess clan names, although today these have no structural significance.
+        - paragraph [ref=e996] [cursor=pointer]: They live in villages, but these no longer have any political meaning.
+        - paragraph [ref=e997] [cursor=pointer]: The traditional authority structure of family, lineage, and clan leaders has been progressively weakened.
+        - paragraph [ref=e998] [cursor=pointer]: It appears that a former level of organization has simply been abandoned by the Ik as unprofitable and unsuitable in their present distress (Turnbull 1978).
+        - paragraph [ref=e999] [cursor=pointer]: Remarks
+        - paragraph [ref=e1000] [cursor=pointer]: Other cases that could be added to this list are the collapses of modern empires (such as the Spanish, French, and British).
+        - paragraph [ref=e1001] [cursor=pointer]: The demise of these empires clearly represents a retrenchment from a multi-national level of centralized organization that was global in extent.
+        - paragraph [ref=e1002] [cursor=pointer]: There are, however, differences from the majority of cases just discussed.
+        - paragraph [ref=e1003] [cursor=pointer]: Most notable is the fact that the loss of empire did not correspondingly entail collapse of the home administration.
+        - paragraph [ref=e1004] [cursor=pointer]: In this the modern cases appear like the Old Babylonian kingdom, where a short-lived empire was followed by a period of retrenchment, with no end to Babylon itself.
+        - paragraph [ref=e1005] [cursor=pointer]: There are qualitative differences between ancient societies and modern ones in their susceptibility to collapse (although not for the reasons usually thought).
+        - paragraph [ref=e1006] [cursor=pointer]: This point will be addressed in the final chapter.
+        - paragraph [ref=e1007] [cursor=pointer]: After collapse
+        - paragraph [ref=e1008] [cursor=pointer]: Popular writers and film producers have developed a consistent image of what life will be like after the collapse of industrial society.
+        - paragraph [ref=e1009] [cursor=pointer]: With some variation, the picture that emerges is of a Hobbesian war-of-all-against-all, Ik-conditions extended globally.
+        - paragraph [ref=e1010] [cursor=pointer]: Only the strong survive; the weak are victimized, robbed, and killed.
+        - paragraph [ref=e1011] [cursor=pointer]: There is fighting for food and fuel.
+        - paragraph [ref=e1012] [cursor=pointer]: Whatever central authority remains lacks the resources to reimpose order.
+        - paragraph [ref=e1013] [cursor=pointer]: Bands of pitiful, maimed survivors scavenge among the ruins of grandeur.
+        - paragraph [ref=e1014] [cursor=pointer]: Grass grows in the streets.
+        - paragraph [ref=e1015] [cursor=pointer]: There is no higher goal than survival.
+        - paragraph [ref=e1016] [cursor=pointer]: Anyone who has read modern disaster literature, or seen it dramatized, will recognize this script.
+        - paragraph [ref=e1017] [cursor=pointer]: It has contributed substantially to current apprehensions about collapse.
+        - paragraph [ref=e1018] [cursor=pointer]: Such a scenario, although clearly overdramatized, does contain many elements that are verifiable in past collapses.
+        - paragraph [ref=e1019] [cursor=pointer]: "Consider, for example, Casson's account of the withdrawal of Roman power from Britain:"
+        - paragraph [ref=e1020] [cursor=pointer]: From A.
+        - paragraph [ref=e1021] [cursor=pointer]: D.
+        - paragraph [ref=e1022] [cursor=pointer]: 100 to 400 all Britain except in the north was as pleasant and peaceful a countryside as it is to-day...
+        - paragraph [ref=e1023] [cursor=pointer]: But by 500 A.D.
+        - paragraph [ref=e1024] [cursor=pointer]: it had all vanished and the country had reverted to a condition which it had, perhaps, never seen before.
+        - paragraph [ref=e1025] [cursor=pointer]: "There was no longer a trace of public safety, no houses of size, dwindling townships and all the villas and most of the Roman cities burnt, abandoned, looted and left the habitation of ghosts (1937: 164)."
+        - paragraph [ref=e1026] [cursor=pointer]: "Casson was not following poetic license, for he witnessed the breakdown of order in Istanbul after the disintegration of Turkish authority in 1918:"
+        - paragraph [ref=e1027] [cursor=pointer]: ...the Allied troops...
+        - paragraph [ref=e1028] [cursor=pointer]: found a city that was dead.
+        - paragraph [ref=e1029] [cursor=pointer]: The Turkish government had just ceased to function.
+        - paragraph [ref=e1030] [cursor=pointer]: The electrical supply had failed and was intermittent.
+        - paragraph [ref=e1031] [cursor=pointer]: Tramways did not work and abandoned trams littered the roads.
+        - paragraph [ref=e1032] [cursor=pointer]: There was no railway service, no street cleaning and a police force which had largely become bandit, living on blackmail from citizens in lieu of pay.
+        - paragraph [ref=e1033] [cursor=pointer]: Corpses lay at street corners and in side lanes, dead horses were everywhere, with no organisation to remove them.
+        - paragraph [ref=e1034] [cursor=pointer]: Drains did not work and water was unsafe.
+        - paragraph [ref=e1035] [cursor=pointer]: "All this was the result of only about three weeks' abandonment by the civil authorities of their duties (1937: 217-18)."
+        - paragraph [ref=e1036] [cursor=pointer]: "Based on the sketches of the preceding pages, and an excellent summary by Colin Renfrew (1979: 482-5), the characteristics of societies after collapse may be summarized as follows."
+        - paragraph [ref=e1037] [cursor=pointer]: There is, first and foremost, a breakdown of authority and central control.
+        - paragraph [ref=e1038] [cursor=pointer]: Prior to collapse, revolts and provincial breakaways signal the weakening of the center.
+        - paragraph [ref=e1039] [cursor=pointer]: Revenues to the government often decline.
+        - paragraph [ref=e1040] [cursor=pointer]: Foreign challengers become increasingly successful.
+        - paragraph [ref=e1041] [cursor=pointer]: With lower revenues the military may become ineffective.
+        - paragraph [ref=e1042] [cursor=pointer]: The populace becomes more and more disaffected as the hierarchy seeks to mobilize resources to meet the challenge.
+        - paragraph [ref=e1043] [cursor=pointer]: With disintegration, central direction is no longer possible.
+        - paragraph [ref=e1044] [cursor=pointer]: The former political center undergoes a significant loss of prominence and power.
+        - paragraph [ref=e1045] [cursor=pointer]: It is often ransacked and may ultimately be abandoned.
+        - paragraph [ref=e1046] [cursor=pointer]: Small, petty states emerge in the formerly unified territory, of which the previous capital may be one.
+        - paragraph [ref=e1047] [cursor=pointer]: Quite often these contend for domination, so that a period of perpetual conflict ensues.
+        - paragraph [ref=e1048] [cursor=pointer]: The umbrella of law and protection erected over the populace is eliminated.
+        - paragraph [ref=e1049] [cursor=pointer]: Lawlessness may prevail for a time, as in the Egyptian First Intermediate Period, but order will ultimately be restored.
+        - paragraph [ref=e1050] [cursor=pointer]: Monumental construction and publicly-supported art largely cease to exist.
+        - paragraph [ref=e1051] [cursor=pointer]: Literacy may be lost entirely, and otherwise declines so dramatically that a dark age follows.
+        - paragraph [ref=e1052] [cursor=pointer]: What populations remain in urban or other political centers reuse existing architecture in a characteristic manner.
+        - paragraph [ref=e1053] [cursor=pointer]: There is little new construction, and that which is attempted concentrates on adapting existing buildings.
+        - paragraph [ref=e1054] [cursor=pointer]: Great rooms will be subdivided, flimsy facades are built, and public space will be converted to private.
+        - paragraph [ref=e1055] [cursor=pointer]: While some attempt may he made to carry on an attenuated version of previous ceremonialism, the former monuments are allowed to fall into decay.
+        - paragraph [ref=e1056] [cursor=pointer]: People may reside in upper-story rooms as lower ones deteriorate.
+        - paragraph [ref=e1057] [cursor=pointer]: Monuments are often mined as easy sources of building materials.
+        - paragraph [ref=e1058] [cursor=pointer]: When a building begins to collapse, the residents simply move to another.
+        - paragraph [ref=e1059] [cursor=pointer]: Palaces and central storage facilities may be abandoned, along with centralized redistribution of goods and foodstuffs, or market exchange.
+        - paragraph [ref=e1060] [cursor=pointer]: Both long distance and local trade may be markedly reduced, and craft specialization end or decline.
+  - generic [ref=e50]:
+    - button "Prev" [ref=e51] [cursor=pointer]
+    - button "Pause" [ref=e1061] [cursor=pointer]
+    - button "Next" [ref=e53] [cursor=pointer]
+    - slider "Seek" [ref=e54]: "0"
+    - generic [ref=e55]: 0:01 / 1:07:43

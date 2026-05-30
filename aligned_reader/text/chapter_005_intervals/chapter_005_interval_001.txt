@@ -1,0 +1,81 @@
+Chapter 5. Evaluation: Complexity and Marginal Returns in Collapsing Societies, Part One.
+The people desire disorder.
+A Chinese poet on the Chou collapse (quoted in Creel [1970: 4311) The framework developed in the preceding chapter focused on changing cost/benefit ratios for investment in complexity.
+The shift to increasing complexity, undertaken initially to relieve stress or realize an opportunity, is at first a rational, productive strategy that yields a favorable marginal return.
+Typically, however, continued stresses, unanticipated challenges, and the costliness of sociopolitical integration combine to lower this marginal return.
+As the marginal return on complexity declines, complexity as a strategy yields comparatively lower benefits at higher and higher costs.
+A society that cannot counter this trend, such as through acquisition of an energy subsidy, becomes vulnerable to stress surges that it is too weak or impoverished to meet, and to waning support in its population.
+With continuation of this trend collapse becomes a matter of mathematical probability, as over time an insurmountable stress surge becomes increasingly likely.
+Until such a challenge occurs, there may be a period of economic stagnation, political decline, and territorial shrinkage.
+The ideal way to evaluate this model would he to isolate and quantify the costs and benefits of various instances of social complexity, and to plot changes in these costs and benefits through time.
+Long-term periods of significantly
+declining marginal returns in complexity should be periods of vulnerability to collapse.
+None of the ancient societies that have collapsed, however, have kept the kinds of detailed records necessary for such a quantitative test, and indeed, many have kept no written records at all.
+(Such data are difficult to acquire even for contemporary societies [Mansfield 1971: 35-6].)
+Strategy in this chapter will be instead to investigate in detail three complex societies that have collapsed.
+The objective is not to perform a quantitative test of the explanatory framework (for that is impossible) but to ascertain whether this framework helps us to understand collapse in actual cases.
+The three test cases have been selected to represent a broad spectrum of sociopolitical complexity, to ensure that the explanation applies to different kinds of societies.
+Given this restriction, the cases chosen represent probably the best documented examples for their respective levels of complexity.
+The cases are:
+The Western Roman Empire.
+The Roman Empire was certainly among the most complex, entrenched, and territorially extensive societies that have collapsed.
+It is also one of the best documented through literary sources.
+This literature will be the main basis for the investigation.
+The Classic Maya of the Southern Lowlands.
+Classic Maya Civilization evolved from small, independent hamlets, to polities that existed at a city-state level of organization, and to regional systems in which major political centers dominated territories of perhaps a few thousand square kilometers.
+Although the Maya were a literate civilization, their writing is at present
+not fully understood.
+Our knowledge of the Mayan collapse comes primarily from archaeological research.
+Chacoan Society of the American Southwest.
+Organized as a hierarchical, regional confederation, the Chacoans represent the most complex prehistoric society that developed on the Colorado Plateaux of North America.
+They were also the least complex of the societies examined in this chapter, never organized as a true, coercive state.
+The Chacoans had no written records, and are solely known archaeologically.
+These cases, besides representing very different levels of complexity, allow us to assess the usefulness of the framework for understanding both historically and archaeologically known cases of collapse.
+The collapse of the Western Roman Empire The Roman Empire is paradoxically one of the great successes and one of the great failures of history.
+The fact that it could be both is readily understandable by investigating its marginal return on investment in complexity during the periods of its rise and its decline.
+The collapse of the Roman Empire in the West cannot be attributed solely to an upsurge in barbarian incursions, to economic stagnation, or to civil wars, nor to such vague processes as decline of civic responsibility, conversion to Christianity, or poor leadership.
+Several of these factors were indeed involved in the collapse process, but to understand that process it is necessary to go back in time to the formation of the entity that ultimately fell.
+Whatever the factors that led to the Roman expansion in the last few centuries B.C., some of its economic consequences were striking.
+One of these was a tendency for Romans to migrate to the newly conquered provinces (Gibbon 1776-88: 32; Levy 1967: 56; Weber 1976: 394-5; Rostovtzeff 1926: 15).
+It is noteworthy that the Roman expansion followed the political strife between plebians and patricians of the fifth and fourth centuries B.C., and the land divisions among peasants of the Licinian Law of 367 B.C. While these facts entice speculation about the causes of the Roman expansion - whether it was induced by irresistible opportunities, by perceived threat, by abstract policy, by demographic pressure in Italy, or by some combination of these and other factors - such speculation is beyond the scope of the present work.
+What does seem fairly certain is that the willingness, even readiness, of the Romans to emigrate must indicate some lack of comparable opportunity in the homeland.
+To the
+extent that foreign acquisitions helped to meet this need, there was a valid social, political, and economic outcome to the policy of expansion - at least for the conquerors.
+The policy of expansion was at first highly successful.
+Not only were the conquered provinces looted of their accumulated surpluses, even their working capital, but permanent tributes, taxes, and land rentals were imposed.
+The consequences for Rome were bountiful.
+In 167 B.C. the Romans seized the treasury of the King of Macedonia, a feat that allowed them to eliminate taxation of themselves.
+After the Kingdom of Pergamon was annexed in 130 B.C. the state budget doubled, from 100 million to 200 million sesterces.
+Pompey raised it further to 340 million sesterces after the conquest of Syria in 63 B.C. Julius Caesar's conquest of Gaul acquired so much gold that this metal dropped 36 percent in value (Levy 1967: 62-5).
+With this kind of payoff, Rome's conquests under the Republic were economically self-perpetuating.
+The initial series of victories, undertaken as a matter of selfpreservation, began increasingly to provide the economic base for further conquests.
+By the last two centuries B.C. Rome's victories may have become nearly costless, in an economic sense, as conquered nations footed the bill for further expansion (A. Jones 1974: 114-15).
+This process culminated with Octavian's (later Augustus) conquest of Egypt.
+The booty of Egypt allowed Augustus to distribute money to the plebians of Rome - and even, when necessary, to relieve shortages in the state budget out of his personal fortune (Frank 1940: 7-9, 15).
+Yet the geometric Roman expansion of the Republic ended under the Principate (the emperors from Augustus up to the accession of Diocletian [284 A.D.])
+Augustus (27 B.C.-14 A.D.)
+terminated the policy of expansion,
+particularly after losses to the Germans, and concentrated instead on maintaining a stable army and restoring the prosperity that had been ruptured by the civil wars.
+With the establishment of Imperial rule, historians usually refer to events by the chronology of the succession of emperors.
+To facilitate the discussion Table 5 has been prepared, giving the dates of rule for each emperor.
+These dates will also be occasionally incorporated into the text, whenever that might serve to clarify the discussion.
+With the end of geographic expansion there was a corresponding drop in the windfalls of conquest (A. Jones 1974: 124).
+From Augustus to Diocletian, most emperors were faced with at least some insufficiencies of revenue (Heichelheim 1970: 270).
+Augustus frequently complained of fiscal shortage, and was often hard put to finance even the modest administration and foreign policy that he established (Gibbon 1776-88: 140; M. Hammond 1946: 75).
+He instituted for Roman citizens a five percent tax on legacies and inheritances (Gibbon 1776-88: 142).
+This tax, established to provide for military retirement (Frank 1940: 7), was highly unpopular, since the Roman population had been relieved of taxes in the late Republic.
+The major Imperial costs, at various times, included pay, rations, and fodder for the army, the civil service, and other state employees (e.g., in later times workers in the Imperial arms factories), public works, the postal service, uniforms for the army and civil service, education, and the public dole (A. Jones 1974: 35).
+At all times the major expense was the military, although the Roman dole was not inconsequential.
+Julius Caesar found 320,000 beneficiaries, nearly one citizen in three.
+He reduced this to 150,000, but the figure rose again.
+From Augustus to Claudius (41-54 A.D.)
+approximately 200,000 heads of families received free
+wheat.
+A special fleet was needed to transport this, as were wharves on the Tiber River and at the port of Ostia, and numerous shipowners and bakers (Levy 1967: 69, 77).
+In the middle of Augustus' reign Rome's annual income was about 500 million sesterces (Frank 1940: 53) (the sestertius was a coin valued initially at four to the silver denarius [Mattingly 1960: 122]).
+With this income, Augustus established an army of 25 legions.
+The pay of individual legionaries was set at 225 denarii per year.
+Despite the stagnation of revenue when expansion fell off, and the often heavy rule in the provinces, there were
+definite benefits to the early Empire.
+There were foreign and internal peace and security, the borders were maintained, commerce was protected, and public works projects were undertaken (Toutain 1968: 253-9).
+The early Empire was relatively prosperous (M. Hammond 1946: 34) even if the State was not able to command the wealth temporarily made available by earlier conquests.

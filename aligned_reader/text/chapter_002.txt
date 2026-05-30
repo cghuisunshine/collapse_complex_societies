@@ -1,0 +1,434 @@
+Chapter 2. The Nature of Complex Societies.
+How wondrous this wall-stone, shattered by Fate;
+Burg-places broken, the work of giants crumbled.
+Ruined are the roofs, tumbled the towers, Broken the barred gate: frost in the plaster, Ceilings a-gaping, torn away, fallen, Eaten by age...
+Bright were the halls, lofty-gabled, Many the bath-house; cheerful the clamour In many a mead-hall, revelry rampant - Until mighty Fate put paid to all that...
+The Ruin,' Exeter Rook (an eighth-century A. I).
+Saxon poet, remarking on Roman ruins in Britain [quitted in Magnusson 1980: 1251) Introduction A study of why complex societies collapse should begin with a clear picture of what it is that does so.
+What, in other words, are complex societies?
+What are their defining characteristics?
+How do they differ from the simpler societies out of which they developed, and to which they often revert?
+Are complex societies a discrete type or a `stage' in cultural evolution, or is there a continuum from simple to complex?
+A related question is why complex societies develop.
+This, as noted, has been a question of perennial interest in the social sciences.
+Although much is now known about the evolution of complexity, there is no overall consensus about such things as why complexity emerges, why societies become stratified, why the small, independent groups of
+early human history have given way to the large, interdependent states of recent millennia.
+This is without doubt a fascinating topic, and one that offers a tempting diversion for the present work.
+It is a diversion that will largely have to be resisted.
+It cannot be wholly resisted, for collapse may not be understood except in the context of how complex societies function and operate, and that cannot he divorced from the question of how they have come into being.
+(As in any scientific endeavor, one question leads to another, one problem appears connected to all others, and one of the most difficult tasks is simply to draw boundaries to the inquiry.)
+To explain collapse it will be necessary to discuss, briefly, alternative general views of how complex societies have developed, and to evaluate the usefulness and relevance of these views to the problem at hand.
+The lively and interesting debate over what (if any) are the prime movers in the development of complexity is regrettably only partially pertinent.
+Accordingly, it will be treated in only a partial fashion.
+In this chapter three topics will be addressed: (1) the nature of complexity; (2) the question of whether complexity is a continuum or is characterized by discrete stages; and (3) major views on the emergence of complex societies: The discussion that follows will be necessarily selective, focusing on those aspects of the evolution of complexity that are relevant to understanding collapse.
+Complexity
+Nature of complexity
+Complexity is generally understood to refer to such things as the size of a society, the number and distinctiveness of its parts, the variety of specialized social roles that it incorporates, the number of distinct social personalities present, and the variety of mechanisms for organizing these into a coherent, functioning whole.
+Augmenting any of these dimensions increases the complexity of a society.
+Huntergatherer societies (by way of illustrating one contrast in complexity) contain no more than a few dozen distinct social personalities, while modern European censuses recognize 10,000 to 20,000 unique occupational roles, and industrial societies may contain overall more than 1,000,000 different kinds of social personalities (McGuire 1983: 115).
+Two concepts important to understanding the nature of complexity are inequality and heterogeneity (Blau 1977;
+McGuire 1983).
+Inequality may be thought of as vertical differentiation, ranking, or unequal access to material and social resources.
+Heterogeneity is a subtler concept.
+It refers to the number of distinctive parts or components to a society, and at the same time to the ways in which a population is distributed among these parts (Blau 1977: 9;
+McGuire 1983: 93).
+A population that is divided equally among the occupations and roles of a society is homogeneously distributed; the converse brings increasing heterogeneity and complexity (see also Tainter 1977, 1978).
+A society with a great deal of heterogeneity, then, is one that is complex.
+Inequality and heterogeneity are interrelated, but in part respond to different processes,
+and are not always positively correlated in sociopolitical evolution (McGuire 1983: 93, 105).
+In early civilizations, for example, inequality tended to be initially high and heterogeneity low.
+Through time, inequality decreased and heterogeneity grew as multiple hierarchies would develop (McGuire 1983: 110-11).
+Johnson relates this process to growth in the amount of information that must be processed by a society, with greater quantity and variety of information requiring greater social complexity (1978: 91, 94).
+Complex societies tend to be what Simon has called `nearly decomposable systems' (1965: 70).
+That is, they are at least partly built up of social units that are themselves potentially stable and independent, and indeed at one time may have been so.
+Thus, a newly established state may include several formerly independent villages or ethnic groups, or an empire may incorporate previously established states.
+To the extent that these states, ethnic groups, or villages retain the potential for independence and stability, the collapse process may result in reversion (decomposition) to these `building blocks' of complexity (cf. Simon 1965: 68).
+Simpler societies
+The citizens of modern complex societies usually do not realize that we are an anomaly of history.
+Throughout the several million years that recognizable humans are known to have lived, the common political unit was the small, autonomous community, acting independently, and largely self-sufficient.
+Robert Carneiro has estimated that 99.8 percent of human history has been dominated by these autonomous local communities (1978: 219).
+It has only been within the last 6000 years that something unusual has emerged: the hierarchical, organized, interdependent states that are the major reference for our contemporary political experience.
+Complex societies, once established, tend to expand and dominate, so that today they control most of the earth's lands and people, and are perpetually vexed by those still beyond their reach.
+A dilemma arises from this: we today are familiar mainly with political forms that are an oddity of history, we think of these as normal, and we view as alien the majority of the human experience.
+It is little surprise that collapse is viewed so fearfully.
+The small, acephalous communities that have dominated our history were not homogeneous.
+The degree of variation among such societies is substantial.
+Although these societies would be characterized (in comparison to ourselves) as `simple,' nevertheless they display variations in size, complexity, ranking, economic differentiation, and other factors.
+It is from this variation that many of our theories of cultural evolution have been developed.
+Simpler societies are, of course, comparatively smaller.
+They number from a handful to a few thousand persons, who are united within sociopolitical units encompassing
+correspondingly small territories.
+Such societies tend to be organized on the basis of kinship, with status familial and centered on the individual.
+One can know most everyone in such a society, and can categorize each person individually in terms of position and distance in a web of kin relationships (Service 1962).
+Leadership in the simplest societies tends to be minimal.
+It is personal and charismatic, and exists only for special purposes.
+Hierarchical control is not institutionalized, but is limited to definite spheres of activity at specific times, and rests substantially on persuasion (Service 1962;
+Fried 1967).
+Sahlins has captured the essence of petty chieftainship in these societies.
+The holder of such a position is a spokesman, a master of ceremonies, with otherwise little influence, few functions, and no privileges or coercive power.
+One word from such a leader, notes Sahlins, `and everyone does as he pleases' (1968:
+Equality in these societies lies in direct, individual access to the resources that sustain life, in mobility and the option to simply withdraw from an untenable social situation, and in conventions that prevent economic accumulation and impose sharing.
+Leaders, where they exist, are constrained from exercising authority, amassing wealth, or acquiring excessive prestige.
+Where there are differences in control of economic resources these must be exercised generously (Gluckman 1965; Woodburn 1982).
+Personal political ambition is either restrained from expression, or channeled to fulfill a public good.
+The route to an elevated social position is to acquire a surplus of subsistence resources, and to distribute these in such a way that one establishes prestige in the community, and creates a following and a faction (Service
+1962; Gluckman 1965; Sahlins 1963, 1968).
+Where several ambitious individuals follow this course there is a constant competition and jockeying for position.
+The result is an unstable, fluctuating political environment in which ephemeral leaders rise and fall, and in which the death of a leader brings the demise of his faction and wholesale political regrouping.
+Native Melanesians often refer to such an ambitious individual as a Big Man, a term that has achieved anthropological currency (e.g., Sahlins 1963).
+A Big Man strives to build a following, but is never permanently successful.
+Since his influence is limited to his faction, extending that influence means extending the size of the following.
+At the same time, the loyalty of his existing followers must be constantly renewed through generosity.
+Herein lies a tension: as resources are allocated to expanding a faction, those available to retain previous loyalties must decline.
+As a Big Man attempts to expand his sphere of influence, he is likely to lose the springboard that makes this possible.
+Big Man systems contain thus a built-in, structural limitation on their scope, extent, and durability (Sahlins 1963, 1968).
+Other simple societies are organized at higher levels of political differentiation.
+There are true, permanent positions of rank in which authority resides in an office, rather than an individual, and to which inhere genuine powers of command.
+Chiefly rank is often hereditary, or nearly so.
+Inequality pervades such societies, which tend to be larger and more densely populated to a degree coordinate with their increased complexity.
+In these centrally focused, chiefly societies, political organization extends beyond the community level.
+Accordingly, economic, political, and ceremonial life
+transcend purely local concerns.
+In the classic chiefdoms of Polynesia, entire islands would often be integrated into a single polity.
+There is a political economy in which rank conveys the authority to direct labor and economic surpluses.
+Labor may be mobilized to engage in public works (e.g., agricultural facilities, monuments) of an impressive scale.
+Economic specialization, exchange, and coordination are characteristic features.
+Social statuses in these more complex societies, while still moored in kinship, tend to be more established and continuing, rather than variable from the perspective of different individuals.
+As complexity and number of members grow, individuals must increasingly be socially categorized, so that appropriate behavior between persons is prescribed more by the impersonal structure of society and less by kin relations.
+The epitome of this is the position of chief, which is now a true office extending beyond the lifetime of any individual holder.
+The authority to command in such chiefdoms is not unrestrained.
+The ruler is limited in his or her actions by the moorings of kinship, and by possessing, not a monopoly of force, but only a marginal advantage.
+Claims of followers obligate a chief to respond positively to requests.
+Chiefly generosity is the basis of politics and economics: downward distribution of amassed resources ensures loyalty.
+Chiefly ambitions, like those of Big Men, are thus structurally constrained.
+Too much allocation of resources to the chiefly apparatus, and too little return to the local level, engender resistance.
+The consequence is that chiefdoms tend to undergo cycles of centralization and decentralization, much like Big Man systems, but at a
+higher cut-off point (Service 1962; Fried 1967; Gluckman 1965; Leach 1954; Sahlins 1963, 1968).
+Chiefdoms display many points of similarity to more complex, state-organized systems, but are still regarded by most anthropologists as firmly within the category of simple or `primitive' societies.
+Chiefdoms are limited by the obligations of kinship and the lack of true coercive force.
+By the time human organizations emerged that today would be called a state, these limitations had been surpassed.
+Anthropologists have had some difficulty defining the concept `state.'
+It is something that seems clearly different from the simplest, acephalous human societies, but specifying or enumerating this difference has proven an elusive goal.
+Many anthropologists, despite this difficulty, insist that states are a qualitatively different kind of society, so that the transition from tribal to state societies represents the `Great Divide' (Service 1975) of human history.
+The emphasis on qualitative differences among societies, as illustrated above, leads some scholars to subdivide simpler societies into what are thought to be discrete types, or levels of complexity.
+Whether it is more profitable to view sociopolitical evolution as traversing a continuum of complexity, or as characterized by discrete stages or levels, is a matter pertinent to understanding collapse, and will be discussed later in this chapter.
+States
+States are, to begin with, territorially organized.
+That is to say, membership is at least partly determined by birth or residence in a territory, rather than by real or fictive kin relations.
+Illustrating this, as pointed out by Sir Henry Sumner Maine, was the transformation from the Merovingian title `King of the Franks' to the Capetian `King of France' (Sahlins 1968: 6).
+The territorial basis both reflects and influences the nature of statehood (Fortes and Evans-Pritchard 1940: 10; Claessen and Skalnik 1978a: 21).
+States contrast with relatively complex tribal societies (e.g., chiefdoms) in a number of ways.
+In states, a ruling authority monopolizes sovereignty and delegates all power.
+The ruling class tends to be professional, and is largely divorced from the bonds of kinship.
+This ruling class supplies the personnel for government, which is a specialized decision-making organization with a monopoly of force, and with the power to draft for war or work, levy and collect taxes, and decree and enforce laws.
+The government is legitimately constituted, which is to say that a common, society-wide ideology exists that serves in part to validate the political organization of society.
+And states, of course, are in general larger and more populous than tribal societies, so that social categorization, stratification, and specialization are both possible and necessary (Carneiro 1981: 69; Claessen and Skalnik 1978a:
+21; Flannery 1972: 403-4; Fortes and Evans-Pritchard 1940;
+Johnson 1973: 2-3; Sahlins 1968: 6).
+States tend to be overwhelmingly concerned with maintaining their territorial integrity.
+This is, indeed,
+one of their primary characteristics.
+States are the only kind of human society that does not ordinarily undergo short-term cycles of formation and dissolution (cf. R. Cohen 1978: 4; Claessen and Skalnik 1978b: 632).
+States are internally differentiated, as an illustration at the beginning of this chapter makes clear.
+Occupational specialization is a prime characteristic, and is often reflected in patterns of residence (Flannery 1972: 403).
+Emile Durkheim, in a classic work, recognized that the evolution from primitive to complex societies witnessed the transformation from groups organized on the basis of what he labeled `mechanical solidarity' (homogeneity; lack of cultural and economic differentiation among the members of a society) to those based on `organic solidarity' (heterogeneity; cultural and economic differentiation requiring interaction and greater cohesiveness).
+Organic solidarity has increased throughout history, and in states is the preponderant form of organization (Durkheim 1947).
+By virtue of their territorial extensiveness, states are often differentiated, not only economically, but also culturally and ethnically.
+Both economic and cultural heterogeneity appear to be functionally related to the centralization and administration that are defining characteristics of states (Fortes and Evans-Pritchard 1940:
+Despite an institutionalized authority structure, an ideological basis, and a monopoly of force, the rulers of states share at least one thing with chiefs and Big Men: the need to establish and constantly reinforce legitimacy.
+In complex as well as simpler societies, leadership activities and societal resources must be continuously devoted to this purpose.
+Hierarchy and complexity, as noted, are rare in human history, and where present require
+constant reinforcement.
+No societal leader is ever far from the need to validate position and policy, and no hierarchical society can be organized without explicit provision for this need.
+Legitimacy is the belief of the populace and the elites that rule is proper and valid, that the political world is as it should be.
+It pertains to individual rulers, to decisions, to broad policies, to parties, and to entire forms of government.
+The support that members are willing to extend to a political system is essential for its survival.
+Decline in support will not necessarily lead to the fall of a regime, for to a certain extent coercion can replace commitment to ensure compliance.
+Coercion, though, is a costly, ineffective strategy which can never be completely or permanently successful.
+Even with coercion, decline in popular support below some critical minimum leads infallibly to political failure (Easton 1965b: 220- 4).
+Establishing moral validity is a less costly and more effective approach.
+Complex societies are focused on a center, which may not be located physically where it is literally implied, but which is the symbolic source of the framework of society.
+It is not only the location of legal and governmental institutions, but is the source of order, and the symbol of moral authority and social continuity.
+The center partakes of the nature of the sacred.
+In this sense, every complex society has an official religion (Shils 1975: 3; Eisenstadt 1978: 37; Apter 1968: 218).
+The moral authority and sacred aura of the center not only are essential in maintaining complex societies, but were crucial in their emergence.
+One critical impediment to the development of complexity in stateless societies was the need to integrate many localized, autonomous units, which
+would each have their own peculiar interests, feuds, and jealousies.
+A ruler drawn from any one of these units is automatically suspect by the others, who rightly fear favoritism toward his/her natal group and locality, particularly in dispute resolution (Netting 1972: 233-4).
+This problem has crippled many modern African nations (cf.
+Easton 1965b: 224).
+The solution to this structural limitation was to explicitly link leadership in early complex societies to the supernatural.
+When a leader is imbued with an aura of sacred neutrality, his identification with natal group and territory can be superseded by ritually sanctioned authority which rises above purely local concerns.
+An early complex society is likely to have an avowedly sacred basis of legitimacy, in which disparate, formerly independent gfoups are united by an overarching level of shared ideology, symbols, and cosmology (Netting 1972: 233-4;
+Claessen 1978: 557; Skalnik 1978: 606).
+Supernatural sanctions are then a response to the stresses of change from a kin-based society to a class-structured one.
+They may be necessitated in part by an ineffective concentration of coercive force in emerging complex societies (Webster 1976b: 826).
+Sacred legitimization provides a binding framework until real vehicles of power have been consolidated.
+Once this has been achieved the need for religious integration declines, and indeed conflict between secular and sacred authorities may thereafter ensue (see, e.g., Webb 1965).
+Yet as noted, the sacred aura of the center never disappears, not even in contemporary secular governments (Shils 1975: 3-6).
+Astute politicians have always exploited this fact.
+It is a critical element in the maintenance of legitimacy.
+Despite the undoubted power of supernatural legitimization, support for leadership must also have a genuine material basis.
+Easton suggests that legitimacy declines mainly under conditions of what he calls `output failure' (1965b: 230).
+Output failure occurs where authorities are unable to meet the demands of the support population, or do not take anticipatory actions to counter adversities.
+Outputs can be political (Eisenstadt 1963: 25) or material.
+Output expectations are continuous, and impose on leadership a never-ending need to mobilize resources to maintain support.
+The attainment and perpetuation of legitimacy thus require more than the manipulation of ideological symbols.
+They require the assessment and commitment of real resources, at satisfactory levels, and are a genuine cost that any complex society must bear.
+Legitimacy is a recurrent factor in the modern study of the nature of complex societies, and is pertinent to understanding their collapse.
+Levels of complexity
+Anthropologists who have studied the evolution of human organization have often found it convenient to develop typologies of simpler societies.
+The distinction between state and non-state is one example of such a classification, and is probably the one with which most anthropologists would feel comfortable.
+Some scholars (to be discussed below) have further divided states into subcategories of this class (e.g., Steward 1955; Claessen and Skalnik 1978a), while others have subdivided non-state societies into levels of complexity (e.g., Service 1962;
+Fried 1967).
+A consideration of these evolutionary typologies is pertinent to understanding collapse, indeed even to defining what the process is.
+Some anthropologists, for example, have suggested that drops in complexity within a level (such as the state level) are not instances of collapse, merely `waxings and wanings of scale' (B. Price 1977: 218).
+The details of such typologies (there are many of them, incompatible to varying degrees) are not pertinent to the present work, but the philosophy and assumptions underlying them are.
+One of the basic assumptions of the typological approach is that as societies increase in complexity, they do so by leaps from one structurally stable level to another (e.g., Segraves 1974).
+Thus, what are called `chiefdoms' are thought to have arisen out of `tribes,' which in turn developed from `bands' (Service 1962).
+In another formulation, egalitarian societies are succeeded by ones that are ranked, then ones that are stratified, and finally (in a few instances) by the state (Fried 1967).
+The alternative view, which to some degree vitiates a typological approach, is that as societies increase in
+complexity they do so on a continuous scale, so that discrete, stable `levels' will be difficult to define, and indeed may not exist.
+Any good classifier knows that in the process of classification, information about variety is lost while information about similarities is gained.
+The utility of a classification must be judged (at least partially) by whether the quantity and quality of information gained outweighs that lost, and this depends largely on the purposes and needs of the analyst.
+In some respects, evolutionary typologies of human societies are useful in that they facilitate initial communication and comparison.
+When an anthropologist says that he or she is working with a society of type X (chiefdoms, say), most colleagues readily know, at least generally, what the characteristics of that society are likely to be.
+Yet in this example some of the weaknesses of the typological approach become apparent.
+The degree of variation among societies called `chiefdoms' (e.g., Northwest Coast, Hawaii) is such that many feel uncomfortable with the concept (e.g., Tainter 1977; Cordy 1981).
+For many purposes, it may obscure more than it reveals.
+Solutions that focus on further subdividing the chiefdom category bring only the potential for endless debate, and unprofitable concentration on labels rather than on processes of stability and change (Tainter 1978: 117; McGuire 1983: 94-5).
+The typological distinction of most interest here is that which exists between states and all other kinds of societies.
+This, as noted, is a classificatory distinction that most anthropologists seem to accept, and is often called the `Great Divide' of history (Service 1975).
+Many of the characteristics of states appear to be so qualitatively different from tribal societies that a major distinction seems indicated (Webb 1975: 164-5).
+With the
+emergence of states human organization began an entirely different career.
+The features that set states apart, abstracting from the previous discussion, are: territorial organization, differentiation by class and occupation rather than by kinship, monopoly of force, authority to mobilize resources and personnel, and legal jurisdiction.
+Upon closer examination, though, it does not appear that there is always the discontinuity claimed between state and non-state societies for many of these characteristics.
+Territoriality, and the capacity to mobilize labor and other resources, occur in varying degrees among non-state societies, depending on such things as population density, pressures from competing neighbors, degree of stratification, and requirements for centralized storage, redistribution, and public works.
+The presence of formal law in primitive societies, furthermore, has been a matter of anthropological debate for some time.
+Carneiro notes that not all so-called states have had a true monopoly of force (e.g., Anglo-Saxon England) (1981: 68).
+Various authors, as noted, have felt the need to create classifications of early states.
+Webb, for example, uses the term conditional state to describe complex, fairly durable chiefdoms that are like states, but never achieve a true monopoly of force.
+Conditional states appear superficially to be similar to states, but never fully complete the transformation (Webb 1975: 163-4).
+(It must be observed that formulations like this, which comes from a strong proponent of the `states are different' school, create serious doubts about the postulated distinctiveness of states.)
+Claessen and Skalnik (1978a; see also Claessen [1978]) distinguish various types of early states.
+These are:
+The Inchoate Early State.
+In this type, kinship, family, and community ties still dominate political relations; there is limited full-time specialization, ad hoc taxation, and reciprocity and direct contacts between ruler and ruled.
+The Typical Early State.
+Kinship, in this variety, is balanced by ties to locality, competition and appointment counterbalance heredity, leading administrative roles are allocated to non-kinsmen, and redistribution and reciprocity dominate relations between strata.
+The Transitional Early State.
+Kinship in this final category affects only marginal aspects of government.
+The administrative apparatus is dominated by appointed officials, and market economies and overtly antagonistic social classes develop with the emergence of private ownership of the means of production.
+There are aspects to this subdivision that are both intriguing and disturbing.
+Just as Webb's identification of conditional states makes us doubt whether monopoly of force really is a criterion of statehood, so the concept of Inchoate and Typical Early States raises questions about the subordination of kinship as a characteristic of states.
+We have been told that states are distinctive because, among other things, they are based on class rather than kinship, and enjoy a monopoly of force.
+Now we learn that some states do indeed have these characteristics, but some states only partially have them.
+It begins to sound as if state formation is not such a Great Divide after all.
+There are apparently continuities in the transition from tribal to state societies, continuities even in those characteristics thought to be most peculiar to states.
+Cohen is correct in noting that state formation is a
+continuous phenomenon: there is no clear-cut state/nonstate dividing line (R. Cohen 1978: 4).
+While asserting that there is indeed a structural rift between tribal and state societies, Webb lists the facts that contradict this view.
+He notes, of chiefdoms and states, that On a day-to-day basis the two social types do much the same sort of thing and, in the short run, can produce the same kinds of results in terms of the establishment of public order, dispute resolution, defense against external enemies, monumental erection, public works, record keeping, the provision of luxury goods, and the support of marked distinctions of rank...
+(Webb 1975:
+The difference between chiefdoms and states, notes Webb, is that in regard to such things as size and complexity, chiefdoms peak where states begin (1975: 161).
+It was noted in the first chapter that to define collapse is actually quite a complex matter, and that such a definition would be developed throughout the work, but not completed until the final chapter.
+The foregoing discussion leads to installment number two.
+As the development of complexity is a continuous variable, so is its reverse.
+Collapse is a process of decline in complexity.
+Although collapse is usually thought of as something that afflicts states, in fact it is not limited to any `type' of society or `level' of complexity.
+It occurs any time established complexity rapidly, noticeably, and significantly declines.
+Collapse is not merely the fall of empires or the expiration of states.
+It is not limited
+either to such phenomena as the decentralizations of chiefdoms.
+Collapse may also manifest itself in a transformation from larger to smaller states, from more to less complex chiefdoms, or in the abandonment of settled village life for mobile foraging (where this is accompanied by a drop in complexity).
+The typological approach has the flaw of obscuring social variation and change within a typological level, so that only social change between levels can be recognized and addressed.
+Abandonment of the typological approach admits a whole range of interesting and significant social transformations.
+A prime example is the development of complex chiefdoms, and periodic reversions to smaller chiefdoms, as in the islands of Polynesia (Sahlins 1963, 1968).
+The collapse of a society that was not organized as a state (the Chacoans) will be one of the major examples discussed in Chapter 5.
+The evolution of complexity
+The factors that lead to complexity are pertinent to understanding collapse, for the emergence of complex social institutions, and their failure, are inevitably intertwined.
+Unfortunately, despite the great advances that have been made in recent years in understanding complex societies, much about their origins remains controversial.
+Elman Service has hit upon one of the main reasons for this.
+He notes that longstanding states have acquired in their later history so many functions and features that their original functions are often obscured (Service 1975:
+This is an important point.
+The behavior of states at the point where they come to be studied by social scientists may have little relation to the reasons for their emergence.
+Furthermore, the evolution of states subsequent to their development may respond to a variety of new factors, including both internal and external political situations (R. Cohen 1978: 8).
+Service is correct that these factors may make it difficult to ascertain the nature of early, emerging states.
+Some modern theories have not taken this into account to the extent desirable.
+Similarly, though, many theories of state origins do not account for the persistence of this form once established (Kurtz 1978:
+A number of authors have synthesized the different theories formulated to account for the origin of the state (e.g., Flannery 1972; Wright 1977a; Claessen and Skalnik 1978c; R. Cohen 1978; Service 1975, 1978; Haas 1982).
+The major lines of thought (after Wright 1977a) seem to be (in no particular order):
+Managerial.
+As societies come under stress, or as populations increase in numbers, integrative requirements may arise that can be resolved by the emergence of managerial hierarchies.
+Examples of this approach include: (a) Wittfogel's (1955, 1957) argument that the need to mobilize labor forces for construction of irrigation works, and the need to manage established water control facilities, necessitates authoritarian government; (b) Wright's and Johnson's suggestion (Wright 1969; Johnson 1973, 1978) that increasing need to process information, arising from more and more information sources, selects for both vertical differentiation and horizontal specialization; (c) Isbell's (1978) elaboration of the classic argument (e.g., Sahlins 1958) that economic differentiation within a society requires centralized, hierarchically managed storage and redistribution of goods and produce; and (d) Rathje's (1971) proposal that management of external trade, and critical imports, leads to complexity.
+Internal Conflict.
+Theories within this school postulate that class conflict is the prime mover behind complexity.
+Fried (1967), along with Marxist writers to be discussed later, maintains that the state emerged to protect the privilege of a limited few with preferential access to resources.
+Childe's views were similar (1951: 181-2).
+External Conflict.
+Carneiro (1970) argues that in circumscribed environments (bounded environments from which emigration is infeasible) stresses lead to conflict, while success at war necessitates the development of institutions to administer conquered groups.
+Webster (1975) has a different emphasis.
+He suggests that effective domination is impossible in
+chiefdoms, and that warfare in any event can offer only a short-term advantage.
+But a constant state of tension places a value on stable leadership and dampening of within-group competition.
+At the same time, acquisition of land, through conquest, that is outside the traditional system, gives elites a capital resource that can be used to create new kinds of patron-client relations.
+Synthetic.
+Several interrelated processes generate complexity and state institutions.
+Colin Renfrew, for example, cites the influence of agriculture on social organization, of social factors on craft production, and so forth (1972: 27).
+These theories pertain to the emergence of pristine or primary states, those that arose independently in various parts of the world.
+States are dominating, expansive organizations, and they have a competitive advantage over less complex social forms.
+They tend thus to either spread, or to stimulate like developments among their neighbors.
+The emergence of complexity among the competitors and trade partners of states yields the process of `secondary state' formation.
+So far as is known, there have been only six instances of primary state formation.
+These are:
+Mesopotamia, Egypt (ca.
+3500-3000 B.C.), China, Indus River Valley (ca.
+2500 B.C.), and Mexico and Peru (ca.
+0 A.D.)
+(Service 1975: 5).
+Some experts challenge the degree of independence of several of these developments, but that matter need not concern us here.
+Despite this variety of theories about the origin of the state, there seem to be, as several authors have recognized (e.g., Lenski 1966; R. Cohen 1978; Service 1975, 1978; Haas 1982), two main schools of thought.
+These are conveniently labeled the conflict and integration theories (Lenski
+[1966] prefers the terms conflict and functionalist).
+These contrasting views are more than scholarly theories of political evolution: they are philosophies of politics and society whose ramifications extend far beyond academic concerns.
+As such, they may be nearly as old as civil society itself.
+Service (1975: 23), for example, traces the conflict school to Ibn Khaldun, whose Introduction to History was begun in 1377.
+Haas (1982: 21-4) extends the dichotomy even further, recognizing conflict and integration views in the political philosophies of ancient Greece and Confucian-era China.
+There is thus a remarkable, continuous history to basic theories of the state.
+This fact is interesting in several ways, as will be seen in Chapter 4.
+The European Enlightenment produced a florescence of thought and writing on the subject.
+The names of Jean Bodin, Thomas Hobbes, David Hume, Adam Ferguson, and Jean- Jacques Rousseau are associated with various approaches to the purpose and nature of civil society; these approaches have occasionally managed to integrate the two contending schemes.
+In more recent times, the major contributions to the conflict school have been by Morgan, Marx, Engels, Childe, White, and Fried, and to the integration view by Spencer, Sumner, Durkheim, Moret, Davy, and Service (Service 1975, 1978; Haas 1982).
+In essence, conflict theory asserts that the state emerged out of the needs and desires of individuals and subgroups of a society.
+The state, in this view, is based on divided interests, on domination and exploitation, on coercion, and is primarily a stage for power struggles (Lenski 1966: 16- 17).
+More specifically, the governing institutions of the state were developed as coercive mechanisms to resolve intra- societal conflicts arising out of economic stratification (Fried 1967; Haas 1982: 20).
+The state
+serves, thus, to maintain the privileged position of a ruling class that is largely based on the exploitation and economic degradation of the masses (Childe 1951: 181-2).
+Conflict theory has reached its clearest expression in the writings of the Marxist school.
+Friedrich Engels, in his 1884 essay Origins of the Family, Private Property, and the State (Engels 1972), argued that the differential acquisition of wealth led to hereditary nobility, monarchy, slavery, and wars for pillage.
+To secure the new sources of wealth against older, communistic traditions, and resulting class antagonisms, the state was developed.
+The state, according to one leading conflict theorist (Krader 1978), is the product of society divided into two classes: those directly engaged in social production, and those not.
+The surplus produced is appropriated by and for the non-producers.
+The state is the organization of society for regulating relations within and between these classes.
+The direct producers have no immediate interest in the formation of the state, the agencies of which act in the interest of the non-producers.
+The state, says Krader, is the formal organization of class-composed and class-opposed human society (1978: 96).
+In the basic Marxist view, the production and reproduction of subsistence constitute the basis of society.
+The determinants of sociopolitical organization are the technical and social relations of production, which are equivalent to the relations of appropriation between classes (O'Laughlin 1975: 349, 351).
+Human life is defined by its social character, while a society's structural and superstructural elements specify the uses to be made of an environment, population densities to be maintained, and the like.
+Since material conditions are, therefore, always culturally mediated, Marxists reject integrationist
+theories that focus on such things as population pressure and subsistence stress (O'Laughlin 1975: 346; Wenke 1981:
+Integrationist or functionalist theories suggest that complexity, stratification, and the state arose, not out of the ambitions of individuals or subgroups, but out of the needs of society.
+The major elements of this approach are:
+(a) shared, rather than divided, social interests; (b) common advantages instead of dominance and exploitation;
+(c) consensus, not coercion; and (d) societies as integrated systems rather than as stages for power struggles (Lenski 1966: 15-17).
+The governing institutions of the state developed to centralize, coordinate, and direct the disparate parts of complex societies.
+Integrationists argue that complexity and stratification arose because of stresses impinging on human populations, and were positive responses to those stresses.
+Complexity then serves population-wide needs, rather than responding to the selfish ambitions of a few.
+Complexity seen thus might be a response to: (a) circumscription and warfare in a limited, stressed environment (e.g., Carneiro 1970;
+Webster 1975); (b) the need to process increasing amounts of information coming from ever more sources (e.g., Wright 1969; Johnson 1973, 1978); (c) the need to mobilize labor forces for socially useful public works and to manage critical resources (e.g., Wittfogel 1955, 1957); (d) the need for regional integration of specialized or unreliable local economies (e.g., Sahlins 1958; Sanders and Price 1968; Renfrew 1972; Isbell 1978); (e) the need to import critical commodities (e.g., Rathje 1971); or (f) some combination of these.
+Integration, in this view, is socially useful, and if differential rewards accrue to high status administrators that is a cost that must be borne to realize the benefits of centralization.
+Either school, standing alone, has both strong and weak points.
+I will begin with conflict theory.
+A conflict interpretation of human society is easy to adopt, and certainly comes readily to mind for many citizens of contemporary societies who are not in the economic upper strata.
+Since greed, oppression, exploitation, and class conflict obviously are characteristics of complex societies, it is tempting to see these as both the source of complexity and its dominant nature.
+Such a view is not without validity, and any theory of society must take this fact into account.
+But conflict theory is not completely adequate to explain how complex societies came into existence.
+Eisenstadt, for example, has pointed out that the failures of the Carolingian and Mongolian empires reflect the fact that such entities must be based on necessary conditions, and not solely on political goals (1963: 29).
+Conflict theory suffers from a problem of psychological reductionism.
+That is, the emergence of the state is explained by reference to the wishes, intentions, needs, and/or desires of a small, privileged segment of society.
+How this segment comes to hold these needs and desires is not specified, but presumably arises from some universal human tendency toward ambition and self-aggrandizement.
+The expression of this tendency on the part of those who are economically more successful leads to class conflict and the development of repressive governing institutions.
+Psychological explanations of social phenomena are laced with pitfalls.
+If social patterns arise from the wishes or needs of individuals, where in turn do these wishes and needs come from?
+To the extent that the origin of these cannot be explained, the social phenomenon is also unexplained.
+To the extent that these are universal, social variation is unexplained.
+If ambition and self-
+aggrandizement are universal, and lead to the state, why then did pristine states emerge no more than six times in human history?
+How did the human species survive roughly 99 percent of its history without the state?
+Why is the state such a recent oddity?
+Why were there no states in the Pleistocene?
+Conflict theorists point to the existence of a surplus as a necessary condition for the expression of this universal tendency (e.g., Engels 1972; Childe 1951; Friedman 1974:
+462), but a contradiction arises here.
+Marxists view material conditions as socially and culturally mediated (Wenke 1981: 94).
+If so, then surpluses could supposedly be concocted whenever desired.
+The fact that they are not always concocted (Sahlins 1971) points to a lacuna in conflict theory: the emergence of surpluses, the supposed basis of stratification and the state, remains unexplained.
+Cancian makes the observation that the potential for production of a surplus exists even among hunters and gatherers, but is usually not realized (1976: 228-9).
+This is an important point.
+If ambition and self-aggrandizement are universal human characteristics, then why don't foragers ordinarily produce surpluses, wealth differentials, class conflict, and the state?
+Could it be that either ambition, or its expression, is not universal?
+If ambition is not universal, then for reasons just discussed the Marxist explanation of the state is incomplete in its failure to specify the origins of ambition.
+If it is universal, but its expression is suppressed in certain kinds of societies, then obviously there is more to sociopolitical evolution than selfaggrandizement.
+We cannot fully explain the emergence of social institutions by a psychological feature that is itself conditioned by social institutions.
+As briefly discussed earlier in this chapter, there is indeed a tendency toward social leveling in simpler societies.
+Richard Lee (1969) has given a delightful illustration of this from his work among the Bushman foragers of the Kalahari Desert in southern Africa.
+One year at Christmas he bought an ox for a Bushman group.
+Rather than the praise he expected, Lee encountered criticism of his gift.
+This criticism, that the animal was thin and old, continued right up to the Christmas feast.
+At this time the ox was eaten with obvious enjoyment.
+Bushmen questioned on the matter explained that they simply could not allow arrogance, or let anyone think of himself as a chief or a big man.
+Superior outside hunters are treated similarly.
+Thus the egalitarian ethic is reinforced.
+Where egalitarian cooperation is essential for survival, hoarding and selfaggrandizement are simply not tolerated.
+It is only in societies already following a trajectory of developing complexity that such tendencies are allowed expression.
+Why is this?
+Can it be that the fulfillment of individual ambition, in certain contexts, has society-wide benefits, just as its suppression does in other settings (such as the Bushmen)?
+While the answer to that fascinating question is far beyond the scope of this work, it does lead to a consideration of integration theory, and must indeed be a central assumption of that theory.
+In integration theory, the differential benefits accruing to those who fulfill societywide administrative roles are seen as compensation for performing the socially most important functions (Davis 1949: 366-8).
+The costs of stratification are a necessary evil which must be borne to realize its integrative benefits.
+In basing the development of complexity on real, observable, physical needs (defense, public works, resource sharing, etc.)
+integration theory avoids the psychological reductionism that cripples
+Marxism.
+Human tendencies toward self-aggrandizement are seen as controlled in a sociopolitical matrix, so that they are expressed in situations of benefit, and suppressed elsewhere.
+Expression of ambition is a dependent social variable, rather than an independent psychological constant.
+This view, however appealing to many social theorists (as well as the elites thereby defended), is clearly oversimplified.
+It seems obvious, for example, that the costs and benefits of stratification are not always as balanced as integration theory might imply.
+Compensation of elites does not always match their contribution to society, and throughout their history, elites have probably been overcompensated relative to performance more often than the reverse.
+Coercion, and authoritarian, exploitative regimes, are undeniable facts of history.
+Haas (1982: 82-3) has made an important point overlooked by many integration theorists: a governing body that provides goods or services has coercive authority therein.
+The threat of withholding benefits can be a powerful inducement to compliance.
+As Haas has stated `...coercive force is an inevitable covariable of an essential benefit...'
+Granting the logic of this, it seems clear that there must be more to sociopolitical evolution than the Panglossian view that integration theory implies.
+Legitimacy is a matter that touches both views.
+As long as elites must rely on force to ensure compliance, much of their profit will be consumed by the costs of coercion (Lenski 1966: 51-2).
+Even conflict theorists must, therefore, acknowledge the role of legimitizing activities in maintaining a governing elite.
+Indeed, one Marxist anthropologist has argued that
+...classes could only have grown up in societies legitimately - or, at least..
+.the process of transformation must have been slow and the legitimacy of their transformation must long have weighed more heavily in the balance than such factors as violence, usurpations, betrayals, etc.
+(Godelier 1977: 767 [emphasis in original]).
+All official ideologies incorporate the thesis that the structure of government serves the common good.
+Conflict theorists may smirk at this `opiate of the masses,' but in fact it binds the rulers as well as the ruled.
+Some delivery on this promise is essential (Lenski 1966: 180-1).
+Legitimizing activities must include real outputs (Easton 1965b) as well as manipulation of symbols, and where they don't, costly and unprofitable investments must be made in coercive sanctions (Haas 1982: 211).
+Claessen makes the point that, in order to secure loyalty, rulers need return as gifts to the populace only a fraction of what has been secured in taxes or tribute (1978: 563).
+Conflict and integration theory seem, then, to be individually inadequate to account for both the origin and the persistence of the state.
+This fact has led some to call for their combination (e.g., Lenski 1966; R. Cohen 1978; Haas 1982).
+Governmental institutions both result from unequal access to resources, and also create benefits for their citizenry (R. Cohen 1978: 8).
+There are definitely beneficial integrative advantages in the concentration of power and authority (Haas 1982: 128); once established, however, the political realm becomes an increasingly important determinant of change in economy, society, and culture (R. Cohen 1978: 8).
+Integration theory is better able to account for distribution of the
+necessities of life, and conflict theory for surpluses (Lenski 1966: 442).
+The reader may have discerned that, while accepting the suggestion that a synthesis is necessary to understand both the emergence and continuation of states, the view followed here leans toward the integration side.
+The psychological reductionism of conflict theory is an insurmountable flaw.
+Self-aggrandizement cannot account for the development of states, but it certainly does help in understanding their subsequent history.
+There is, however, a very important point that conflict and integration theory have in common.
+In both views, states are problem-solving organizations.
+Both theories see the state as arising out of changed circumstances, and as being a response to those circumstances.
+In conflict theory the state develops to solve problems of class conflict that emerge from differential economic success.
+In integration theory governing institutions arise to secure the well-being of the total populace.
+While the purposes of the state are seen as different, on this level the state of conflict theorists and the state of integrationists are the same kind of institution.
+As will be seen in subsequent chapters, the nature of complex societies as problemsolving organizations has much to do with understanding why they collapse.
+In this regard, while conflict theorists will be disappointed by these views on the nature and emergence of complexity, they will still find utility in the explanation of collapse.
+Summary and implications
+Complex societies are problem-solving organizations, in which more parts, different kinds of parts, more social differentiation, more inequality, and more kinds of centralization and control emerge as circumstances require.
+Growth of complexity has involved a change from small, internally homogeneous, minimally differentiated groups characterized by equal access to resources, shifting, ephemeral leadership, and unstable political formations, to large, heterogeneous, internally differentiated, class structured, controlled societies in which the resources that sustain life are not equally available to all.
+This latter kind of society, with which we today are most familiar, is an anomaly of history, and where present requires constant legitimization and reinforcement.
+The process of collapse, as discussed in the previous chapter, is a matter of rapid, substantial decline in an established level of complexity.
+A society that has collapsed is suddenly smaller, less differentiated and heterogeneous, and characterized by fewer specialized parts; it displays less social differentiation; and it is able to exercise less control over the behavior of its members.
+It is able at the same time to command smaller surpluses, to offer fewer benefits and inducements to membership; and it is less capable of providing subsistence and defensive security for a regional population.
+It may decompose to some of the constituent building blocks (e.g., states, ethnic groups, villages) out of which it was created.
+The loss of complexity, like its emergence, is a continuous variable.
+Collapse may involve a drop between
+the major levels of complexity envisioned by many anthropologists (e.g., state to chiefdom), or it may equally well involve a drop within a level (larger to smaller, or Transitional to Typical or Inchoate states).
+Collapse offers an interesting perspective for the typological approach.
+It is a process of major, rapid change from one structurally stable level to another.
+This is the type of change that evolutionary typologies imply, but in the reverse direction.

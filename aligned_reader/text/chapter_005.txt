@@ -1,0 +1,1481 @@
+Chapter 5. Evaluation: Complexity and Marginal Returns in Collapsing Societies, Part One.
+The people desire disorder.
+A Chinese poet on the Chou collapse (quoted in Creel [1970: 4311) The framework developed in the preceding chapter focused on changing cost/benefit ratios for investment in complexity.
+The shift to increasing complexity, undertaken initially to relieve stress or realize an opportunity, is at first a rational, productive strategy that yields a favorable marginal return.
+Typically, however, continued stresses, unanticipated challenges, and the costliness of sociopolitical integration combine to lower this marginal return.
+As the marginal return on complexity declines, complexity as a strategy yields comparatively lower benefits at higher and higher costs.
+A society that cannot counter this trend, such as through acquisition of an energy subsidy, becomes vulnerable to stress surges that it is too weak or impoverished to meet, and to waning support in its population.
+With continuation of this trend collapse becomes a matter of mathematical probability, as over time an insurmountable stress surge becomes increasingly likely.
+Until such a challenge occurs, there may be a period of economic stagnation, political decline, and territorial shrinkage.
+The ideal way to evaluate this model would he to isolate and quantify the costs and benefits of various instances of social complexity, and to plot changes in these costs and benefits through time.
+Long-term periods of significantly
+declining marginal returns in complexity should be periods of vulnerability to collapse.
+None of the ancient societies that have collapsed, however, have kept the kinds of detailed records necessary for such a quantitative test, and indeed, many have kept no written records at all.
+(Such data are difficult to acquire even for contemporary societies [Mansfield 1971: 35-6].)
+Strategy in this chapter will be instead to investigate in detail three complex societies that have collapsed.
+The objective is not to perform a quantitative test of the explanatory framework (for that is impossible) but to ascertain whether this framework helps us to understand collapse in actual cases.
+The three test cases have been selected to represent a broad spectrum of sociopolitical complexity, to ensure that the explanation applies to different kinds of societies.
+Given this restriction, the cases chosen represent probably the best documented examples for their respective levels of complexity.
+The cases are:
+The Western Roman Empire.
+The Roman Empire was certainly among the most complex, entrenched, and territorially extensive societies that have collapsed.
+It is also one of the best documented through literary sources.
+This literature will be the main basis for the investigation.
+The Classic Maya of the Southern Lowlands.
+Classic Maya Civilization evolved from small, independent hamlets, to polities that existed at a city-state level of organization, and to regional systems in which major political centers dominated territories of perhaps a few thousand square kilometers.
+Although the Maya were a literate civilization, their writing is at present
+not fully understood.
+Our knowledge of the Mayan collapse comes primarily from archaeological research.
+Chacoan Society of the American Southwest.
+Organized as a hierarchical, regional confederation, the Chacoans represent the most complex prehistoric society that developed on the Colorado Plateaux of North America.
+They were also the least complex of the societies examined in this chapter, never organized as a true, coercive state.
+The Chacoans had no written records, and are solely known archaeologically.
+These cases, besides representing very different levels of complexity, allow us to assess the usefulness of the framework for understanding both historically and archaeologically known cases of collapse.
+The collapse of the Western Roman Empire The Roman Empire is paradoxically one of the great successes and one of the great failures of history.
+The fact that it could be both is readily understandable by investigating its marginal return on investment in complexity during the periods of its rise and its decline.
+The collapse of the Roman Empire in the West cannot be attributed solely to an upsurge in barbarian incursions, to economic stagnation, or to civil wars, nor to such vague processes as decline of civic responsibility, conversion to Christianity, or poor leadership.
+Several of these factors were indeed involved in the collapse process, but to understand that process it is necessary to go back in time to the formation of the entity that ultimately fell.
+Whatever the factors that led to the Roman expansion in the last few centuries B.C., some of its economic consequences were striking.
+One of these was a tendency for Romans to migrate to the newly conquered provinces (Gibbon 1776-88: 32; Levy 1967: 56; Weber 1976: 394-5; Rostovtzeff 1926: 15).
+It is noteworthy that the Roman expansion followed the political strife between plebians and patricians of the fifth and fourth centuries B.C., and the land divisions among peasants of the Licinian Law of 367 B.C. While these facts entice speculation about the causes of the Roman expansion - whether it was induced by irresistible opportunities, by perceived threat, by abstract policy, by demographic pressure in Italy, or by some combination of these and other factors - such speculation is beyond the scope of the present work.
+What does seem fairly certain is that the willingness, even readiness, of the Romans to emigrate must indicate some lack of comparable opportunity in the homeland.
+To the
+extent that foreign acquisitions helped to meet this need, there was a valid social, political, and economic outcome to the policy of expansion - at least for the conquerors.
+The policy of expansion was at first highly successful.
+Not only were the conquered provinces looted of their accumulated surpluses, even their working capital, but permanent tributes, taxes, and land rentals were imposed.
+The consequences for Rome were bountiful.
+In 167 B.C. the Romans seized the treasury of the King of Macedonia, a feat that allowed them to eliminate taxation of themselves.
+After the Kingdom of Pergamon was annexed in 130 B.C. the state budget doubled, from 100 million to 200 million sesterces.
+Pompey raised it further to 340 million sesterces after the conquest of Syria in 63 B.C. Julius Caesar's conquest of Gaul acquired so much gold that this metal dropped 36 percent in value (Levy 1967: 62-5).
+With this kind of payoff, Rome's conquests under the Republic were economically self-perpetuating.
+The initial series of victories, undertaken as a matter of selfpreservation, began increasingly to provide the economic base for further conquests.
+By the last two centuries B.C. Rome's victories may have become nearly costless, in an economic sense, as conquered nations footed the bill for further expansion (A. Jones 1974: 114-15).
+This process culminated with Octavian's (later Augustus) conquest of Egypt.
+The booty of Egypt allowed Augustus to distribute money to the plebians of Rome - and even, when necessary, to relieve shortages in the state budget out of his personal fortune (Frank 1940: 7-9, 15).
+Yet the geometric Roman expansion of the Republic ended under the Principate (the emperors from Augustus up to the accession of Diocletian [284 A.D.])
+Augustus (27 B.C.-14 A.D.)
+terminated the policy of expansion,
+particularly after losses to the Germans, and concentrated instead on maintaining a stable army and restoring the prosperity that had been ruptured by the civil wars.
+With the establishment of Imperial rule, historians usually refer to events by the chronology of the succession of emperors.
+To facilitate the discussion Table 5 has been prepared, giving the dates of rule for each emperor.
+These dates will also be occasionally incorporated into the text, whenever that might serve to clarify the discussion.
+With the end of geographic expansion there was a corresponding drop in the windfalls of conquest (A. Jones 1974: 124).
+From Augustus to Diocletian, most emperors were faced with at least some insufficiencies of revenue (Heichelheim 1970: 270).
+Augustus frequently complained of fiscal shortage, and was often hard put to finance even the modest administration and foreign policy that he established (Gibbon 1776-88: 140; M. Hammond 1946: 75).
+He instituted for Roman citizens a five percent tax on legacies and inheritances (Gibbon 1776-88: 142).
+This tax, established to provide for military retirement (Frank 1940: 7), was highly unpopular, since the Roman population had been relieved of taxes in the late Republic.
+The major Imperial costs, at various times, included pay, rations, and fodder for the army, the civil service, and other state employees (e.g., in later times workers in the Imperial arms factories), public works, the postal service, uniforms for the army and civil service, education, and the public dole (A. Jones 1974: 35).
+At all times the major expense was the military, although the Roman dole was not inconsequential.
+Julius Caesar found 320,000 beneficiaries, nearly one citizen in three.
+He reduced this to 150,000, but the figure rose again.
+From Augustus to Claudius (41-54 A.D.)
+approximately 200,000 heads of families received free
+wheat.
+A special fleet was needed to transport this, as were wharves on the Tiber River and at the port of Ostia, and numerous shipowners and bakers (Levy 1967: 69, 77).
+In the middle of Augustus' reign Rome's annual income was about 500 million sesterces (Frank 1940: 53) (the sestertius was a coin valued initially at four to the silver denarius [Mattingly 1960: 122]).
+With this income, Augustus established an army of 25 legions.
+The pay of individual legionaries was set at 225 denarii per year.
+Despite the stagnation of revenue when expansion fell off, and the often heavy rule in the provinces, there were
+definite benefits to the early Empire.
+There were foreign and internal peace and security, the borders were maintained, commerce was protected, and public works projects were undertaken (Toutain 1968: 253-9).
+The early Empire was relatively prosperous (M. Hammond 1946: 34) even if the State was not able to command the wealth temporarily made available by earlier conquests.
+The Roman economy was overwhelmingly an agricultural one.
+It has been estimated that in the later Empire agriculture provided fully 90 percent of the government's revenue.
+Trade and industry, by contrast, were relatively insignificant.
+One of the main reasons for this was the high cost of land transport.
+A wagon load of wheat, for example, would double in value with a land journey of only 480 kilometers, a camel load in 600 kilometers.
+Land transport was so costly and inefficient that it was often impossible to relieve inland famines; local surpluses could not be economically carted to areas of shortage.
+Ship transport, while risky and seasonally restricted, was much more economical.
+It was, for example, less costly to ship grain from one end of the Mediterranean to the other than to cart it 120 kilometers.
+Under the Edict on Prices, issued by Diocletian in 301 A.D., transport by road was 28 to 56 times more costly than by sea.
+The importance of Egypt to feeding the Empire was not just its agricultural productivity, but also its proximity to water transport.
+Thus, the only goods that could profitably be transported long distances were those of high relative value - i.e., luxury goods.
+The bulk of the population, existing on their own agricultural production, could not afford such goods.
+Large-scale industry thus existed in only a few towns, while most local needs were supplied by village craftsmen (A. Jones 1964: 841-4, 1974: 30, 37-9, 83, 138; Duncan- Jones 1974: 1, 368; M. Hammond 1946: 70-1).
+The Imperial superstructure built on this agricultural base could usually support ongoing expenses, but had difficulty dealing financially with crises.
+Taxes were initially levied at fixed rates, and were typically not flexible enough to be increased in crises.
+The government operated strictly on a cash basis and rarely borrowed; its budget was at best minimally planned.
+Costs tended to rise, although so for a time did State income.
+Rome's revenues grew from about 500,000 sesterces in the middle of Augustus' reign to about 1,200,000 to 1,500,000 under Vespasian (69-79 A.D.).
+Some reigns were excessively expensive, such as that of Claudius (41-54 A.D.), who engaged in major public works and conquered Britain.
+Reserves built up by prudent emperors were quickly spent by their successors (Frank 1940: 42, 53; Heichelheim 1970: 249, 270; A. Jones 1974: 189).
+Emperors upon accession were often faced with an insolvent government, and rarely were able to accumulate reserves for emergencies.
+When extraordinary expenses arose the supply of coinage was frequently insufficient.
+To counter this problem, Nero began in 64 A.D. a policy that subsequent emperors found increasing ly irresistible.
+He debased the silver denarius, raising the content of base metal to ten percent.
+He also reduced somewhat the size of both the denarius and the gold aureus (a coin initially worth 25 denarii) (A. Jones 1974: 191; Heichelheim 1970: 213-14; Mattingly 1960: 121).
+This proved no solution, for Vespasian, who increased the number of legions to 30 (M. Hammond 1946: 76), encountered a pressing need for money, and so both raised taxes and debased the currency further (Frank 1940: 44-7; Finley 1973: 90).
+Adding to the problem, Domitian (81-96 A.D.)
+increased the pay of legionaries to 300 denarii per year, while Nerva (96-8) established a public system for the care
+of Italian orphans.
+The emperor Trajan (98-117 A.D.)
+embarked on an ambitious - and expensive - program of military expansion.
+While successful in the field, the booty taken from the conquered lands apparently did not even cover the costs of his campaigns.
+And of that booty, more than 1/3 was distributed among the urban poor (at some 650 denarii per head).
+Consequently, the denarius, which had been restored under Domitian and Nerva to its Neronian standard, was devalued by 15 percent, to a level of 79-88 percent purity (Rostovtzeff 1926: 309; M. Hammond 1946: 75-6, 78; Frank 1940: 68, 91; Mattingly 1960: 184).
+Trajan's successor, Hadrian (117-38), dropped the financially untenable policy of expansion, and abandoned the new acquisitions in Mesopotamia and Assyria.
+At the same time, however, he instituted a public dole at Athens, gave largess to the poor at 1000 denarii per head, and incurred heavy costs in his travels and building programs.
+To economize in military costs, from Hadrian's time on army units were raised as often as possible from the locality where they would be stationed.
+Hadrian occasionally granted tax waivers, perhaps indicating that by this time higher taxation would have created difficulties.
+The next Emperor, Antoninus Pius (138-61), attempted to shrink the level of Hadrian's administration.
+He tried to reduce the number of government officials, and even sold some of the Imperial property and estates.
+Although he repeatedly gave largess to the people of Rome (at 800 denarii per head), Antoninus Pius left in the treasury at his death a substantial surplus, totaling 675 million
+denarii (A. Jones 1974: 189; Weber 1976: 406; Frank 1940: 71, 72, 76; Rostovtzeff 1926: 315; Mattingly 1960: 184).
+This surplus proved short-lived.
+During the reign of Marcus Aurelius (161-80) the edifice of the Empire began to crack.
+Two major crises confronted the Empire while he held the throne.
+First, a devastating plague began in 165 or 166 A.D.; it lasted about 15 years and caused significant loss of life (as much as 1/4 to 1/3 of the populace in some areas [McNeill 1976: 116]).
+Secondly, wars with Germanic tribes kept the Emperor in the field for much of his reign.
+The Roman Empire that had thrived on the plunder of expansion, and that had at least maintained stability when expansion ceased and revenues leveled off, found itself hard pressed to deal with stress surges of this magnitude.
+The cost of Marcus Aurelius' barbarian wars exceeded the level that could be supported by the Empire's normal income.
+One consequence, as might be expected, was the depletion of Antoninus Pius' surplus.
+Yet even with this surplus, Marcus Aurelius found his wars too expensive for revenues, and was forced to finance the Empire's efforts by conducting public auctions of Imperial valuables.
+He also had to raise new taxes, and debased the denarius to between 70 and 78 percent silver.
+Despite these difficulties, he still made donations to his soldiers and the poor.
+In addition to the problems of financing the barbarian wars, Marcus Aurelius faced a shortage of recruits for his army.
+Because of this he was forced to settle the defeated Marcomanni within the borders of the Empire, on the condition that they furnish recruits.
+This is in some ways not surprising, for although population may have risen under the early Principate, by the second century A.D. there was a shortage of free agricultural labor.
+Not only did this have consequences for agriculture, but also for
+the military, which depended on the peasant population for recruits (Boak 1955: 15, 17-19; Frank 1940: 77, 92; A. Jones 1974: 194; Rostovtzeff 1926: 326).
+There are indications that these financial exigencies extended to more than foreign and military affairs.
+The cities of the Empire had few sources of revenue, so elected officials were usually drawn from the local wealthy classes, and were expected personally to finance all or part of the duties of their offices.
+As these expenditures increased through time, the amounts paid by these magistrates rose.
+By the second century A.D. these duties grew to be so burdensome that candidates for office began to fall off (A. Jones 1974: 13, 28; Rostovtzeff 1926: 342).
+Commodus (180-92), who succeeded Marcus Aurelius, is of interest to this study primarily for further debasement of the denarius.
+Under his rule it dropped to as low as 67 percent silver (Frank 1940: 92).
+The death of Commodus marked the end of the Antonine dynasty.
+In the successional struggles that followed, Septimius Severus (193-211) ultimately emerged, but with an uncertain hold on the throne.
+To secure his position, he and his successors of the Severan dynasty courted the army.
+The resultant military costs strained finances.
+Septimius Severus increased the pay of troops to 400 denarii per year.
+His successor, Caracalla (211-17), raised it to 600, while by the end of the Severan dynasty (235) it stood at 750.
+The size of the military was also increased to 33 legions.
+Nor were military costs the sole problem.
+Septimius Severus supplemented the Roman dole with the addition of oil to the list of free commodities.
+Mattingly has noted of this time, `The expenses of government were
+steadily increasing out of proportion to any increase in receipts and the State was moving steadily in the direction of bankruptcy' (1960: 124).
+To pay for all this, Septimius Severus debased the denarius to between 43 and 56 percent silver.
+The denarius by the early third century was so reduced in value that Caracalla introduced a new coin, the Antoninianus, which was supposedly equal to two denarii, but of lower real value (Mattingly 1960: 215).
+His successors did not hesitate to debase it further.
+Caracalla also reduced the gold content of the aureus.
+The denarius, however, was the coin most worth debasing, since it was used to pay the troops, and this was the major item in the Imperial budget.
+Caracalla is perhaps best known for his act of 212 extending Roman citizenship to all free inhabitants of the Empire.
+This had the consequence of vastly extending the pool of those liable to the Roman inheritance tax, which he incidentally doubled.
+Although good data are lacking for the early Empire, these continued debasements were clearly inflationary.
+A slave that in Commodus' reign cost 500 denarii, for example, sold
+for 2500 under the Severi (Mazzarino 1966: 153).
+The older, more valuable coins would have been withdrawn, since people would naturally prefer to pay obligations in the newer, debased currency.
+Bands of military deserters plagued parts of the Empire under Commodus, Septimius Severus, and Severus Alexander (222-35).
+Order was beginning to break down.
+Yet the disturbances of the early third century were nothing compared with what would follow the end of the Severan dynasty in 235 A.D. (Rostovtzeff 1926: 344-80).
+A. Jones 1974: 194-5; Frank 1940: 86-7, 92-3; Boak 1955: 66; M. Hammond 1946: 76).
+The half century from 235 to 284 A.D. was a period of unparalleled crisis, during which the Roman Empire nearly came to an end.
+The chief features of this time were foreign and civil wars, barbarian incursions, devastation of many provinces, increases in the size of the army and the bureaucracy, financial exigency and increased taxes, debasement of the currency, and unparalleled inflation.
+MacMullen has aptly characterized the time: `So extensive and complex was the unraveling of the empire's power to defend itself, it strained every power of comprehension' (1976: 69).
+The Empire survived this period of crisis, but at great cost, and emerged at the turn of the fourth century A.D. as a very different entity.
+This is a period for which comparatively little documentation exists, but that in itself may be symptomatic.
+Literacy and mathematical training apparently declined during the third century.
+This resulted not only in the unsatisfactory documentation of the period with which historians must deal, but must also have affected the Imperial government.
+As fewer people could read or count, the quality and quantity of information reaching the
+government during this critical time would have declined.
+In Egypt after 250 A.D. census registration came to a halt, and Egypt was a province that was relatively untouched by the troubles.
+The major emphasis of what education remained was rhetoric, and that was not really relevant to the needs of the government.
+There was at the same time an increase in mysticism, and knowledge by revelation.
+The external threats brought increased propaganda about patriotism, ancient Roman virtues, and superiority over the barbarians (MacMullen 1976: 13, 38-44, 50-1, 58-60, 65-6; Clough 1951: 159; Burckhardt 1949: 129).
+The average reign during this period of violent political instability was only a few months, and there were many usurpers (A. Jones 1964: 23).
+There were in this 50 year period at least 27 recognized Emperors, at least twice that many usurpers who were killed, and at one time thirty claimants to the throne.
+A partial list of these is given in Table 7.
+By the time of Diocletian (284-305), the number of Emperors and pretenders averaged out to at least one per year for half a century.
+Many commoners did not know who the Emperor at any time was - only that there was one (MacMullen 1976: 93-4; Boak 1955: 23; Clough 1951: 155).
+An Emperor's rule during this time was tenuous, and highly dependent on the favor of the military.
+Rulers were forced to take extraordinary actions to convince the populace of their legitimacy, and to maintain military support.
+These legitimizing activities carried associated costs; they were politically essential but came at a time of unprecedented financial crisis.
+Portrait busts were churned out upon the ascendancy of a ruler.
+False exploits and titles were manufactured.
+Coinage addressed to key army units was issued.
+Increased subsidies were given to those who manufactured luxuries for wear or use in palaces.
+During some of the darkest times, Aurelian (270-5) felt compelled
+to increase the expense of the Roman dole, issuing loaves of bread rather than wheat flour, and offering pork, salt, and wine at reduced prices.
+In the decade before Aurelian, Alexandria and other Egyptian cities had been added to the dole (MacMullen 1976: 45-6, 93-4, 98; Boak 1955: 66).
+Central control over many provinces waned, and successful independent empires were temporarily established in several areas.
+Gaul, Britain, and Spain, for example, were independent from 260-74.
+Semi-successful revolts included those of Carausius and Allectus in the northwest (287-96), Domitianus and Achilleus in Egypt (297), and Zenobia in the east (267-73).
+Provinces such as Gaul and Palmyra found Imperial assistance during the crisis so ineffectual that for local pretenders usurpation was comparatively successful.
+Each new center of power, whether legitimate or not, needed a court and full bureaucracy, a complement of servants, and of course an army (MacMullen 1976: 93, 100; Boak 1955: 23; Rostovtzeff 1926: 391).
+This was a time of local disintegration.
+Lawlessness and banditry increased in places such as Sicily.
+Tenant farmers left the land, and there were numerous bands of brigands.
+Farmers in Egypt fled to the swamps of the Delta.
+In Gaul, rebellious bands formed called the Bagaudae.
+Suppressed by Maximinian in 286, but reappearing in the mid fourth century, they remained to the end of Roman rule (Gibbon 1776-88: 242-43; Rostovtzeff 1926: 424, 437; Boak 1955: 27, 38-40).
+Government costs rose in the areas still under Imperial control.
+There were increased costs for the expansion and care of cities, for the dole, and for the construction of roads, palaces, and storage buildings.
+The size and payroll of the army grew, as did campaigning costs.
+The government's fiscal obligations may well have doubled, and yet this was a government that even before the crisis had been strapped for funds (MacMullen 1976: 102-4, 107-8).
+Despite the increased expenditures, civil services declined, and buildings fell into disrepair.
+The only solution for the government was to raise taxes and debase the currency further.
+Caracalla had increased army pay at a cost of 70,000,000 denarii per year.
+To pay for this, as noted, he introduced the Antoninianus, a new coin.
+It was half the weight of the denarius but tariffed at two denarii.
+More than 50 years later, after devastating inflation, Aurelian tried the same trick: in the context of reforming the currency he placed a nominal value on coins that was far higher than their actual worth.
+Prices skyrocketed.
+Money changers in the east refused to give small change for Imperial coinage.
+Under Gallienus (260-8) the Antoninianus had less than five percent silver.
+`The Empire,' wrote Mattingly of this period, `had, in all but words, declared itself bankrupt and thrown the burden of its insolvency on its citizens' (1960: 186).
+By Aurelian's time further debasement was essentially impossible.
+Due to the decline in literary and mathematical training during the period of crisis, few data are available on actual inflationary rates between 235 and 284.
+Good quantitative data again become available with the reign of Diocletian.
+These data will be discussed when the narrative reaches that point.
+Some of the effects of the inflation can be perceived, however, even before Diocletian.
+The main victims, as always, were those on fixed incomes.
+Unlike current times, though, this included the government and its employees.
+The Roman government before Diocletian had no real budget, nor any economic policy, as we would know these today.
+It depended on tax rates that rarely changed.
+As a result, when crises arose, revenue could not be increased.
+By the latter part of the third century the currency was so worthless that the State resorted to forced labor and an economy in kind.
+The earliest example of the former may be Aurelian's conscription of craft associations to build the walls around Rome.
+By the time of Diocletian the State was so unable to rely on money to meet its needs that it collected its taxes in the form of supplies directly usable by the military and other branches of government, or in bullion to avoid having to accept its own worthless coins (A. Jones 1964: 29-30 1974: 137, 197; MacMullen 1976: 125, 158, 205; Mattingly 1960: 186).
+Barbarian incursions were frequent and ruinous between 248 and 268.
+The usurpa tions and regular murder of sitting Emperors meant that civil war was common.
+Many local populations were devastated by these events.
+The barbarians were unskilled at siege warfare, so they tended to concentrate in the countryside.
+Even so, some cities were sacked and burned.
+In rural areas crops were destroyed, cattle seized, and the population carried off into slavery.
+Roman armies were almost as destructive.
+Despite pay increases, inflation sapped the value of military compensation so thoroughly that army units were often forced to seize what they needed from local populations.
+Under the expense of defending the Empire against incursions, some frontier provinces were abandoned, including the area between the Rhine and the Danube in the 230s and 260s, Dacia in the 260s and 270s, the larger parts of Moesia in the 270s and Mauretania Tingitana in the 280s, and the Low Countries in the late third century.
+There was increased investment in fortifications, and troops withdrew from border installations to walled cities.
+In Britain, large coastal forts were constructed, and massive stone walls built around even rather small population centers (A. Jones 1964: 25, 31-2; MacMullen 1976: 1, 189-90; Gibbon
+1776-88: 206-7; Rostovtzeff 1926: 444-5; Boak 1955: 232; Frank 1940: 302; Frere and St Joseph 1983).
+The population of the Empire, under the effects of ravaging of the countryside by both foreign and friendly forces, rampant inflation, and changing leadership, cannot have recovered from the plague outbreak of 165/166 to 180.
+The catastrophes of 235-84 fell on a declining population, which suffered further when the plague returned from 250 to 270 A.D. The agricultural population of a province so essential as Gaul declined, either killed or captured by barbarians, or having deserted fields to join the bands of brigands.
+Town populations fell before and during the crisis, due to plague, pillage by armies engaged in civil wars or by barbarians, and the declining rural population (Rostovtzeff 1926: 424; Boak 1955: 19, 26, 38-9, 55-6, 113; MacMullen 1976: 18, 183).
+The wealthy, as long as they avoided injudicious political entanglements, generally continued to fare well.
+Large landowners emerged during the third century in increased numbers in all parts of the Empire.
+The middle class in towns, however, was burdened by the cost of civil obligations.
+After the second century, while portrait busts of Emperors were being turned out in increasing numbers, there were fewer and fewer local inscriptions.
+Townspeople could no longer afford them.
+Small peasant proprietors lost their holdings, attaching themselves as tenants to large estates.
+Commerce declined, due to the unsafe nature of the countryside and the seas (M. Hammond 1946: 75; Boak 1955: 57; Heichelheim 1970: 297).
+The Roman Empire was in a crisis in which its survival was imperiled.
+The situation was rescued for a time by Aurelian, who in a brief reign (270-5) pushed back the barbarians, `reformed' the coinage, and reattached the
+rebellious provinces.
+Yet he failed, or did not have sufficient time, to enact the sweeping administrative and economic changes needed to ensure the Empire's survival.
+He did, however, begin these, by conscripting labor when needed for the walls of Rome, and by ordering that deserted lands be obligatorily farmed under the direction of local city Senates.
+The effect of the latter directive was to draft peasants and whole villages into enlarged agricultural labor forces (MacMullen 1976: 205-6).
+Yet the situation began to unravel again after his death.
+It was Diocletian who, in a reign from 284 to his voluntary abdication in 305, quelled the barbarians, defeated usurpers, and at the same time initiated sweeping political and economic changes that transformed the nature of the Empire, and ensured its survival for a while longer.
+It is difficult always to determine the starting date of the changes that transformed the later Empire.
+Some can be traced to Diocletian, to Constantine, or to their successors.
+Others probably originated in the dark times of the crisis, from which so little documentation has emerged.
+For this reason the discussion that follows will be temporally eclectic, chronologically consistent insofar as possible, but concerned more with the processes of change than with the dates of administrative actions.
+The Empire that emerged under Diocletian and Constantine was administered by a government that was larger, more complex, more highly organized, and that commanded larger and more powerful military forces.
+It taxed its citizens more heavily, conscripted their labor, and regulated their lives and their occupations.
+It was a coercive, omnipresent, all-powerful organization that subdued individual interests and levied all resources toward one overarching goal: the survival of the State.
+The most pressing need was increased military manpower.
+It has been estimated that the Severan army (prior to 235 A.D.)
+was just over 300,000.
+During the next half-century it was increased, standing at 400,000 when Diocletian took office.
+The level was raised again by Diocletian and Constantine, to between 500,000 and 600,000.
+By Diocletian's time, in other words, the size of the army may have doubled in 70 years.
+It was increased again by Constantine, and stood at 650,000 by the end of the fourth century.
+The recruitment rate for a force of this size has been estimated at around 96,000 per year.
+Diocletian built networks of strategic roads and fortresses along the frontiers.
+Constantine drew back slightly from this strategy, reducing frontier garrisons, and creating instead a central, mobile striking force, with a greatly increased proportion of cavalry.
+The army of the later Empire was probably better officered, since most were professional soldiers rather than civilians with temporary commissions (Boak 1955: 87, 91, 94; A. Jones 1964: 55, 57, 60, 97-8, 1037, 1046, 1974: 129; MacMullen 1976: 185-7, 204; Brown 1971: 24).
+A second major transformation was in the administration of the Empire.
+A serious revolt in Egypt in 297 convinced Diocletian that more than one ruler was needed to deal with the multiple crises besetting the Empire on so many fronts at once.
+His solution was the establishment of the Tetrarchy, the system whereby the eastern and western halves of the Roman world were ruled by separate Emperors, each assisted by a subordinate with the title `Caesar.'
+Diocletian also greatly increased the number of provinces, by subdividing existing provinces into many smaller ones (and thereby depriving provincial governors of the opportunity to rebel).
+He increased the size of the Imperial administration, which now had to move with him as he traversed his domains.
+The size of the bureaucracy was
+greatly expanded, perhaps doubling by Diocletian's abdication.
+Moreover, this increased, peripatetic administration was largely duplicated four times, in each of the Imperial courts (two Emperors, two Caesars).
+The number of capital cities correspondingly increased, making permanent the temporary proliferation of capitals under the pretenders.
+Diocletian built state factories to make arms for the military, and also to provide for the material needs of the Imperial court.
+A vast state transport system was maintained.
+Under Diocletian and Constantine not only was the size of the administration expanded, but it was increasingly segmented and specialized.
+Indeed, this process can be traced back to the years of crisis.
+From Gallienus (260-8) on the civil and military functions of government were split.
+Within the military, the tactical was split from the stationary.
+Within the civil area, Constantine subdivided financial functions.
+Although the number of usurpers, and consequent civil wars, declined between the third and fourth centuries, Emperors nevertheless felt a continuing need to spend on public display in order to legitimize their reigns and deter rivals.
+There was increased new construction in the fourth century, as the Tetrarchy returned to the task of embellishing cities.
+But much of the rebuilding (and the building of Constantinople) was done by stealing accumulated treasures from other places.
+Despite this, the building of Constantinople was a major drain, as was the support of its 80,000 citizens placed on the dole.
+Meanwhile, the city of Rome was a continuing burden: in the fourth century it had some 300,000 inhabitants receiving public distributions.
+Whatever the personal motivation behind Constantine's backing of Christianity, it had an important political consequence: by providing a universal religious focus it legitimized the sitting Emperor as sanctioned by divinity.
+Coins from this time on placed emphasis on symbols of the Emperor's power (showing, for example, the diadem, mantle, scepter, and orb) rather than on personal attributes.
+Both were important strategies for maintaining the increased authoritarianism of the Imperium from Diocletian on, which historians label the Dominate (Gibbon 1776-88: 332, 537; Rostovtzeff 1926: 456; M. Hammond 1946: 77; Boak 1955: 126; A. Jones 1964: 39, 49, 1033, 1045-6; Mazzarino 1966: 169; Heichelheim 1970: 336; MacMullen 1976: 96-7, 100-1, 159, 204; Mattingly 1960: 226).
+The changes instituted by Diocletian and Constantine made the Empire more efficient and better defended, but at considerable cost.
+When evaluating these costs it must be kept in mind that each new governmental office cost little in the degraded currency.
+The old maximum salary for equestrian-class officials of 300,000 sesterces was by now worth only about 400 second-century denarii.
+But salaries in kind were considerable.
+Even though compensation per individual remained below second century levels, the total cost of the new civil administration was the equivalent of adding perhaps two or three new legions to the army.
+By the fifth century the civil service was over 30,000 strong.
+This was a heavy burden on the exhausted Empire, and yet it was the lesser part of the increase.
+The expanded military costs were substantially greater.
+Not only was the increase in military personnel greater than the civilian, but the increased emphasis on cavalry was particularly expensive.
+Fodder for a horse cost as much as the rations of a soldier.
+After the political disintegration of the third century, the Tetrarchy had to reestablish links with local-level organizations, and to obtain tax-related information.
+In Egypt, for example (and probably elsewhere), lands had to be resurveyed.
+Taxes were inevitably increased, and continued to rise thereafter.
+Overall, the role of government in the economic life of the Empire increased (Gibbon 1776-88: 333; M. Hammond 1946: 77; A. Jones 1964: 51-2, 130-1, 1035, 1974: 129, 131-2; MacMullen 1976: 126, 186-7).
+Inflation continued unabated under Diocletian, forcing the government to continue the economy in kind.
+One of Diocletian's major accomplishments was to establish the first mechanism whereby the rate of tax in any given year could be geared to estimated expenditures.
+Diocletian attempted to restore a sound currency, but may not have had enough metal, for earlier coins continued in circulation.
+He introduced a new coin worth 25 denarii, which by the 320s had shrunk to 1/3 of its original weight.
+There were two currencies during the fourth century: gold and copper.
+The gold solidus was introduced by Constantine, and retained its value for seven centuries.
+Copper currency, however, was inflated by assigning face values to the coins that were artificially high.
+The inflated copper coins went to cover military pay, and to buy gold solidi on the open market.
+Only by the end of the fourth century were payments in kind fully commuted to gold (A. Jones 1964: 60- 6, 107, 109, 442, 1974: 169-70, 197-200, 202-3, 215, 224; Levy 1967: 88).
+In the second century a modius of wheat (approximately nine liters), during normal times, had sold for 1/2 denarius.
+In Diocletian's Edict on Prices (301 A.D.), the price was fixed at 100 denarii, which was itself probably
+too low.
+Thus the real value of the denarius had sunk to no more than 0.5 percent of its former value, while wheat, conversely, had gone up 200 times.
+And that was not the end.
+In Egypt, the grain basket of the Empire, the same modius of wheat sold in 335 A.D. for over 6000 denarii, and in 338 for over 10,000.
+In 324 the gold solidus was worth 4250 denarii, yet by 337 it was worth 250,000.
+By 363 the value stood at 30,000,000 denarii to the solidus.
+Inflation by this time abated somewhat, for in the next 30 years the value of the denarius with respect to gold fell only another 50 percent.
+In Egypt in the fourth century the value of the solidus went from 4000 to 180,000,000 Egyptian drachmae.
+(The Egyptian tetradrachm was considered equal in value to one denarius, and was debased to match the latter.
+Part of the reason for the Egyptian hyperinflation was apparently a political decision not to back Egyptian coinage with gold or silver [Mattingly 1960: 194, 224, 248].)
+It was the coinage of everyday commerce that was debased, for this was the currency that the government used to meet its military obligations.
+In the 150 years prior to Diocletian's Edict of 301, the value of gold rose 45 times, the value of silver 86 times.
+The silver that once went into one denarius could now produce 150.
+The result was hyperinflation that must have disrupted local-level commerce.
+In Diocletian's Edict a pound of pork was fixed at 12 denarii.
+By 412 it cost 90 denarii.
+In Egypt, from which the best documentation has survived, a measure of wheat that in the first century A.D. sold for six drachmae, had increased to 200 drachmae in 276 A.D., 9000 in 314, 78,000 in 324, and to more than 2,000,000 drachmae in 334 A.D. Not surprisingly, Egyptian loans of money were made for increasingly shorter periods in the third and fourth centuries.
+Gradually, though, more and more gold solidi came into circulation, and the copper output was reduced.
+By the fifth century the inflation was largely spent (A. Jones 1964: 27, 109, 443, 1974: 200-1, 213, 215, 224; Levy 1967: 88-9; MacMullen 1976: 118; Mattingly 1960: 222-3).
+Other approaches failing, Diocletian attempted to control inflation by his famous (and famously unsuccessful) Edict on Prices, issued in 301 A.D. It was no novelty, having been tried before.
+In general, it set prices too low, was rigged in favor of creditors, and - much to the government's advantage - depressed the cost of transport (Rostovtzeff 1926: 463; A. Jones 1964: 27, 61; Levy 1967: 94; MacMullen 1976: 122).
+The increases in military strength and civil administration had to be supported by a depleted population.
+After the plagues of the second and third centuries, and consequent depopulation, conditions favorable to population reestablishment never did emerge in the fourth and fifth centuries (Russell 1958: 140; McNeill 1976: 116).
+After Diocletian there was relative peace in the West for over a century, and in the Asiatic provinces until the beginning of the seventh century.
+Nevertheless, economic factors created by the establishment of the Dominate did not favor population recovery.
+This point will be discussed further below.
+The consequence for the Empire was a decline in personnel for agriculture, industry, the military, and the civil service.
+Agriculture and industry accordingly declined.
+Agricultural labor became so scarce that landowners, to avoid conscription of their own laborers, bribed vagabonds to enlist instead.
+In Gaul, shortages of agricultural labor continued until the collapse, so that the victorious barbarians were able to appropriate land with minimal impact on the local population.
+Many barbarians were enlisted in the military, indeed in the later Empire
+barbarian colonies were planted within the depopulated lands under Roman rule.
+Height requirements for military recruits were lowered.
+By the late fourth century in the West even slaves were sometimes enlisted.
+In 315 Constantine ordered assistance for poor and orphaned children in an attempt to reverse the demographic trend (Bock 1955: 42, 97-8, 113-14; A. Jones 1964: 149, 158-9, 1041-3, 1974: 87; MacMullen 1976: 182-3).
+This decline in population and in the supply of essential labor does much to explain the social and economic policies of Diocletian and Constantine.
+Conscription, which had been practiced before, was instituted as a regular practice by Diocletian.
+He levied guilds to supply the armies and the Imperium.
+Gradually families came to be frozen into essential occupations.
+In 313 Constantine required that soldiers' sons be likewise.
+A hereditary soldiery emerged, with predictable problems.
+From 319 to 398 at least 22 laws were issued dealing with the sons of soldiers who sought to evade military service.
+From the early fourth century on sons of civil servants were made to enter their fathers' offices.
+The same was required of workers in government factories, as well as many private sector occupations.
+Indeed, the distinction between the public and private sectors blurred, as the State directed persons into occupations and levied their output.
+By the time of Diocletian city offices, which were such a financial burden on their holders, had become hereditary.
+Since the very wealthy had by this time largely fled the towns to establish country villas, or obtained exemptions, this burden fell on the middle income segment.
+Perhaps most important to the economy of the Empire was the tying of agricultural labor to the soil.
+First mentioned in an announcement of Constantine's in 332, this
+had the effect of establishing a system of serfdom in which tenants were bound to large estates.
+The colonate, as it is known, was a boon to large landowners during a time of agricultural labor shortages.
+Colonates continuously tried to escape unsatisfactory conditions, to the army, the church, the civil service, the professions, and other proprietors (Boak 1955: 49, 95, 97, 102-3; A. Jones 1964: 615, 1042, 1974: 16, 18, 87-8, 299; Levy 1967: 98; MacMullen 1976: 159, 172, 180, 185).
+Concomitant with the decline in population and in agricultural labor there was a significant abandonment of arable, and formerly cultivated, land.
+In some provinces under Valens (364-78) from 1/3 to 1/2 of arable lands were abandoned.
+This problem first appeared in the late second century, perhaps due to the plague, and was a subject of Imperial legislation from before Diocletian's time to that of Justinian (527-65).
+In the late third century Aurelian had held city councils responsible for the taxes due on deserted lands.
+The shrinkage in areas cultivated was considerable in many localities.
+Of Imperial lands in Africa Proconsularis in 422 A.D., over 1/3 were deserted.
+In adjacent Byzacene more than 1/2 of the lands were untilled.
+Around the city of Cyrhhus, in 451, over 1/6 of the lands were deserted.
+Abandoned lands by the fifth century in Africa were between 10 and 15 percent in some provinces, but ranged up to 50 percent in others.
+Responding to this situation, Constantine made the following discharge offer to his veterans: if they became farmers they would be given free, vacant land, 100 measures of seed, and 25,000 folles (the follis being worth three-fourths of a denarius).
+If they became anything else the offer was 100 folles (Boak 1955: 45-6; A. Jones 1964: 812, 816, 1039, 1974: 84; MacMullen 1976: 193; Mattingly 1960: 223).
+Three explanations are commonly offered for the abandonment: soil exhaustion, labor deficiencies, and barbarian raids.
+None of these is really satisfactory.
+The same agricultural techniques had been employed for centuries before Diocletian, and continued for centuries after.
+The bulk of deforestation and erosion apparently came later, in the Middle Ages, and resulted from disregard of water and soil conservation measures in late Roman times (Vita-Finzi 1969: 101-2).
+In Egypt, where the fertility of the soil was annually renewed by the Nile, abandonments were just as severe as elsewhere (Baynes 1943: 30).
+Shortages of labor are more plausible, for landlords were always short of tenants, and welcomed allocations of barbarian prisoners.
+But some landowners abandoned estates with agricultural slaves and tenants in place.
+Clearly, then, labor shortages were not the sole responsible factor.
+Barbarians ravaged only some parts of the Empire, and not necessarily those with the greatest percentages of abandoned lands (A. Jones 1964: 816-18, 1974: 85).
+They alone were not responsible for agricultural abandonment.
+Contemporaries of the event attributed it to overtaxation, and there is much to recommend this interpretation.
+The expensive government and military of the Dominate are clearly implicated.
+One writer of the period went so far as to suggest that those who lived off the treasury were more numerous than those paying into it.
+Another complained that taxes, which were high even before the Dominate, doubled from 324 to 364.
+In the sixth century A. D. (which postdates the fall of the West, but illustrates the trend), even privileged landowners paid twice as much tax as provincials had in the first century B.C., and ordinary landowners paid well over three times as much.
+Even Italians now found themselves taxed again.
+A major problem, in addition to the rate of the levy, was the rigidity of Diocletian's tax system.
+It was not designed to accommodate variations in the quality of land or fluctuations in yield.
+This was a flat tax levied on the land and on the number of residents.
+The government required that the land tax be paid whether a parcel was cultivated or not.
+Where possible, abandoned lands were sold or granted to new owners with a tax rebate, but if this failed, they were assigned compulsorily to other landowners, to all local landowners, or to municipalities for payment of taxes.
+Population figures for the poll tax remained as originally calculated, regardless of how population actually changed.
+Villages were held corporately liable for these taxes on their members, and one village could even be held liable for another.
+The rate of taxation was generally not progressive, so it rested more heavily on the poor and on those with large families.
+When wealthy influentials got their land under-assessed, the extra share was distributed among the remainder.
+And the State always had a back-up on taxes due, extending obligations to widows or children, even to dowries.
+The tax burden was such that peasant proprietors could accumulate no reserves, so if barbarians raided, or drought or locusts diminished the crop, they either borrowed or starved.
+Eventually their lands passed to creditors, to whom they became tenants.
+As tenants they paid 1/2 of their crops in rent, while proprietors owed 1/3 in taxes.
+Whatever crops were brought in had to be sold for taxes, even if it meant starvation for the farmer.
+Under conditions of famine it was the farmers, amazingly enough, who were the first to suffer, often flocking to cities that held stores of grain.
+It is little wonder that the peasant population failed to recover.
+The collection of taxes and rents was so unvarying
+that, however poor the crop, the amount due was seized even if the cultivators were left without enough.
+People couldn't meet taxes and so were jailed, sold their children into slavery, or abandoned their homes and fields.
+Circumstances were highly unfavorable for the formation of large families.
+Under these conditions the cultivation of marginal land became unprofitable, as too frequently it would not yield enough for taxes and a surplus.
+Hence, lands came to be progressively deserted.
+Faced with taxes, a small holder might abandon his land to work for a neighbor, who in turn would be glad of the extra agricultural labor.
+A patronage system developed wherein powerful local land-holders extended protection over peasants against the government's demands.
+The government legislated unsuccessfully against this source of lost revenue.
+It was not only the countryside that suffered.
+Toward the end of his reign Constantius II (337-61) appropriated the landed endowments of cities.
+All local services now had to be financed by city magistrates, upon whom the burden was hereditary.
+Julian (360-3) restored land rents and taxes to cities, but these were reconfiscated under Valentinian I (364-75) and Valens (364-78).
+A few years later a portion was refunded for public building repair.
+In Gaul of the later Empire cities contracted, sometimes to the size of the Celtic villages from which they had earlier sprung (Rostovtzeff 1926: 465, 470-1; Boak 1955: 33, 58, 112, 125; A. Jones 1964: 68, 131, 146, 455, 465, 755-6, 773-6, 810- 12, 819, 822, 1043-4, 1974: 18, 82-8, 130, 135-6; Heichelheim 1970: 332; MacMullen 1976: 100-1, 170, 173, 209).
+The system established by Diocletian involved rigid control of individuals and their output.
+Each citizen, each
+guild, and each locality was expected to produce needed essentials for the survival of the Empire.
+For a time the Empire did indeed survive, but at a cost of the progressive abandonment of land, declining agricultural yields, depopulation of the countryside, and impoverishment of the cities.
+As different occupations competed for personnel, military strength declined until finally barbarians were relied on to staff the army.
+When Attila was defeated in Gaul in 451 it was by a federation of local Germanic kingdoms, not by Roman arms.
+Taxes in the later Empire continued to be crushing.
+Although Valens stopped their rise in the East, and later reduced them somewhat, in the West under co-Emperor Valentinian II taxes were still too heavy.
+His successor, Valentinian III, publicly admitted in 444-5 that additional taxes on landowners or merchants would be devastating.
+Even still, he was forced in 444 to impose a 1/24 sales tax, which required that all sales be conducted in the presence of a tax collector.
+In the early fifth century in the West there were widespread revolts (in 417, 435-7, and 442), which had to be suppressed by the military.
+Delinquent taxes were remitted occasionally in the early and middle fourth century, but so frequently after 395 that a general agricultural breakdown in the West seems indicated.
+Contemporary records indicate that, more than once, both rich and poor wished that the barbarians would deliver them from the burdens of the Empire.
+While some of the civilian population resisted the barbarians (with varying degrees of earnestness), and many more were simply inert in the presence of the invaders, some actively fought for the barbarians.
+In 378, for example, Balkan miners went over en masse to the Visigoths.
+In Gaul the invaders were sometimes welcomed as liberators from the Imperial burden, and were even invited to occupy territory.
+To ensure the doubtful
+loyalty of frontier areas, the government was on occasion forced to make up local deficits of grain.
+Zosimus, a writer of the second half of the fifth century A.D., wrote of Thessaly and Macedonia that `...as a result of this exaction of taxes city and countryside were full of laments and complaints and all invoked the barbarians and sought the help of the barbarians' (quoted in Mazzarino [1966: 65]).
+`[B]y the fifth century,' concludes R. M. Adams, `men were ready to abandon civilization itself in order to escape the fearful load of taxes' (1983: 47).
+The decreased manpower and wealth of the Western Empire helped contribute to the military successes of the invaders.
+In turn, the military disasters of the West further weakened its finances.
+In the mid fifth century the West was gradually lost.
+Areas like Spain and Africa were temporarily or permanently lost to the barbarians.
+Substantial tax remissions had to be given to the areas devastated by the invasions.
+In 439 the Vandals took Carthage, which had supplied grain to the city of Rome.
+There were widespread breakdowns in civil services.
+In the 20 years following the death of Valentinian III (455 A.D.), the Roman Army proper dwindled to nothing.
+The recruiting ground shrank to Italy itself.
+The government came to rely almost exclusively on barbarian troops.
+When finally these could not be paid they demanded land in Italy instead.
+This being refused, they mutinied, elected Odoacer their king, and deposed the last Emperor of the West.
+Romulus Augustulus, in 476.
+Although this is the official date for the end of the Western Empire, in fact most of the provinces had been lost years before.
+One small section of Gaul remained under Roman administration until annexed by the Franks in 486.
+The Germanic kings initially maintained approximately the
+same civil administration they found in the conquered lands, for this was the only administration they knew.
+In Italy the Senate continued to meet under Odoacer and Theoderic.
+But even these vestiges of the Empire disappeared within a few years (Gibbon 1776-88: 1238, 1254- 5, 1301; Dill 1899: 237-40; Frank 1940: 303-4; Boak 1955: 52; A. Jones 1964: 147-8, 190, 201, 204-6, 243-4, 247-8, 253, 812, 826, 1059-61, 1974: 82, 84, 88; Levy 1967: 99; Heichelheim 1970: 300; Isaac 1971: 127; Weber 1976: 407; MacMullen 1976: 207).
+Assessment of the Roman collapse
+Whatever the stimulus for the Roman expansion - and this no doubt varied over time - it was for the conquerors a highly successful policy.
+From the middle of the third century B.C. ever increasing quantities of gold and silver flowed into the Roman treasury.
+The result was that the Roman people paid little or nothing for continuing conquests and for garrison costs.
+The captive populations underwrote the cost of further expansion (A. Jones 1974: 114-15).
+At this point in their history the Roman people were investing in a policy of territorial expansion (with associated rise in administrative costs), and reaped the return on that investment.
+After the initial series of successes, the benefit/cost ratio for this policy was for a time spectacularly high.
+It was an enterprise with a marginal return that was most favorable.
+Inevitably, though, this high rate of return could not be maintained.
+Three factors combine ultimately to lower the marginal return for any such policy.
+First, the number of profitable conquests declines.
+A geographically expanding state ultimately encounters a competitor with equivalent capabilities, whose conquest would be too expensive, if not impossible.
+Rome met such a competitor in the Persian (Parthian, later Sassanian) Empire to the east.
+Although in the many contests between these powers Rome generally came out best, Parthia was a long overland trek from the Mediterranean.
+It had lengthy borders, external enemies of its own, and a potentially subversive population.
+Trajan's conquest of parts of this empire was abandoned by Hadrian as too expensive to administer (Rostovtzeff 1926: 315).
+On other fronts, if powers demanding respect are not found, an expanding polity is likely to meet populations whose
+conquest would not bear the cost.
+The Romans found such peoples on many fronts, such as the northern frontier with Germany.
+Thus, the economics of territorial expansion dictate, as a simple matter of mathematical probability, that an expanding power will ultimately encounter a frontier beyond which conquest and garrisoning are unprofitable.
+Secondly, the logistics of transport and communication dictate that, beyond a certain distance from the capital, lands will be difficult to govern.
+For the Roman Empire this was especially the case the farther one traveled inland from the Mediterranean sea lanes.
+The combined factors of increased costliness of conquest, and increased difficulty of administration with distance from the capital, effectively require that at some point a policy of expansion must end.
+This was the state reached by the Roman Empire by the beginning of the current era.
+Under Augustus the size of the Roman Empire was essentially capped.
+Later additions were comparatively insignificant, and costly.
+The conquests of Britain by Claudius, and of Dacia by Trajan, probably never paid for themselves, for these were poor, distant, frontier provinces (M. Hammond 1946: 75-6).
+Thirdly, once the accumulated surpluses of conquered nations have been appropriated, a conqueror must thereafter incur costs to administer, garrison, and defend the province.
+And when the accumulated surpluses have been spent, this must be paid for out of yearly income.
+Costs rise and benefits decline.
+For a one-time infusion of wealth from each conquered province, Rome had to undertake administrative and military responsibilities that lasted centuries.
+For Rome, the costs of administering some provinces (such as Spain and Macedonia) exceeded their
+revenues.
+And although he was probably exaggerating, Cicero complained in 66 B.C. that, of all Roman conquests, only Asia yielded a surplus.
+In general, most revenues were raised in the richer lands of the Mediterranean, and spent on the army in the poorer frontier areas such as Britain, the Rhineland, and the Danube (A. Jones 1974: 116, 127).
+So the process of geographical expansion, if successful, yields a marginal return that initially is very high, but which inevitably begins to decline.
+By the time the conquest of the rich Mediterranean lands was completed, this was the situation in the Roman Empire.
+An imperial administration that had been developed following the major influxes of wealth that were the benefits of conquest thereafter had to be supported by the Empire's yearly agricultural output.
+The result was that under the Principate the Empire had to maintain a far-flung, inflexible administrative and military structure on the basis of variable agricultural output, and in the face of an increasingly hostile political environment.
+The Roman Empire was the first state, and the only one until recent times, to maintain a standing military force sufficient for all its needs (A. Jones 1974: 135).
+As a result, from Augustus on, the Empire regularly faced fiscal insufficiencies.
+The Imperial budget was generally sufficient for the normal needs of the government, but stress surges required extraordinary fiscal measures.
+Augustus' successors dealt with financial crises occasionally by selling their capital - Imperial lands and treasures.
+This was obviously a limited solution.
+The more common stratagem was to defer the true costs of government by debasing the currency.
+This had the politically expedient advantage of shifting to some indefinite point in the future the cost of current crises.
+The inflation that would inevitably follow would tax the future to pay for the
+present, but the future could not protest.
+Viewed from the perspective of history, it is clear that by the time of the Principate the marginal return on investment in empire had declined considerably from the level of the later Republic.
+When the stresses impinging on the Empire grew, it would decline further still.
+What had once been a windfall was becoming a burden.
+The weaknesses of the Empire that were exposed when Marcus Aurelius confronted the Marcomanni proved nearly fatal during the succeeding crises.
+The reduced marginal return on organizational investment left the Roman Empire without sufficient reserves to meet such emergencies.
+The only alternatives were to raise taxes directly, or to raise them indirectly by debasement and inflation.
+Both courses were adopted.
+And yet the crises of civil war and barbarian incursions required increased expenditures that yielded no increased return.
+The Empire was not expanded, no major booty was acquired, and there was no increase in agricultural output.
+The increased costs of the third century were incurred merely to maintain the status quo.
+Costs rose precipitously while benefits, at best, remained level.
+Axiomatically, the marginal return on investment in empire declined.
+This process intensified with the establishment of the Dominate during the reign of Diocletian.
+In the third century taxation had become so heavy as to consume the capital resources of taxpayers (Boak 1955: 111).
+In the fourth and fifth centuries it became even worse.
+As the sizes of both the military and the civil administrations doubled, taxes had to be raised from a weakened Empire to foot the bill.
+The effect on the support population, as described, was devastating.
+The cost of saving the Empire was extremely high for a non-industrial population.
+And as in the third century, payment of this cost yielded no increase in benefits.
+Yet what happened during the fourth and fifth centuries was more than simply a further decline in the marginal return.
+The Empire was by this time sustaining itself by the consumption of its capital resources: producing lands and peasant population.
+Continued investment in empire was creating not only a drop in marginal output, but also a drop in actual output.
+Where under the Principate the strategy had been to tax the future to pay for the present, the Dominate paid for the present by undermining the future's ability to pay taxes.
+The Empire emerged from the third century crisis, but at a cost that weakened its ability to meet future crises.
+At least in the West, a downward spiral ensued: reduced finances weakened military defense, while military disasters in turn meant further loss of producing lands and population.
+Collapse was in the end inevitable, as indeed it had always been.
+In Chapter 4 it was suggested that, when a complex society enters a situation of declining marginal returns, collapse can occur from one or both of two reasons: lack of sufficient reserves with which to meet stress surges, and alienation of the over-taxed support population.
+The former was a clear problem faced by the Empire since at least the days of Marcus Aurelius, if not before.
+The latter evidently became part of the Empire's problems under the Dominate, or possibly even during the third century crisis.
+If accounts are to be believed, at least a portion of the overtaxed peasantry openly welcomed the relief they thought the barbarians would bring from the burdens of Roman rule.
+And a much larger portion were evidently apathetic to the impending collapse.
+It seems clear that the Empire had at least partially lost its legitimacy.
+The costs of empire had risen dramatically, while in the face of barbarian
+successes the protection that the State could offer to many of its citizens proved increasingly ineffectual.
+To many, there were simply no remaining benefits to the Empire, as both barbarians and tax collectors crossed and ravaged their lands.
+As Gunderson notes, ,...the net value of local autonomy exceeded that of membership in the Empire' (1976:
+Complexity was no longer yielding benefits superior to disintegration, and yet it cost so much more.
+The collapse yielded at the same time both a reduction in the costs of complexity and an increase in the marginal return on its investment.
+The smaller, Germanic kingdoms that succeeded Roman rule in the West were more successful at resisting foreign incursions (e.g., Huns and Arabs) than had been the later Empire (Weber 1976: 389).
+They did so, moreover, at lower administrative and military costs.
+The economic prosperity of North Africa actually rose under the Vandals, but declined again tinder Justinian's reconquest when Imperial taxes were reimposed (Hodges and Whitehouse 1983: 28).
+Thus the paradox of collapse: a drop in complexity brings with it a corresponding rise in the marginal return on social investment.
+Two matters remain to be addressed: why the East survived when the West failed, and why the Empire did not develop the economic strength necessary to avoid collapse.
+Three factors account for the continued survival of the East.
+Two of these are that it was economically stronger than the West and strategically less vulnerable.
+The provinces of the Eastern Empire included the older, more economically developed and populous parts of the Mediterranean world.
+Such provinces were better able to bear the costs of defense and administration than those of the West.
+It has been estimated that in the later Empire the budget of the West was only 1/3 that of the East.
+And
+yet the West had over twice as long a northern frontier to defend.
+While in the fourth and fifth centuries the West was overrun by invaders, the East had major problems along only the Danubian frontier.
+To the east, wars with Persia were infrequent, with long periods of peace (Baynes 1943: 34-5; A. Jones 1964: 1027, 1030-1; Levy 1967: 92, 99).
+Within the framework developed here it may be observed that the East survived because, with its greater wealth and its smaller border problems, its investment in complexity was more easily financed, and its marginal return higher.
+The support population was wealthier and more numerous, and thus less easily overtaxed.
+And its government was, if not more successful militarily than the West, at least less unsuccessful.
+The government of the East continued to rule not just because of wealth and geography, but also because these happy circumstances combined to give it greater legitimacy.
+The third factor accounting for the survival of the empire in the eastern Mediterranean is that it could not collapse.
+To discuss this point requires concepts that will be introduced in the final chapter.
+The survival of the Eastern Roman Empire will he raised again at that point.
+The matter of economic development is more subtle.
+Many authors concentrate on the expense of transport, and the poverty of the rural population, as reasons why industry did not develop, nor agriculture intensify (e.g., A. Jones 1964: 1048).
+Yet there is more to the matter.
+As Elster has pointed out, `Innovation and technical change are not universal phenomena, but are restricted in time and space to a very small subset of historical societies' (1983:
+In this light the question `Why didn't Rome develop economically?'
+can be rephrased `Why wasn't Rome economically abnormal?'
+Viewed thus, the question of Rome's
+lack of economic development becomes substantially less problematical.
+It might be worthwhile to consider the matter by comparison to the later development of industrialism in northwestern Europe.
+As described in previous chapters, Wilkinson (1973) has argued that, at least in its initial phases, industrialism in England was stress-induced.
+Overpopulation in the later Medieval period led to clearing of forests for agricultural land.
+The resulting drop in fuelwood regeneration required the populace to shift to increased dependence on coal.
+Reliance on coal in turn necessitated a host of concomitant changes, many associated with the industrial `revolution.'
+These included the steam engine, high capacity water pumps (for mining below the water table), and both canal and rail transportation.
+While I don't wish to draw any direct contrasts between industrialism in England and its absence in the Roman Empire, one difference is glaring: the later Empire was substantially underpopulated.
+Lands that had once been cultivated were in late Classical times deserted, while agricultural labor was in short supply.
+Government attempts to reclaim the abandoned lands and to foster population growth were notably unsuccessful.
+It has been argued that such attempts at intensifying the use of land will typically be unsuccessful, if imposed from the top in a situation in which they are inappropriate (cf. Boserup 1965; Rostow 1960: 34).
+Intensification, whether in the use of land or in any economic sphere, would have had to emerge from demographic and/or economic pressures operating on the bulk of the Roman population (Wilkinson 1973; North and Thomas 1973).
+With low population and free available land, such pressures were simply absent.
+Other pressures, to be sure, were affecting the population of the Empire, but not a lack of economic opportunity.
+There were simply too much
+unused land and too many unfilled occupations.
+In Britain, for example, the heavy plow needed to take in the clay lands was probably known from before Roman times, and yet population was so low that the clay lands were largely avoided until later (Boak 1955: 36; Wailes 1972).
+If the later Roman government had attempted a policy of economic development, it would have experienced a frustration often found by contemporary governments attempting the same thing: development cannot be forced in the absence of demand.
+Colloquially, it is called pushing on a string.
+The Classic Maya collapse
+The setting
+Lowland Classic Maya Civilization is often regarded as a puzzle of human history.
+One of the few early civilizations that did not develop in a semi-arid setting (Sanders 1962: 79), the Maya are, as Netting has observed, `...a people whose greatest mystery is their abrupt departure from the stage of world history...'
+The Southern Lowlands region encompasses roughly the Peten of northern Guatemala and surrounding lands.
+The Mayan political centers of this region are numerous and varied.
+The record of their rise and fall can be most clearly discussed in the context of Mayan archaeological chronology.
+In actuality, a number of chronologies exist for the Southern Lowlands, most of which are sufficiently similar that their differences need not concern us.
+Gordon Willey's (1982), given below, will satisfy our present needs:
+As with most archaeological chronologies, this one is highly generalized, and the dates are of course rounded averages.
+Not all authors make the distinction between Late Preclassic and Protoclassic, and between Terminal Classic and Postclassic, so in the discussion that follows there may be some blurring of these phases.
+The Maya produced a form of hieroglyphic script that cannot at present be fully read, although considerable progress has been made toward its decipherment.
+Mayan civilization, as noted above, is mainly known archaeologically.
+The vegetation of the Southern Lowlands is today a tropical rainforest, as it was when the Maya first began to clear the land for planting.
+The central Peten zone is characterized by flat-topped limestone ridges, on which the Maya settled, interspersed with seasonal swamps called bajos.
+Rainfall concentrates between May and November, which is also the main agricultural season.
+Single cropping is today the norm, but limited replanting and double cropping are possible in an emergency (Culbert 1973a: 6, 11, 1974: 6).
+Rainfall, which varies across the Central Lowlands from 1000 to 2000 millimeters per year, displays some variation.
+Droughts occur, but tend to be minor.
+Long-
+term rainfall fluctuations in the Northern Lowlands range only about 9 percent from maximum to minimum, compared with 17-22 percent in the Mesoamerican Highlands.
+Annual rainfall fluctuations in the area of concern are less than 15-20 percent, and generally do not adversely affect agriculture today (Culbert 1974: 6; Hammond and Ashmore 1981: 24; Vivo Escoto 1964: 203-4; Wallen 1956: 147, 149).
+A major debate among students of the Maya is the degree of ecological diversity across the Lowlands.
+This debate has important implications for Mayan sociopolitical evolution, and is a topic that will be raised again in a few pages.
+In essence, the difference is between scholars who emphasize the comparative topographical redundancy and ecological homogeneity of the central Peten (e.g., Culbert 1973a: 3; Sanders 1973: 335, 1977: 288; Tourtellot and Sabloff 1972:
+128; Rathje 1973: 408), and those who see the Southern Lowlands as nevertheless significantly diverse (e.g., Harris 1978: 302; Wiseman 1978: 72).
+Sanders notes that 26 varieties of soil, with differing potentials for agriculture, have been mapped in the Peten (1973: 375), although greater soil variation is to be found in the Guatemalan Highlands (Sanders and Webster 1978: 262, 264).
+Others note that at some of the peripheries of the Peten, ecological diversity is higher.
+This is especially so in Belize, which is characterized by riverine environments, the coastal strip, the Maya Mountains (which rise to about 1000 meters), as well as lowland rain forest (Culbert 1973a: 8, 1974: 3-4; N. Hammond 1981: 159).
+Viewed on a broad level, the central Peten, which witnessed the earliest and most complex Mayan developments, is characterized by somewhat better soils than surrounding areas.
+Yet this has drawbacks, for the best soils in the area are susceptible to erosion (Adams and Jones 1981: 302; Sanders 1973: 337, 339).
+Several factors are pertinent to the diversity argument.
+Although tropical rainforests are as a rule notably diverse in species (MacArthur 1972: 210-11), the important factor here may be topographic diversity.
+Since climate and vegetation change with altitude, the topographic redundancy of the Peten creates a situation where diversity of ecological zones (not necessarily diversity of species) per unit of horizontal space must be lower than in the Mesoamerican Highlands.
+Zonal diversity is important for developing different resource production systems within an area.
+Where zonal diversity is high, there is a greater likelihood that different production systems will exist that will fluctuate non-synchronously in their ability to support human populations.
+Such a condition is important in the evolution of complex, regional exchange systems.
+This is not to suggest that diverse production systems did not exist in the Lowlands, only that the potential for such systems was greater in the Highlands.
+It is noteworthy that the Maya Mountains may not contribute significantly to Lowlands diversity, for tropical mountaintops tend to have fewer species than tropical lowlands (MacArthur 1972: 211, 214).
+Views of the Maya
+Only recently have archaeologists begun to understand the true complexity of Maya Civilization.
+Our previous ignorance is part of the reason why the Maya, and their collapse, have seemed so mysterious.
+The Classic Maya were at one time thought to have been a low density people scattered, as today, across the Lowlands, practicing slashand-burn (swidden, milpa, or forest-fallow) agriculture, and residentially mobile to the extent that milpa requires.
+The Maya centers were thought to be ceremonial in nature, with little permanent occupation.
+The rural populace visited these centers on ceremonial occasions, but did not reside at them.
+The ceremonial centers were staffed by a small caste of priests and nobles who concerned themselves largely with ceremonialism and its calendrical details.
+The Maya, depicted thus, were thought to be a peaceful people, whose centers were open and without fortifications.
+Elite demands were as a rule low, but did eventually reach the point where the peasants were no longer willing to satisfy continual or increased demands for services, labor, and food.
+At this point a peasant revolt or withdrawal of support brought about the collapse (e.g., Altschuler 1958: 194-6; Cowgill 1964: 154; J. E. S. Thompson 1966 [not all of whom would necessarily agree with each of the above points]; for discussions see Mathewson [1977: 204-5] and Turner [1974: 118]).
+Maya Civilization, as thus reconstructed, seems anomalous.
+The low, dispersed population of swidden farmers would be unusual among early civilizations, which were generally characterized by high population densities and laborintensive farming often involving hydro-agricultural engineering.
+The vacant ceremonial center notion is out of
+place considering the relationship in many early civilizations between urbanism and sociopolitical complexity.
+The notion of the Maya elite as relatively powerless priests and nobles, concerned only with ceremonialism and ritual calendars, presents a startling departure from the normal condition of hierarchical organization in complex societies.
+And the view of the Maya as a peaceful civilization is, to say the least, unusual.
+Within the last 20 to 30 years archaeological fieldwork has produced finds that require a major reassessment of the Maya.
+The University of Pennsylvania project at Tikal, the largest Mayan site, has produced evidence of a center that was urban in its proportions, with population numbering in the tens of thousands (Haviland 1969, 1970).
+Such population densities seem to exceed the support capabilities of swidden agriculture (e.g., Harrison 1977: 479, 484; Rice and Puleston 1981: 144-5), leading to the suggestion that past Mayan agriculture may have been more intensive than that of today.
+Not surprisingly, both aerial and ground surveys in recent years have found substantial evidence for intensive agriculture in the form of terraces, canals, and raised fields (Adams and Hammond 1982: 502).
+The Maya elite appear to have been interested in more than calendrics, as their inscriptions are showing evidence of concern with dynastic succession, political struggles, alliances, royal marriages, and the like (e.g., Proskouriakoff 1960, 1963, 1964).
+Evidence of warfare is found in both art and fortifications (Webster 1976a, 1977), evidence which Webster suggests has `...further reduced the "peaceful Maya" to the same level as the rest of contentious humanity...'
+(1976a: 113).
+The new findings suggest that the Maya may not have been unusual among early civilizations, and require a revised
+synthesis of the Lowland Classic.
+Mayan archaeologists have responded with such a synthesis.
+The evolution of Maya Civilization
+The emergence of Maya Civilization apparently lies in the Preclassic, when many Classic period characteristics began to develop.
+Early Preclassic villages existed as early as 2000 B.C. (Culbert n.d.).
+Maize (Zea) pollen has been found in the central Peten Lakes dating to the same period (Rice 1976: 425).
+By the Middle Preclassic there were settlements containing at least 200 to 300 persons each.
+The Middle and Late Preclassic farmers of the Southern Lowlands were undeniably successful, for their archaeological record reveals a continuously rising population (R. E. W. Adams 1977b: 320; Deevey et al.
+301; Rice 1976: 439, 444-5; 1978: 44; Webster 1977: 343;
+Willey 1977a: 138-9, 1982: 262; Willey et al.
+Webster suggests that there was population pressure in the Becan region by about 500 B.C. (1977: 343), while N. Hammond concludes that by the Late Preclassic, population density and site spacing were such that any further growth would have led to competition (1977: 65; see also Rice [1976: 444-5]).
+Based on their research in the central Peten Lakes region, Deevey et al.
+calculate a constant population growth rate through the Preclassic and Classic periods of about 0.17 percent per year, which yields a doubling interval of about 408 years (1979: 301).
+At some point in the Preclassic, probably varying across the region, this continued population growth led inevitably to strains on existing food production systems.
+A variety of responses followed.
+Agricultural strategies had to change, and did so through the formation of systems that were increasingly labor intensive.
+R. E. W. Adams suggests
+that there may have been a conversion from swidden to more intensive agricultural systems in the central and northern Peten by the Late Preclassic or Early Classic (1981: 249; see also Freidel [1981: 373-4] and Sanders [1977: 296]).
+There is good evidence for this.
+A major system of hydraulic engineering, involving reservoirs and canals, was constructed at the Belizean site of Cerros in the Late Preclassic, with some parts of the system dated to between 200 and 50 B.C. (Freidel and Scarborough 1982; Scarborough 1983).
+(Freidel and Scarborough suggest that this development represents commercial rather than subsistence production [1982: 152-3].)
+A similar system was started at the site of Edzna, in northern Yucatan, in the Late Preclassic (Matheny 1978: 199).
+Calculations of population levels and subsistence production indicate that by the Late Preclassic subsistence stress in the central Peten may have required shorter fallow periods and the addition of less productive lands (Rice 1978: 50).
+In this region, an early lacustrine settlement pattern, associated with reliable water sources and aquatic protein, gave way to increased Middle Preclassic settlement in the waterdeficient interior (Rice 1976: 440-1; Rice and Puleston 1981: 151-2).
+This early shift to more intensive agriculture may have been widespread, for by the Late Preclassic much of the central area had been deforested (Deevey et al.
+Such a condition would make long-fallow swidden impossible.
+Pollen samples indicate that the Preclassic landscape was a mosaic of cornfields and scrubland, with occasional hamlets.
+Human population density may have been around 25- 60 per square kilometer (Wiseman 1978: 112).
+Major fortifications at the site of Becan (a ditch and parapet surrounding the site) have been dated to between
+150 and 300 A.D. (Thomas 1981: 96; see also Webster 1976a, 1977).
+It seems likely, therefore, that the competition and conflict which characterized later Maya Civilization began in the Pre- or Protoclassic.
+Its origin can be probably attributed to the pressure of population on resources.
+The Late Preclassic Maya were faced then with population pressure, a strained resource base, and an increasingly competitive environment.
+At least two solutions were sought: agricultural intensification (as noted) and increased sociopolitical complexity (Rice 1976: 444-5).
+The evidence for the latter is striking by the Middle and Late Preclassic.
+Formal, public architecture and social differentiation become evident by early in the Middle Preclassic, and increasingly thereafter.
+Public buildings on platforms, and status differentiation in burials, occur by about 400 B.C. (Culbert 1977b: 42; N. Hammond 1982: 123; Marcus 1983: 461; Rice 1976: 438-9; Willey 1977a: 145, 1977b: 388, 1980: 258, 1982: 262).
+The site of Altar de Sacrificios has yielded an interesting record of the emergence of local hierarchies.
+At the end of the Middle Preclassic one of several residential clusters was rebuilt so that it was noticeably larger than the rest, with the largest monument some four meters high.
+Successive rebuildings transformed this into a Classic temple-palace complex, with a 13-meter-high pyramid mound, and a stone-faced stairway.
+This transformation seems to record the emergence of a ruling descent group from an earlier dominant residential unit.
+In the Late Preclassic a two or three level administrative hierarchy was present in the Southern Lowlands.
+Public
+architecture became truly monumental at some Lowlands sites (Marcus 1983: 461; Willey 1982: 262).
+By 100 B.C.- 150 A.D. Tikal was emerging as a center of considerable magnitude (Culbert 1977b: 39).
+These patterns intensified throughout the Classic.
+Population, agricultural investment, sociopolitical complexity, architectural elaboration, and conflict continued to grow.
+In the Early Classic regional political organization developed into increasingly formal and hierarchical patterns.
+Prior to 434 A.D. centers were spaced about equidistantly, and seem to have been roughly equivalent in rank.
+Tikal and Uaxactun, however, may have been early dominant centers, for they have the earliest dated monuments and together account for 50 percent of all monuments between 292 and 434 A.D. (Marcus 1976: 191).
+One prominent Mayanist, Gordon Willey, suggests that Tikal actually attained a measure of dominance over the entire Southern Lowlands during the Early Classic, possibly constituting the capital of a Southern Lowland state (1980:
+The maximum areal extent for Classic monuments and art styles was reached in the early sixth century A.D. Major centers emerged that may have been regional capitals.
+There was a hierarchy of at least four levels of sites, with hexagonal lattices of secondary centers around regional capitals (Marcus 1976: 191).
+The earliest Mayan writing can be dated to the third century A. D. Early texts deal with the birth, death, accession, and conquests of rulers (Marcus 1983: 461).
+At Tikal, a defensive earthwork and moat were constructed at the site's north end, spanning the 9.5 kilometers between the two swamps that bounded Tikal to the east and west.
+A similar feature lies south of the site (R. E. W. Adams 1977b: 148-9).
+An intriguing development at the end of the Early Classic is a sharp decline in the number of monuments newly dedicated, and in the number of sites at which these occur.
+There are indications of a decline in other construction, as well as changes in ceramic and architectural styles.
+Dating between 534 and 593 A.D., the event has been termed the Hiatus (Willey 1974).
+One of the interesting aspects of the episode is an apparent degree of political decentralization, as stelae (stone monuments that marked political events) were erected for the first time on the peripheries of the Southern Lowlands.
+(The core area, in other words, no longer held a political monopoly.)
+Although there is no evidence to indicate a marked reduction in sociopolitical complexity across the region, the Hiatus seems in some ways similar to the political decentralization that, as will be seen, marked the collapse (Willey 1974).
+The Late Classic witnessed the resurgence and culmination of the trends begun in the Preclassic.
+Between 652 and 751 A.D. there was a high degree of homogeneity across the Southern Lowlands in the style and iconography of monuments.
+A standardized (and highly sophisticated) lunar calendar was adopted throughout the region within a ten year period.
+Major sites may have served as regional capitals, engaging in alliances with each other.
+Integration within a region was accomplished by marriage alliances between regional capitals and their dependencies.
+Major centers were surrounded by secondary centers that were spaced almost equidistantly from each other (Marcus 1976: 191, 1983: 461).
+The stature of Tikal seems to have comparatively declined.
+Although it remained the largest state it was forced to compete politically with many new centers (Willey 1982: 266).
+Investment in monumental architecture increased substantially over earlier times (Willey and Shimkin 1973: 459-61).
+Several aspects of the Classic period merit detailed discussion in order to understand the collapse.
+These include population, subsistence, sociopolitical complexity and related phenomena, and warfare.
+Population
+There is evidence across the Southern Lowlands for continued population growth during the Classic, reaching a peak at different times in the Late Classic in various localities (e.g., R. E. W. Adams 1977a: 93; Culbert n.d.;
+Deevey et al. 1979: 301; Rice and Puleston 1981: 153; Willey 1973: 96; Willey et al.
+1965: Willey and Shimkin 1973: 490).
+Late Classic population levels, despite agricultural intensification, were apparently approaching an upper limitation, for the earlier pattern of exponential growth was beginning to level off.
+G. Cowgill suggests that there was little growth in the Lowlands after 550 A.D. (1979: 57-8), while R. E. W. Adams, agreeing with the pattern, would push the date of growth cessation forward to about 650 (1977b: 221).
+Focusing on patterns in individual localities, Culbert (n.d.)
+observes that in some parts of the Southern Lowlands population peaked between 600 and 700 A.D. (the Tepeu I ceramic period), while elsewhere it peaked between 700 and 830 (Tepeu 2).
+Tikal and Yaxha reached maximum population in the Late Classic, Seibal and Altar de Sacrificios in the Terminal Classic.
+Away from the major political centers, there was also a late peak among the rural population of the Belize Valley (Willey 1973; Willey et al.
+Tikal is the most intensively studied of the Mayan centers.
+The most densely occupied, central 16 square kilometers of the site may have had a peak, Late Classic population of 10,000 to 11,000 (Haviland 1969, 1970).
+The periphery of Tikal, bounded by swamps on east and west and earthworks on north and south, was home to another 39,000, for a total population of 49,000.
+Haviland notes that this
+figure compares closely to the estimate of about 50,000 for ancient Sumerian cities (1970: 193).
+For the entire Southern Lowlands, Culbert (n.d.)
+projects an average of about 200 persons per square kilometer, and notes that this would make the Lowlands one of the most densely populated areas of the preindustrial world.
+The population density of Tikal was about 350 to 400 per square kilometer, while swidden agriculture would have been able to support only 30-60 per square kilometer (Culbert 1973b:
+Several investigators have concluded from such figures that slash-and-burn farming was incapable of sustaining much of the population (e.g., R. E. W. Adams 1977a: 91;
+Deevey et al.
+1979: 299; Harrison 1977: 479, 484; Rice 1978: 50; Sanders 1973: 330-1).
+Harrison, for example, estimates that from 61-74 percent of the Tikal population must have been supported by other means (1977: 479, 484).
+The question of how Lowland populations were supported is thus of considerable importance.
+Subsistence
+Research in the Lowlands over the past few years has revealed a widespread complex of features reflecting intensive agriculture.
+Intensive agricultural methods were relatively permanent and organized, and included at least the following techniques: (a) canalization and draining of river margins and bajo swamps to create raised and channeled fields; (b) water channeling and storage; (c) terracing of both steep and shallow hillslopes to direct drainage, trap silt, and create fertile areas; and (d) a variety of miscellaneous features (R. E. W. Adams 1977a:
+93; Adams and Hammond 1982: 502).
+These techniques have been found in various areas across the Lowlands.
+Canalization/raised fields.
+Raised field systems and associated canals provided dry, cultivable land in areas otherwise subject to inundation.
+This includes lakes and lagoons, river margins, and, primarily, bajos.
+Other benefits of raised fields/canals would be fish propagation in the canals between fields, maintenance of a moist rootlevel soil environment, fertilization of fields with organically-rich soil derived from canal bottoms, and use of canals for transporting crops (R. E. W. Adams 1980: 209; Puleston 1977: 455-7; Siemens 1982; Turner 1974, 1978).
+With fertilization from canal bottoms, these fields could have supported continuous cropping (Siemens 1982: 221), although it is uncertain whether this was done (Antoine et al.
+1982: 234; Siemens 1982: 219).
+Most raised field systems have been discerned through aerial photography.
+Ground checking has regularly confirmed the observations made on the aerial imagery; and with the
+passage of time, more and more areas of the Lowlands have been shown to have such remains (e.g., R. E. W. Adams 1983; N. Hammond 1981: 170; Harrison 1977: 477, 1978: 247, 249, 1982: 123-6; Puleston 1977; Siemens 1978, 1982; Turner 1978; Willey 1980: 253).
+Recent work by R. E. W. Adams involved radar mapping of about one-half of the Southern Lowlands (1980).
+Adams' results lead him to estimate that between 1250 and 2500 square kilometers of the Lowlands were modified by canals.
+Such figures compare impressively with the 120 square kilometers of the famous Aztec chinampas of the Valley of Mexico, which were similar in nature and function.
+Drained, modified, and intensively cultivated swamps, suggests Adams, may have been the most valuable land by the Late Classic (1980: 210).
+There is a noticeable association between swamps and the larger sites.
+Tikal, significantly, had the largest quantity of readily available swamp of any major center.
+Raised field complexes date as early as ca.
+1100 B.C., as well as to the Late Preclassic.
+With the population maximum that was reached in the Late Classic, raised field cultivation was at its height in this period.
+Water channeling and storage.
+Water channeling and storage involved a variety of techniques, some of which were only partially related to agriculture, but which were all characteristically labor-intensive.
+The Lowlands as a whole are deficient in surface water, particularly during the dry season.
+The Maya dealt with this was by constructing canals, dams, reservoirs, and small wells, and by altering cenotes (large limestone sinkholes) (Healy 1983; Matheny 1982).
+In some areas hydraulic engineering reached major
+levels.
+Reservoirs are common in the Rio Bec area (R. E. W. Adams 1981: 227).
+At the west Yucatan site of Edzna, a water-control system consisting of a moat, canal, and reservoir complex was designed to collect and store rainwater for agriculture, human consumption, and defense.
+The volume of earth moved for this complex, begun in the Late Preclassic, made its construction as large an undertaking as the Pyramids of the Sun and the Moon at Teotihuacan (Matheny 1976, 1978).
+A major Late Preclassic canal system was also built, as noted above, at the site of Cerros in northern Belize (Freidel and Scarborough 1982;
+Scarborough 1983).
+Canal systems that were probably used for water transportation have been documented along the Rio Candelaria (Siemens and Puleston 1972).
+Hundreds of narrow (3-10 meters wide), short (1-2 kilometers) canals have been recorded.
+Matheny's calculations on the volume of earth moved to create the 180 kilometers of documented canals suggest that 500,000 labor-days are represented.
+The 10,000,000 cubic meters of material excavated is ten times the volume of the Pyramid of the Sun (Matheny 1978: 193, 195).
+Terraces.
+Terraces are found across a wide area of the Lowlands, including southern Campeche and Quintana Roo (and the Rio Bec region), portions of the Peten, and the Maya Mountains of Belize (R. E. W. Adams 1981; Turner 1974, 1978, 1979; Wilken 1971; Willey 1980: 252-3).
+Hundreds of thousands of terraces and related stone works were spread across 10,000 square kilometers of southern Campeche and Quintana Roo hillsides.
+An additional 1400 square kilometers of terraces have been noted in Belize (Turner 1974, 1978, 1979).
+Available dates on terrace systems seem to consistently point to the late Early Classic and the
+Late Classic (R. E. W. Adams 1981: 246; Thomas 1981: 100-1, 106; Turner 1974: 121; Turner and Harrison 1978: 343).
+Miscellaneous features.
+Other agricultural features found in the Lowlands include check dams and walled fields.
+The walled field complexes may occur over much of the Peten (Turner 1974: 170; Wiseman 1983: 156), and are sometimes found as parts of terrace systems (R. E. W. Adams 19881: 246).
+Such field demarcation is absolutely incon gruent with anything but permanent or short-fallow cultivation (cf. Turner 1978: 170).
+Mayan crops.
+Although a great deal is known about Mayan agricultural production systems, little is known about crops actually grown.
+It has always been assumed that maize was the major crop, and indeed most archaeobotanical remains are of this plant (Marcus 1983: 476).
+Bronson has suggested that the Maya grew root crops of various kinds (1966), while Puleston (e.g., 1978) has argued for reliance on the nut yields of the Ramon tree.
+Archaeobotanical and palynological evidence definitely establishes the cultivation of maize, squash, avocado, cacao, cotton, and Xanthosoma root.
+Classic Maya art suggests the cultivation of Achras, Byrsonima, and Psidium, which are fruit-bearing trees (Wiseman 1983: 161, 163).
+Ramon is currently a famine food among the Maya (Sanders 1973: 339-41).
+Palynological studies in the Peten suggest that in the Classic period agricultural practice involved a suite of techniques, each fitted to peculiar circumstances, with differing levels of intensification and productivity (Wiseman 1978: 113, 1983: 158).
+Wiseman suggests that, with Classic period population densities and forest clearing,
+the Maya would have had to maintain woodlots for firewood, and production lots for the palm fronds needed for thatched roofs (1983: 151-3).
+Sociopolitical complexity
+Aspects of Mayan sociopolitical organization have been discussed previously.
+This is a topic that crosscuts all other facets of the Maya, but can be briefly isolated to characterize its nature.
+Mayan society was complex and highly stratified.
+The social order consisted minimally of a ruling class, a midlevel hierarchy of artisans and bureaucrats, and the peasants.
+In actuality, each of these classes was itself subdivided into appropriate gradations (R. E. W. Adams 1973b: 138; Adams and Smith 1981; Becker 1973).
+Leadership was hereditary within descent groups (C. Jones 1977) from at least the first century B.C. (Haviland 1977: 66), or possibly even as early as the Middle Preclassic (Willey 1980: 258).
+Rulers legitimized their reigns by erecting sculptural art that proclaimed ties to ancestors and deeds of conquest (Adams and Jones 1981: 301; Marcus 1983: 461;
+Proskouriakoff 1960, 1963, 1964; Willey 1980: 259-62).
+The sculptures of Tikal offer an interesting glimpse into Mayan sociopolitical succession.
+In A.D. 378 Tikal was ruled by a man whose identifying glyph is today given the descriptive designation `Curl Snout.'
+Curl Snout is shown in the ornament and dress of Teotihuacan, symbolizing linkages with that dominant Highland power.
+The accession of `Stormy Sky,' son of Curl Snout, is associated with a burst of major, new construction.
+Some time later (in the period now known as the Late Classic) after a phase of leadership struggles, `Ruler A' acceded to the throne.
+His possibly precarious position was buttressed in sculptural art by a conspicuous display of Curl Snout and Stormy Sky symbols (Willey 1980: 259-60).
+Such legitimization of rule
+by display of ancestral ties occurs elsewhere in Mayan art at stressful times, such as when a ruler's accomplishments were less than those of his ancestors (Proskouriakoff 1963: 166, 1964: 178), and at the collapse (Marcus 1976: 193).
+Sculptural and ceramic art portray a Maya elite concerned with alliances, royal marriages, conflict, hierarchical relationships, and political intrigue (Adams and Jones 1981: 301).
+Important persons visited distant centers to participate in the burial ceremonies of other elites (R. E. W. Adams 1969: 25, 1973b: 138), arranged marriages as vehicles of political aspiration (Molloy and Rathje 1974), celebrated conquests, and generally engaged in the kinds of political maneuvering expectable in a complex society.
+The distribution of population and settlements across space reflects the political climate of the Lowlands.
+The view of Mayan socio-spatial organization that has gained widest acceptance was developed by Bullard, based on surveys in the Peten (1960).
+The organization of settlement mirrored the organization of the society.
+At the apex of each polity was a Major Center such as Tikal.
+Each Major Center established dominance over a set of smaller Minor Centers that were characterized by lesser amounts of sculptural art and monumental architecture.
+Each Minor Center in turn administered, and served as the political focus of, a localized peasant population (see also Willey et al.
+1965; Willey 1981; Sanders 1973: 326-7).
+There were regional and temporal variations in this idealized pattern, and since Bullard's work finer details have emerged.
+Within centers, residential areas were segregated by status (Folan et al.
+1979; Kurjack 1974).
+Between centers, in some areas, the density of settlement declined (Puleston 1974: 303-8; Sanders 1981a).
+In other regions the distribution of settlements is continuous
+(Sanders 1981a: 360; Thomas 1981: 26; Willey et al.
+In southern Quintana Roo, for example, there are stretches of terrain 40 to 50 kilometers in length in which there is no gap of more than 100 meters between structures (Willey 1981: 397).
+Settlement nucleation increased through time, as population aggregated into centers.
+This is particularly a characteristic of the Late Classic (Puleston 1974: 309; Rice and Puleston 1981: 153; Sanders 198la: 361).
+Significant numbers of people nevertheless still lived in rural areas between centers (Puleston 1974; Sanders 1981a:
+360-1; Willey 1980: 257).
+Some rural areas, such as Barton Ramie in Belize (Willey et al.
+1965) and the central Peten Lakes (Rice and Puleston 1981: 153), experienced continued dense settlement throughout the Classic.
+It is possible that dominance hierarchies existed among major centers.
+Gordon Willey, as noted, has argued for the existence of a pan-Southern Lowland state, headed by Tikal, in the Early Classic (1977a, 1980, 1981, 1982).
+He notes that Tikal in this period founded dynasties at Quirigua and Copan, and married its royal daughters to the rulers of other centers (Willey 1982: 265).
+In the Late Classic this regional state broke down into a number of local polities (Willey 1977, 1980, 1981, 1982), each headed by a dominant center such as Tikal, Calakmul, Copan, Naranjo, Palenque, or Yaxchilan (Adams and Jones 1981; Culbert 1974, 1977a;
+Marcus 1976, 1983).
+(It should be pointed out that this model differs from the Major Center/Minor Center hierarchy formulated by Bullard [1960], for here the model is of hierarchies among Major Centers.)
+Culbert interprets the glyphic evidence as indicating a domain for Tikal that extended more than 100 kilometers in each direction (n.d.; see also Adams and Jones [1981: 318]).
+The hierarchy headed by Naranjo (or Tikal and Naranjo) included six subordinate
+centers, each with the same number of courtyards.
+With one exception, these are distributed in a manner suggesting that they were administrative centers (Adams and Jones 1981: 318-19).
+As might be expected, these hierarchies were not fixed.
+Political fortunes rose and fell, centers achieved dominance and declined, allegiances and competitive relations changed (Freidel 1983; Graham 1973: 217).
+Marcus, who proposes that there were four regional capitals, notes that their membership changed through time (1976).
+A number of scholars, it should be noted, dissent from this reconstruction.
+Cowgill suggests that there is no evidence that any Southern Maya center gained firm, longterm political or economic control over any large region, but that there is plenty of evidence of brief dominations, alliances, and royal marriages (1979: 56).
+Sanders makes the important observation that, with relatively uniform productivity over large areas of the Lowlands, there was no economic basis for any one center to achieve dominance over another (1977: 296-7); to this it might be added that there was also no advantage to doing so (Sabloff 1986; Webster 1977: 366).
+Complexity, and its costly manifestations, increased through time, reaching a peak in the Late Classic.
+At Altar de Sacrificios the size and extent of formal architecture, number of stelae, and amounts of elaborate pottery reached a peak between 613 and 771 A.D. (R. E. W. Adams 1973b:
+At the sites of Yaxchilan and Bonampak, the greatest quantities of sculptural art preceded the end of monumental construction by a relatively brief time (Rands 1973: 172).
+The greatest building period at Tikal was between 692 and 751 A.D. (Culbert 1973b: 72).
+Across the Southern Lowlands as a whole, 60 percent of all dated monuments were built in
+a period of 69 years, between 687 and 756 A.D. (Marcus 1976: 17, 19).
+At the same time, Late Classic architecture shifted increasingly to secular functions, with proportionately more investment in those buildings that Mayan archaeologists have called `palaces' (Culbert 1974: 96; Rathje 1970: 368; Sanders 1973: 346; Willey and Shimkin 1973: 459).
+Culbert suggests, based on this development, that there was increased importance of administrators and nobles (1974: 101).
+The increasing costliness of Late Classic sociopolitical complexity is well illustrated.
+Warfare
+There was military competition among the Lowland Maya from at least the Protoclassic, which is the date of the major fortifications at Becan.
+The ditch and parapet at Becan are so massive (Webster 1976a, 1977) that they are not likely to represent the earliest instance of Mayan warfare.
+The Tikal defenses most likely date to the Early Classic (Webster 1976a: 3).
+Leadership was associated with militarism by at least the latter period (R. E. W. Adams 1977a: 3).
+Warfare and militarism intensified in the Late Classic, and the art of this period shows greater emphasis on captives and conquest (R. E. W. Adams 1969: 29; Cowgill 1979: 51; Culbert 1974: 101; Marcus 1976: 22, 190; Rands 1973: 174; Willey 1974: 422; Willey and Shimkin 1973: 461).
+Major fortifications in the Rio Bec area at the sites of Calakmul and Oxpemul (R. E. W. Adams 1981: 234) may date to this time (Demarest 1979: 108).
+Many Mayan archaeologists have argued that the population growth evident in the Lowlands ultimately stimulated competition and conflict (R. E. W. Adams 1969: 30, 1973b:
+152, 1977a: 96, 1983: 334; Ball 1977: 123-5; Freidel 1979: 37; Rice 1976: 444-5; Webster 1976a: 110, 1977: 343).
+Cowgill disagrees, suggesting that population growth was a concomitant of militarism (1979: 61).
+The two processes are not incompatible: a competitive situation, perhaps stimulated by pressure on resources, would yield advantages to a center with a policy of further population growth (Webster 1977: 359).
+Warfare had as one result the concentration of population in centers, which offered greater safety from attack (Sanders 1973: 358-9, 1981:
+There were major logistical limitations to prehistoric Lowland warfare, including the agricultural cycle and the lack of beasts of burden.
+Prolonged sieges were virtually impossible (Webster 1976a: 94).
+For the most part Classic warfare was sporadic and small in scale.
+In the Rio Bec region, though, the presence of fortified sites suggests a different pattern - perhaps conflict at a major regional boundary (Demarest 1979: 107- 8; Webster 1976a: 106).
+The intensity of conflict most likely varied with economic and sociopolitical conditions.
+The most thorough treatment of the role of warfare in the evolution of Mayan society is that of Webster (1976a, 1977).
+Suggesting that by the Late Preclassic population growth had left little room for expansion, Webster argues that security requirements and management of conflicts selected for leadership, hierarchical organization, and economic stratification.
+The collapse
+The Maya collapse, as noted, was preceded in many centers by a burst of monumental construction (R. E. W. Adams 1973b: 137, 1977b: 224; Culbert 1973b: 72-3; Marcus 1976: 17, 19; Rands 1973: 172; Willey and Shimkin 1973: 460-1).
+There is evidence for political decentralization before the collapse was completed.
+New centers proliferated along the western, southern, and eastern peripheries of the Peten (Willey and Shimkin 1973: 460).
+Even as construction ceased at the major centers, many small sites began to erect monuments for the first time.
+Between 830 and 909 A.D. 65 percent of monuments were erected at minor centers.
+More than 40 percent of the centers that erected monuments at this time did so for the first time (Marcus 1976: 192-3).
+Often, this was the only monument such sites dedicated before they, too, were swept up in the collapse (Culbert n.d.).
+This decentralization seems to duplicate events of the sixth century Hiatus (Willey 1974).
+The collapse was swift.
+(Actually, there were many individual instances of collapse repeated, in varying form, at individual sites across the Southern Lowlands.)
+In A.D. 790, 19 centers erected dated monuments.
+In 810, 12 did so.
+In 830, there were only three.
+And A.D. 889 is the date of the last stela with full calendrical inscriptions (Culbert 1974: 105) (although J. E. S. Thompson suggests that there may be late monuments dating to 909 and 928 [1966: 102]).
+The collapses at Bonampak, Palenque, and Piedras Negras occurred about 800 (Rands 1973: 171; Willey and Shimkin 1973: 463), as did that of Copan.
+Quirigua and Piedras Negras display terminal dates of 810.
+Other centers fell in the mid ninth century (J. E. S. Thompson 1966: 100).
+There
+is no evidence for any major construction at Tikal after 830 (Culbert 1973b: 73).
+A number of archaeologists find evidence for foreign incursions on the western Mayan periphery at the time of the collapse.
+It was once thought that such an invasion actually triggered the collapse, if only indirectly (R. E. W. Adams 1973b: 152; Cowgill 1964: 155; Sabloff and Willey 1967).
+Others think such incursions were the result, rather than the cause, of collapse, as peripheral populations moved to exploit a power vacuum (Culbert 1973b: 92).
+The evidence for foreign invasions is found primarily at Altar de Sacrificios and Seibal, where sculptural and ceramic art in the ninth and tenth centuries are reminiscent of Yucatan, Gulf Coast, and central Mexican art.
+A florescence of architectural construction at Seibal coincides with the change in artistic styles, leading to the inference of a military take-ove: (R. E. W. Adams 1973b; Sabloff 1973b;
+Sabloff and Willey 1967; Willey and Shimkin 1973: 464-5).
+Not all Mayanists, though, are convinced by this evidence.
+Graham adds the important caveat that some of these artistic similarities may reflect imitation of foreign styles by local elites (1973: 213).
+Saul's analysis of the skeletal remains of the occupants of Altar de Sacrificios discloses no evidence for the intrusion of a genetically different population (1972: 30).
+With collapse, the following elements of complexity were lost: administrative and residential structures, the erection and refurbishment of temples, stela construction, manufacture of luxury items, and Classic calendrical and writing systems.
+The elite class associated with these elements correspondingly ceased to exist (R. E. W. Adams 1973a: 22).
+The Mayan collapse involved not only a decline in sociopolitical complexity, but also a major loss of population.
+R. E. W. Adams estimates that population was reduced over a 75 year period from 3,000,000 to 450,000.
+He suggests that this could have come about by an increase in the mortality rate of 10 to 15 percent (R. E. W. Adams 1973b: 225).
+Culbert is more conservative on this topic, suggesting that the Lowlands lost 1,000,000 people in 100 years (1974: 109).
+Either scenario represents a significant demographic disaster.
+Various authors (e.g., Culbert n.d.; Sanders 1973: 364) suggest that emigration might have contributed to the population decline.
+In actuality, the exact relationship between collapse and the population loss is not clear.
+It may be reiterated that in many areas population leveled off some time before the collapse.
+The timing of the depopulation varied across the region, from the last 100 years of the Classic to well within the Terminal Classic or Postclassic.
+Reduced populations remained in and near some centers, including Tikal (Culbert 1973b, 1974), Benque Viejo (Barton Ramie area) (Mackie 1961), and Uaxactun (J. E. S. Thompson 1966: 106) for several decades following the political demise.
+At Barton Ramie (Willey 1973; Willey et al.
+1965), and elsewhere in Belize (Culbert n.d.), sizeable populations remained past 1000 A.D. Barton Ramie is a particularly informative area.
+Here, despite collapse of the Benque Viejo center around 830, the total of 65 rural mounds displaying occupation between 700 and 950 drops only to 62 mounds thereafter (Willey 1973; Willey et al.
+There was substantial post-collapse occupation in the central Peten Lakes region, where a new political center was established.
+Even here, though, there is an 81 percent drop in the number of occupied structures between Late and Terminal Classic times (Bullard 1973; Culbert n.d.; N.
+Hammond 1982: 143; Rice and Rice 1985; D. Rice 1986; P. Rice 1986).
+The radiocarbon dates associated with elite and commoner archaeological contexts confound an interpretation of a simple relationship between collapse and depopulation.
+As compiled by Sidrys and Berger (1979), radiocarbon dates from elite contexts rise to a peak in the mid eighth century and, as expected, thereafter decline sharply.
+In contrast, dates from commoner contexts follow no such pattern, and give no evidence of a concurrent peasant population crash.
+Some points need to be mentioned about this pattern: the sample size of commonerassociated dates is small; and there is a real possibility of significant sampling error, or even bias (cf. Culbert n.d.).
+Keeping these points in mind, the patterns graphed by Sidrys and Berger are provocative.
+There is no reason at this point to suggest that the collapse and the depopulation were unrelated.
+There is, however, ample basis for suggesting that the relationship between them was complex, and varied across space and time.
+Further research into the Terminal Classic and Postclassic population decline is certainly needed.
+The collapse affected each site according to the peculiarities of its circumstances.
+It was transmitted between centers, though, as distressed cities raided and caused devastation among their neighbors, and as support populations moved to less affected areas (Lowe 1985: 190).
+The behavior of post-collapse populations is best illustrated at Tikal.
+Population at the center may have declined by 90 percent or more, leaving a remnant band of 1000 to 2000 persons.
+Tikal's sustaining area shows a corresponding drop.
+The Eznab occupation, from ca.
+830 to
+900 A.D., was by an impoverished population that attempted to carry on a semblance of Classic ceremonialism.
+The Eznab people lived in the great vaulted structures, and deposited their refuse in courtyards, down stairways, even within rooms.
+When these structures deteriorated, there was no rebuilding.
+Eznab constructions were small and rudimentary, and their pottery compares unfavorably with the technical perfection of Classic ceramics.
+Eznab burials are in the same places as Classic elites, but contain minimal accompaniments.
+Classic tombs and caches were looted.
+The attempts at imitating Classic ceremonialism betray the loss of Classic elite knowledge.
+As many as 40 percent of Tikal stelae were reset by the Eznab occupants, but this was done improperly by Classic standards (i.e., in the wrong places, or upside down).
+With the departure or demise of this remnant population the political and demographic collapses at Tikal were complete (Culbert 1973b, 1974).
+Similar patterns are seen at such sites as Uaxactun, San Jose, Palenque, and Piedras Negras (Culbert 1974: 107-8).
+The rural population of Barton Ramie shows analogous behavior, because although the post-collapse occupation was extensive, new construction was comparatively minimal (Willey 1973: 102-3).
+Yet the collapse was not uniform across the Lowlands.
+The Puuc sites of the Northern Lowlands show a Terminal Classic occupation that is in no way diminished from former times (and which may have even been assisted by populations fleeing the southern disaster) (Lowe 1985: 40-1; Freidel 1985; Andrews and Sabloff 1986).
+Nor is any collapse evident at the Belizean site of Lamanai (Pendergast 1985, 1986).
+Yet as a whole the Southern Lowlands were struck by what one authority describes as `...the most devastating demographic and cultural disjuncture prehistoric Mesoamerica ever experienced' (Freidel 1985: 293).
+Assessment of the Maya collapse
+The research synthesized in the preceding pages contradicts the traditional view of the Maya: a peaceful population of dispersed swidden farmers who cheerfully built, and occasionally visited, ceremonial centers that were staffed by an elite concerned only with calendrics and ritual.
+The Maya in fact were a high-density, stressed population, practicing intensive agriculture, living largely in political centers, supporting both an elite class and major public works programs, and competing for scarce resources.
+This more realistic view both makes the Maya less anomalous among early civilizations, and their collapse less mysterious.
+The reasons for the collapse lie in the Preclassic and in earlier times.
+There was good reason for the development of military competition in association with the population/resource stress of the Middle and Late Preclassic.
+The topographic redundancy of the Southern Lowlands is pertinent to understanding this development.
+As a population impinges on the capacity of its food production system, fluctuations in productivity become increasingly consequential.
+In environments characterized by high topographic diversity, where food procurement systems with different productivity cycles exist in close proximity, it is common to alleviate resource fluctuations by developing regional systems of economic symbiosis.
+By forming trading or reciprocal feasting relationships, or by contributing to a hierarchically-administered regional resource pool, a local group can insure itself against lean times by converting temporary surpluses into reciprocal obligations that are called in during times of scarcity.
+In
+essence, the scale of the production and consumption unit is raised from the local group, occupying a limited territory, to the regional population occupying diverse territories.
+Isbell has called such strategies `energy averaging' systems, which is an apt term (1978).
+Energy averaging systems have been observed among hunter/gatherers and subsistence agriculturalists in many regions (Bean 1972; Bettinger and King 1971; Chagnon 1970; Ford 1972;
+Isbell 1978; Suttles 1960; Vayda 1961b, 1967), and were a crucial development in the evolution of densely populated, complex sociopolitical systems (Bettinger and King 1971;
+Isbell 1978; Tainter and Gillio 1980: 101-13).
+One energy averaging system, in the San Juan Basin of New Mexico, will be examined in detail later in this chapter.
+Regional economic symbiosis and spatial energy averaging are a method of countering productivity fluctuations that can be efficient and successful, and that has important evolutionary consequences.
+Such a strategy can lead to the formation of regional sociopolitical aggregates that are based on economic cooperation directed by self-interest.
+Regional economic symbiosis can achieve long-term success, however, only in the right kinds of environmental settings.
+What are needed most fundamentally are diverse production systems that fluctuate non-synchronously, and that exist in sufficiently close proximity that resource transport is economical.
+Where these conditions are not met, and where groups in close proximity experience production cycles with synchronized periodicities, there is little basis for economic cooperation.
+When a number of local groups each experience lean times concurrently, their behavior is largely without option, and is entirely predictable: competition, raiding, and warfare.
+C. White has documented an interesting example of this pattern in the Colorado River region of the California/Arizona border.
+Environmental zones in this region trend north-south, so
+that if one travels east-west resource diversity is encountered, but travel north-south is likely to be within a single environmental zone.
+Not surprisingly, cooperative alliances among native groups in this region developed on an east-west basis, while competitive relationships tended to pattern north-south, between groups experiencing synchronized productivity fluctuations (C. White 1974).
+Productivity fluctuations in the Lowlands, while not as severe as in more and lands, were nevertheless of concern to a Mayan population that approached the densities of such areas as Java and parts of China (Culbert n.d.).
+Any productivity decline will adversely affect such a people.
+Historic swidden farmers in the central Peten experienced repeated food crises, and this among a comparatively small population that was nowhere near the support capacity of the region (Reina 1967: 15-18).
+The intensive systems of the high density Preclassic and Classic populations would have been particularly susceptible to climate, plant diseases, pests, and nutrient loss (Turner 1974: 123; Wiseman 1978: 113; Lowe 1985: 188).
+Along the continuum from high regional diversity/unsynchroniz,:d productivity fluctuations/economic symbiosis to low regional diversity/synchronized productivity fluctuations/subsistence competition, the Lowland Maya fell somewhere toward the latter end of the scale.
+The topographical redundancy of the Lowlands environment (over relatively short distances) created a situation where highly diversified production systems were not likely to exist in any local setting, and where neighboring populations would be experiencing nearly the same productivity cycles.
+(And as a colleague has pointed out, the clearing of large areas of rainforest would have further reduced what diversity there was in the area
+[Gordon Dean, personal communication].)
+This is not to suggest that there was no regional diversity in Mayan agricultural practice (for clearly there was), nor that each local group was nothing more than a mechanical duplicate of its neighbors.
+The argument is simply that, compared with settings of high topographic diversity, the Lowlands environment presented the Maya with a situation where resource fluctuations were more likely to be resolved by raiding and competitive relations than by spatial energy averaging.
+To put it another way, in lean times the Maya could not profitably average that which was uniformly low.
+When population in the Preclassic became sufficiently dense that productivity fluctuations were a matter of serious concern, the solution to each local group so affected must have been obvious: raid neighboring groups to make up a deficit.
+Since the only alternative over the short-term was famine, the development of warfare among the Maya was entirely expectable.
+Long-term solutions included agricultural intensification and the establishment of a hierarchically managed economy.
+These were not permanent solutions, however, for the archaeologically-evident pattern of population growth indicates that, with each establishment of a higher-capacity production system, population simply rose further.
+The military option must have been perpetually tempting.
+The establishment of competitive relations among local Mayan groups had important implications for the further evolution of Mayan society.
+It is no accident that population pressure, warfare, and sociopolitical complexity emerged together in the Middle and Late Preclassic and the Protoclassic, for as Webster has argued, they were systemically related (1976a, 1977).
+Organization for the initiation, conduct, and resolution of war provided a significant managerial/leadership role that contributed to
+the emergence of a social hierarchy.
+Economic stratification resulted from success at war, as the bounty of a successful campaign was subject to expropriation and distribution by the leadership (Webster 1976a, 1977: 349- 51).
+Although major fortifications did exist, the majority of conflicts (if they were indeed related to subsistence stress) would have involved raids on fields, as crops neared maturity, and on peasant villages and storage complexes, after the harvest.
+The insecurity that this created among the rural population selected for nucleation around secure, regional centers (Sanders 1981a: 361; Webster 1977: 348).
+This in turn further intensified subsistence stress, as populations aggregated into smaller areas, leaving large hinterlands with comparatively fewer people and less agricultural production.
+R. McC.
+Adams has noted a similar response to warfare among early Sumerian city-states (1974: 3).
+Complex feedback relations emerged among agricultural production, conflict, and complexity.
+Productivity fluctuations made military adventures tempting, even essential, while in turn military strategy came to influence agriculture.
+Dispersed, shifting swidden plots were essentially indefensible (at least at any reasonable cost), and yet were highly vulnerable and essential to subsistence.
+Concentrated, intensive systems, such as raised fields and terraces, were at the same time more easily defended (being compact, concentrated, and stationary) and productive enough to be worthwhile defending.
+The same consideration applies to centralized storage facilities.
+While it would be simplistic to suggest that warfare was the sole reason for agricultural intensification, it certainly made intensification that much more attractive.
+(And of course once present, such
+capital assets make tempting targets [Webster 1976a: 111, 1977: 367-8].)
+Similarly, management of conflict was probably not the only reason for the emergence of sociopolitical hierarchies, but both directly (through the need for military leadership) and indirectly (through the need for labor mobilization and agricultural management), it certainly influenced their development.
+Mayan strategies for dealing with subsistence stress no doubt varied across time and space.
+In some instances raiding may have been a group's best option to relieve a deficit.
+At other times, as one's neighbors developed effective strategies of defense, agricultural intensification or increased economic management would have been more effective.
+Warfare was most likely not the only factor involved in Mayan sociopolitical evolution.
+It developed as a crucial part of a complex, adaptive system.
+As Webster has pointed out (1977: 359), a genuine edge in both offense and defense accrues to larger populations, where other factors are equal.
+It was perhaps this point that led Cowgill to suggest that competition itself selected for Mayan population growth (1979: 61).
+If so, a positive feedback loop was in operation in which the factor causing stress (population) was further increased by the solution to that stress.
+In the absence of massive, regional diplomatic agreements, no single polity would dare withdraw from this competitive spiral.
+The best strategy for any Mayan polity, once the competitive system was established, was deterrence.
+Without large standing armies (Adams and Hammond 1982: 508), some signaling system was needed to communicate relative strengths, to deter aggressors, and to facilitate conflict resolution without violence.
+While (again) not suggesting that this was the sole reason for their development,
+monumental architecture, painting, and sculptural art would have served as such a system.
+Massive, labor-consuming investments in public display would communicate quite effectively the relative strength of political centers.
+By engaging in architectural display a center could signal to potential competitors the relative population numbers that it could mobilize.
+It could also, in effect, convey the message that a polity which could squander so much wealth and labor on something as inconsequential as architecture, could certainly mobilize vast resources to cope with an external threat.
+Indeed, Mayan architecture conveys these subtle messages even to this day, centuries after the builders departed the scene, for architectural investment is a major criterion used by archaeologists to assess the relative political strengths of Mayan centers.
+Sculptural and painted art fit squarely into such a signaling system.
+Mayan sculpture regularly depicts military themes, and rulers are often shown judging, even standing on, captives.
+At a center displaying such art, emissaries and visiting elites from potentially competitive centers would constantly encounter sculpture and painted surfaces showing the military prowess of their hosts, and the harsh manner in which they treated prisoners.
+Such visitors could not help but receive the correct message from art, such as the Bonampak murals, showing the torture and execution of prisoners.
+Although no expert on the subject, my impression is that Mayan art more frequently displays mistreatment of prisoners than, say, Roman Imperial art (e.g., Becatti 1968).
+Roman prisoners of war (especially notable ones) are often shown in, for example, the victory processions of emperors, but mistreatment of prisoners is not depicted so conspicuously as in Mayan art.
+The Romans maintained a powerful standing army, and their art does not concentrate on the mistreatment of prisoners.
+Classic Mayan states did not have standing armies. Their
+art depicts terrifying treatment of enemies.
+Without real strength, propaganda was the next best thing.
+Signaling of strength did more than deter neighbors.
+It could also serve to attract unattached rural populations, and minor centers, into affiliating themselves with the major center that could promise the greatest protection and advantage.
+Although aggregation increased through time, much of the Mayan population continued to live in rural hamlets (Bullard 1960; Willey et al.
+1965), and was probably a constant focus of recruitment by centers.
+Willey and Shimkin have suggested that in some areas by the Late Classic, commoners were actively recruited, and even captured from other centers (1973: 485).
+The Maya of the Classic period were engaged, then, in a system of competitive relations in which advantage would accrue to those centers that were larger, that invested more in competitive display, and that could mobilize greater populations.
+By the Classic, certainly by the Late Classic, warfare had evolved far beyond its original stimulus of subsistence insecurity, and was an element of political relations and regional dominance hierarchies.
+Polities were differentially successful at such competition, for powerful centers began to emerge that dominated minor centers and large territories.
+Tikal occupied such a position in the Early Classic, while several regional powers did so in the Late Classic.
+Glyphic evidence suggests that the region dominated by Tikal spread 100 kilometers in each direction.
+Yet this domain was maintained with difficulty.
+Culbert (n.d.)
+believes that most depictions of military exploits refer to intraregional struggles, for captives shown in art can rarely be associated with known, major centers.
+A domain the size of Tikal's, though, raises the possibility that in later periods food stress in the central Peten could have been
+relieved by importation of food from such distant sources as the terraces of the Maya Mountains or the raised fields of Belize (Culbert n.d.).
+Long-distance transport of food (as in the Roman Empire) would have been costly.
+Culbert's calculations indicate that food transported 100 kilometers would have cost 33 percent of its own value in consumption by bearers (n.d.).
+Although it is not possible, with available data, to fill in all details, it is clear that among the Classic Maya high population density occurred in association with vast hydraulic and agricultural engineering, sociopolitical complexity, massive public works, and military competition.
+More importantly, each of these variables was increasing (except for population, which eventually leveled off).
+Complexity and architectural investment grew significantly just prior to the collapse.
+This was a system that was costly in human labor (e.g., Boserup 1981: 61).
+Although we have no written records of the status of the support population, as we do for the later Roman Empire, archaeologists have recovered the physical remains of the people themselves.
+In many ways these mute remains speak clearly about the conditions of the times.
+In 1965, Gordon Willey and his colleagues noted that the human skeletal remains from Barton Ramie became, over time, increasingly fragile and lacking in robustness.
+Suggesting that the dense populations of the area may have been at or above their subsistence capacity, they propose that there was a growing crisis in food supply that climaxed in the Late Classic (Willey et al.
+Once again, the massive data base provided by the Tikal project has proven informative.
+By about A.D. 1 marked
+stature differences had developed at Tikal between tomb (higher status) and non-tomb (lower status) segments of the population.
+By the Early Classic tomb populations averaged seven centimeters taller, suggesting preferential access by the elites to nutritional resources during the childhood growth years.
+Yet during the Late Classic both groups were affected by the stresses of the time.
+Stature among males declined markedly, in both the tomb and non-tomb segments.
+Nutritional deterioration seems to be implicated.
+It is noteworthy that females were not so affected, for their stature showed no reduction (Haviland 1967).
+A large burial population has also been analyzed from Altar de Sacrificios.
+At this site, from Preclassic times on, there was a high and continuing incidence of malnutrition and/or parasitic disorders, and perhaps childhood infection.
+There was a very high frequency of several varieties of anemia, indicated by a degenerative bone condition called porotic hyperostosis.
+Childhood growth interruption is reflected in enamel hypoplasia of teeth.
+Pathologic lesions occurred in moderate numbers.
+Male stature decreased between the Preclassic and Classic periods (females again show no such pattern), while life expectancy declined abruptly in the Late Classic.
+There is evidence for a high frequency of Vitamin C deficiency, and resulting scurvy.
+The pathologies evident in the population were debilitating, often on a long-term basis, and would have impaired normal functions (Saul 1972, 1973), and work 'capacity (Shimkin 1973).
+More recent research, directed by William Sanders at the site of Copan, corroborates these findings.
+Both infectious and nutritional diseases were more prevalent in Copan's rural areas, but may have been more severe in the city.
+Urban residents died significantly earlier than did their rural counterparts, and the average age at death of city-
+dwellers declined in the Late Classic.
+The lower class population was unhealthy, and even experienced an unusually high number of deaths among older children and adolescents.
+In most populations such young persons die infrequently (Whittington 1986).
+Late Preclassic and Classic Maya populations were clearly under stress, and this condition apparently worsened through time.
+It is tempting to draw parallels to the impoverished, overtaxed peasants of the later Roman Empire, except that the Roman records pertain to only the last 300 years or so before the fall of the Western Empire, while the Mayan data cover nearly a millennium.
+The factors that led to the Mayan collapse can now be assembled in a systematic framework.
+The stresses and pressures of the Preclassic and Classic periods set in motion a dynamic, interlinked system of competition and warfare, support of an elite hierarchy, investment in monumental construction, hydraulic and agricultural engineering, and administration of growing regional domains.
+The costs of supporting this system fell entirely on the agricultural support population.
+To be sure, this growing investment in complexity must have had benefits, for a strategy pursued for 1200 years or more, and intensified through time, cannot have been entirely unsuccessful.
+Yet it is also clear that the marginal return on this investment deteriorated over time.
+Ever increasing investments in warfare, complexity, monumental construction, and agricultural intensification yielded no proportionately increasing returns in the health and nutritional status of the populace.
+To the contrary, as the demands on the support population increased the benefits accruing to that population actually declined.
+All of the monumental construction, and all of the agricultural engineering, apparently yielded little or no increase in
+nutrition per capita.
+(I must emphasize the per capita part of the previous sentence, since it is obvious that overall food production did increase.)
+This was especially so just prior to the collapse, when a dramatic increase in monumental construction fell on a stressed and weakened support population that was no longer growing.
+The fact that females were apparently not as stressed as males (at least at some sites) leads one to speculate that the hierarchy, faced with increased needs for labor and military personnel, pursued a policy of deliberately favoring female nutrition to increase population.
+The later Roman Empire, as already seen, also encouraged population growth, but through taxation incentives and care of orphans.
+Closer at hand, both the Aztecs and the Incas had policies favoring population growth, in some instances honoring reproducing females.
+As in the Roman case, it is further tempting to ask whether the Late Classic leveling of Mayan population was partly due to excessive demands on the peasantry.
+Mayan society of the Preclassic and Classic periods, then, evolved along a direction of increasing investment in complexity, and declining marginal returns for that investment.
+By the latter part of the eighth century A.D. the populace supporting Mayan Civilization was so weakened that the society was ripe for a stress surge.
+Although conflict was an intrinsic aspect of Mayan life, by the time of the collapse military conquest would not have provided even a temporary respite from their problems.
+The acquisition of larger territories would by this time have only meant greater impoverished populations to support, so that the marginal return on evolution to larger states would have been small.
+Whether the final push was from invaders, environmental deterioration, withdrawal of peasant support, internal conflict, or some combination of
+these, the fact of the collapse is no surprise.
+It was a predictable adjustment to an otherwise insolvable dilemma.
+Over the short-term the collapse probably resulted in an improved standard of living for a peasant population suddenly relieved of the burden of supporting a hierarchy (cf. Sanders 1973).
+In the long run, though, the agricultural population was itself decimated.
+The fact that there was no population recovery seems to indicate that the Lowlands environment had deteriorated under intensification, and/or that the intensive agricultural systems could be maintained only with the hierarchical management that was by now proven infeasible.
+As archaeologists are beginning to realize, while this was a political and demographic disaster of the greatest magnitude, it was not the end of Mayan Civilization.
+The Northern Maya Lowlands were not affected by the southern collapse, and indeed grew in strength.
+It now appears that
+there was much cultural continuity between the Southern Lowlands and the Puuc sites and even Chichen Itza to the north.
+The major transformation in Mayan Civilization came with the demise of Chichen Itza, and the rise of Mayapan, in the thirteenth century (Freidel 1985; Andrews and Sabloff 1986).
+The Chacoan collapse
+Chacoan society of the San Juan Basin of northwestern New Mexico is known only from its archaeological remains.
+In contrast to the tropical setting of the Mayan area, the San Juan Basin is an and region.
+Social complexity in this area evolved in response to a very different set of challenges, but collapsed for reasons that parallel those of the cases already investigated.
+The San Juan Basin is a structural subunit of the vast Colorado Plateaux.
+Its 85,000 square kilometers consist of broad plains, sharply and frequently dissected by mesas and buttes of relatively low relief.
+It is surrounded by mountains and plateaux of high relief.
+Topographic elevation over short distances, in the central Basin, rarely exceeds 150 meters, while relief of 900 meters at the periphery is not uncommon (Judge 1982: 8; Powers 1984: 23).
+In the center of the San Juan Basin lies its major topographic feature, Chaco Canyon.
+An east-west trending feature bounded on north and south by sharply rising cliffs, Chaco Canyon is an island of topographic relief and environmental variety in a sea of topographic homogeneity and environmental redundancy (cf. Judge et al.
+The Canyon has several major tributary drainages, and so receives moisture from an extensive drainage basin.
+This is crucial for agriculture in an and setting, for with characteristic spatial variability in localized summer rains, it is common to see some Canyon drainages running while others are dry.
+Chaco Canyon thus maximizes the potential for capturing runoff from variable (and often insufficient) precipitation, and is unusual in the Basin in this regard (Judge et al.
+In other ways, though, Chaco Canyon is not a good location for subsistence agriculture.
+It has, for example, some of the poorest soils in the region (Powers et al.
+Schelberg 1982: 105).
+The maize of the Hopi of northeastern Arizona takes about 115 to 120 days to mature (Schelberg 1982: 16).
+Southwestern archaeologists often use these figures to estimate whether any given area can support maize agriculture.
+The average growing season for the San Juan Basin is between 140 and 160 days (Judge 1982: 8).
+Yet at the elevation of Chaco Canyon, 1866 meters, 60 percent of growing seasons are less than 120 days, and 30 percent are less than 100 days.
+The only permanent water in the Canyon consists of about a dozen small seeps in the sandstone cliffs, the largest of which holds less than 380 liters.
+Recorded rainfall in Chaco averages 213 millimeters, but varies from 89 to 457 millimeters (Schelberg 1982: 16, 79, 81, 87).
+Climatic conditions at the height of the Canyon's occupation were similar to those of today (Powers et al.
+Dendrological (tree-ring) evidence suggests that between 900 and 1300 A.D. rainfall averaged 221 millimeters.
+Temporal and spatial variations were critical in such a moisture-deficient area, and droughts adversely affected the Chacoans.
+Between 920 and 1040 A.D., in 45 percent of years precipitation was greater than the 100 year mean.
+Between 1040 and 1120, this figure increased to 55 percent of years.
+Yet between 1120 and 1180 only 10 percent of all years experienced precipitation above the 100 year mean.
+From 1123 to 1178 A.D. only eleven years saw above-average precipitation (Schelberg 1982: 16, 95).
+A regional system of social complexity, political stratification, and economic symbiosis developed in this marginal environment on a scale unparalleled in the
+prehistoric northern Southwest.
+Although research is beginning to disclose the existence of regional systems that existed at other times and other places in the Puebloan area (e.g., Upham 1982; Plog 1983), the Chacoan system reached a level of hierarchy, complexity, and costliness that exceeded all others.
+The demarcating attribute of the Chacoan system is its architecture.
+Two generalized kinds of Chacoan structures have been characterized by archaeologists.
+The first, called `Great Houses,' `Chacoan Structures,' or `Towns,' are distinctive among Southwestern pueblos.
+They are: (a) characteristically large compared with surrounding buildings (sometimes reaching several hundred rooms, and including multiple stories); (b) the result of large-scale planning, exhibiting large construction units, an ordered, compact, symmetrical layout, and a high level of labor organization; (c) characterized by a distinctive, elaborate form of masonry that was costly to construct; (d) filled with large, high-ceilinged rooms that were roofed with large timbers; and (e) associated with a distinctive form of religious architecture called the Great Kiva.
+Contrasting with these comparatively few Chacoan buildings are hundreds of small pueblos or villages that held the bulk of the Basin population.
+These pueblos are small and amorphous; they exhibit unplanned layouts, simpler masonry, smaller rooms with lower ceilings, and smaller, less elaborate kivas (Powers et al.
+1983: 15-17; see also Vivian 1970; Marshall et al.
+The overall costliness of their construction, as Neller has demonstrated, was substantially lower than that of Great Houses (Lester and Neller 1978).
+Chacoan structures (Great Houses) typically contain a large number of what appear to have been storage rooms, and would accordingly have had populations that were
+proportionately low compared to structure size (Judge 1979: 903; Marshall et al.
+1979: 337-9; Schelberg 1982: 223).
+The burials in Chacoan Structures in the Canyon are often associated with exotic, imported goods, including turquoise beads and pendants, shell ornaments, decorated ceramic vessels, jet inlays, quartz crystals, and other valuable items.
+Sometimes such grave associations number in the hundreds or thousands of items.
+Village burials, in contrast, are far less frequently associated with valuable materials.
+Between 1030 and 1150 A.D., for example, 21 percent of Canyon Great House burials had turquoise beads, but less than one percent of village interments did (Schelberg 1982: 158-86; Akins and Schelberg 1984).
+The evidence for labor mobilization and high energy expenditure in Great House architecture, and for social and economic differentiation in mortuary practices, identifies Chacoan society as socially stratified, with the higher status members of the population resident in the Great Houses (Schelberg 1982, 1984; Tainter and Gillio 1980;
+Powers 1984; cf. Cordy 1981; Tainter 1978).
+The distribution of Chacoan towns, both in the Canyon and throughout the San Juan Basin, demarcates the geographical extent of this system of hierarchical organization.
+Great Houses range in size from 1 to nearly 700 rooms (Powers et al.
+The largest sites concentrate in and near Chaco Canyon, with a few along or near the San Juan River at the north edge of the Basin.
+The other Great Houses, scattered primarily about the periphery of the Basin and along the lower Chaco River , are generally referred to as `Chacoan Outliers' (Marshall et al.
+1979; Powers et al.
+More than 70 of these have been identified (Schelberg 1982: 7).
+A road network spread outward from Chaco Canyon to the Outliers.
+These roads are wide (up to 9-10 meters) and straight.
+They do not adhere to topographic contours, but were imposed on the landscape.
+The roads often contain masonry curbs, causeways over drainages, and, at cliff faces, carved stairways (Lyons and Hitchcock 1977).
+Recent research indicates that they were not merely the result of habitual use, but were systematically planned, engineered, constructed, and maintained (Nials 1983).
+More than 300 kilometers of such roads have been identified so far (Schelberg 1982: 209).
+A few Outliers seem to have served as way-stations associated with this road network (Marshall et al.
+1979; Powers et al.
+1983: 325), although the majority of Great Houses served as residences of high status individuals and descent groups in local agricultural communities (Tainter and Gillio 1980: 105; Schelberg 1984;
+Powers 1984).
+The archaeological chronology of the San Juan Basin is as follows (after Schelberg 1982):
+Developing social complexity is evident in the San Juan Basin as early as the Basketmaker III and Pueblo I periods.
+Great Kivas make their first appearance at this time in and around the region (Schelberg 1982: 11, 126-7, 144).
+(Great Kivas are large religious structures that probably served several groups.)
+From this early period Chaco maintained extensive trading relations with surrounding areas.
+Between 20 and 80 percent of the earliest ceramics were traded into
+Chaco from the Cibola area 80 kilometers to the southwest.
+Later, during Pueblo II, major quantities of decorated pottery came from the Red Mesa Valley, 50 kilometers to the south, and much utility ware from the Chuska Mountains, 80 kilometers to the west.
+By the ninth century A.D. Chaco Canyon supported a sizeable population of small, independent pueblos, characterized by irregular masonry and unstructured ground plans (Judge 1979: 901-2; H. Toll 1984, and personal communication).
+Around 900 A.D. major changes began.
+Three Canyon sites - Una Vida, Pueblo Bonito, and Penasco Blanco - began to develop the large rooms and multi-storied, distinctive masonry that characterizes later Great Houses (Judge et al.
+By early Pueblo III at least 13 Great Houses were occupied in or near the Canyon.
+Several Great Kivas were concurrently built, and a water control system established (Vivian 1970).
+Luxury items were imported for use by the Great House elites, including turquoise, ocean shell, copper bells, macaws, and parrots (Mathien 1984).
+Elsewhere in the San Juan Basin the period between 500 and 900 A.D. witnessed the establishment of agricultural villages in many areas that came later to support Outliers.
+Between 900 and 975 seven Chacoan structures were built along the southern and western edges of the Basin (Powers et al.
+1983: 247), as sociopolitical hierarchies evolved in response to localized challenges, stresses, and opportunities (Tainter and Gillio 1980: 108-9).
+The South Road leading out of the Canyon dates to the same time as these early Outliers (Kincaid et al.
+1983), indicating integration between Chaco and its southern periphery.
+Between 975 and 1050 initial construction began at another nine Chacoan structures.
+There was a florescence of construction during the next century, when 19 Great Houses were built.
+Yet after this final flurry construction dramatically declined.
+The last building date from a Great House is 1132 A.D., from Pueblo Alto overlooking Chaco Canyon (Powers et al.
+By the later periods of the Chacoan system there is pronounced evidence for regional economic integration.
+Some
+150,000 to 200,000 trees were imported to roof the Canyon Great Houses.
+For the Canyon site of Chetro Ketl an estimated 5122 roofing timbers were cut between 1037 and 1039 A.D. An additional 4108 were felled in 1051 and 1052.
+Of 26,000 trees needed to build Chetro Ketl, 6,000 were fir obtained from high elevations at least 50 kilometers away.
+The remainder were pine from mountains at least 25 kilometers distant.
+Between 1020 and 1120 A.D., an estimated 40,500 pottery vessels were imported from the Chuska Mountains to one Canyon site alone (Pueblo Alto) (Schelberg 1982: 8, 206, 219).
+What may have been even more important was the contents of these vessels.
+Research suggests that the population of the Canyon, at its peak, was between 4400 and 10,000 persons.
+Estimates of local environmental productivity indicate that at least some of these could not have been supported by adjacent agricultural lands or local faunal resources.
+The maize cobs from Pueblo Bonito, one of the major Canyon Great Houses, average 25 percent larger than those of other Canyon sites, suggesting that the elite residents of this site relied on imported maize.
+At another Great House, Pueblo Alto, archaeologists have found a greater variety of plant species than at the villages, suggesting greater access to outside resources.
+Many stone tools, and raw materials for these, were imported (Schelberg 1982: 109-21;
+Cameron 1984; Akins 1984; M. Toll 1984).
+By the mid-to-late twelfth, or early thirteenth, century the Chacoan system had essentially collapsed.
+Population remnants hung on in the Canyon and other Basin areas, but Great House building was a thing of the past.
+Construction was either at village sites, or small, village-sized rooms were abutted against existing Great Houses.
+Masonry walls were often built with food-grinding implements scrounged from Great House trash.
+The days were gone when
+hierarchically mobilized labor forces shaped elaborate masonry into planned, symmetrical towns.
+Chaco was no longer the center of the economic universe.
+A late population in the region from 1225 to 1275 or 1300 may have had ties to the Mesa Verde region to the north.
+After 1300 A.D. the region was essentially abandoned by agricultural peoples (Powers et al.
+1983: 345; Schelberg 1982: 129-30, 274; Lekson 1984: 66, 69).
+Assessment of the Chacoan collapse
+By the tenth century A. D. population growth in the San Juan Basin region had reached the point where local groups no longer had the option to move into alternative territories when faced with subsistence stress.
+Cultivation was thus forced into increasingly marginal lands (Judge et al.
+Where population density is high, and where population units are territorially constrained, it becomes necessary to ensure access to the produce of larger territories to guard against the effects of such things as localized droughts, frosts, and raids.
+This is especially so in an environment where conditions of moisture, soil quality, and growing season are so marginal for agriculture.
+In discussing the Maya it was suggested that regional economic symbiosis (spatial energy averaging) is advantageous under such circumstances, and often develops where there is sufficient environmental diversity.
+San Juan Basin populations had greater opportunity to develop such a system than did the Lowland Maya.
+As a consequence, although both the Mayan and Chacoan societies developed along somewhat similar paths of increasing complexity followed by collapse, they did so under very different driving forces.
+The San Juan Basin, as noted, is a topographically homogeneous, dry, featureless plain (Cordell 1982; Judge et al.
+1981; Powers et al.
+1983; Tainter and Gillio 1980).
+There is lower diversity and abundance of flora and fauna in the central Basin than at its margins (Cordell 1982: 61;
+Powers et al.
+1983: 293; Powers 1984).
+For a territorially constrained population in Chaco Canyon, surrounded by the dry, redundant Basin floor, the most advantageous exchange relationships would have been with groups at the well-
+watered, high diversity lands at the Basin edge (Tainter and Gillio 1980: 110).
+In the northern Southwest, as Kent Lightfoot has noted (as cited by Plog [1983: 300; and personal communication]), there is a tendency toward an inverse relationship between the agricultural productivity of high and low elevation terrain.
+In warm, dry years there is little precipitation in lower elevations, but sufficient moisture, with a long growing season, in high elevations.
+In cool, wet years the pattern is reversed: better moisture conditions for lowland planting, but a shorter growing season at highland agricultural areas.
+Such a pattern would have encouraged exchange relationships between Basin interior and Basin margin populations.
+Not surprisingly, from at least Basketmaker III times Chaco Canyon populations did trade extensively with such outlying areas (Judge 1979: 901-3).
+For populations throughout the Basin, maximum insurance against productivity fluctuations would be gained by establishing economic access to territories as diverse as possible.
+Herein, though, lies a problem.
+If each local group had to allocate resources toward the tasks of identifying potential trading partners, identifying these partners' yearly production levels, and establishing reciprocal economic relations with each, the duplication of administrative costs by hundreds of local groups would have been enormous.
+These costs were substantially reduced when the regional population jointly supported a single administration that served the economic needs of all groups.
+Additional advantages to hierarchical management of regional economic symbiosis were: providing for equitable distribution of resources, thereby reducing competition and conflict;
+providing authority to requisition surpluses from those groups that had one, necessary when economic exchanges were imbalanced, or balance might be delayed; centralized pooling to serve a large, diverse territory; support of specialists whose role was to monitor surpluses and deficits throughout the region (i.e., to process information).
+Situated as it was at the center of the San Juan Basin, Chaco Canyon was the most efficient, least-cost location from which to administer a Basin-wide energy averaging system.
+The presence of the largest Chacoan towns, with rich luxury goods, high status burials, and a variety of imports, coupled with the convergence of the regional road system, suggest that Chaco did indeed emerge as the administrative center of a Basin-wide system of hierarchical social and economic integration.
+A three-level economic hierarchy appears to have operated in the Basin.
+Elites resident in Outliers mediated the participation of local agricultural villages in the system, and interacted directly with the regional elites resident in Canyon Great Houses.
+Resources exchanged up and down through this hierarchy would have included: agricultural crops, firewood, building materials, animal products, wild plant products, stone and pottery, and such extra-Basin resources as cotton, salt, and turquoise (Powers et al.
+1983: 301-2; Powers 1984; Schelberg 1982: 9-10, 198-200, 1984; Tainter and Gillio 1980: 104-9).
+If our present understanding of the Chacoan system is correct, it would seem that the population of the San Juan Basin obtained a valuable return on its investment in complexity by lowering the administrative cost, and
+increasing the effectiveness, of an energy averaging system.
+Beyond its initial establishment, however, further expansion of this system may not have been so advantageous.
+In the Early Pueblo II period, as described, Outliers were located primarily at the productive, high diversity terrain of the Basin margins.
+These early Great Houses were situated an average of 54 kilometers apart.
+In Late Pueblo II Outliers continued to be established at the Basin periphery, but a few also began to be built elsewhere.
+With the increase in number of Outliers, the mean distance between them dropped to 31 kilometers, with an average of 10 kilometers between five Outliers at the southwestern perimeter of the Basin.
+In Early Pueblo III the geographical pattern of Outlier development shifted.
+A few new ones were established on the periphery, but most appeared north of the San Juan River and in the San Juan Basin interior.
+Mean distance between Outliers declined to 17 kilometers.
+This distance was only 12 kilometers between Outliers that were road-connected.
+The Chacoan system ca.
+1100 A.D. was at its height, but on the eve of collapse.
+In Late Pueblo III the number of occupied Outliers declined substantially (to 17), while the mean distance between these increased to 26 kilometers Many of those that survived to this period were located north of the San Juan River, suggesting that the economic center of gravity had shifted at least partially from Chaco Canyon to points north (Powers et al.
+The later development of the Chacoan system illuminates the process of collapse.
+Late trends, particularly in the Early Pueblo III period, include: increasing numbers of Outliers, each requiring the construction of a Great House;
+a spurt of building activity in the Chacoan towns of the Canyon itself, which doubled labor requirements (Lekson 1984: 60, 62); increasing functional specialization of architecture (Powers et al.
+1983: 326); decreasing mean distance between Outliers; increasing establishment of Outliers in the low productivity, low diversity interior of the Basin.
+This combination of trends increased the overall cost of the Chacoan system at the same time that it reduced its effectiveness.
+With declining distance between Outliers, more and more Chacoan Towns were established that experienced productivity cycles similar to their ever-closer neighbors.
+As participants in the energy averaging system became spatially closer, their productivity fluctuations grew increasingly synchronized.
+After enough Outliers had been established in the region to maximally exploit its environmental diversity, the addition of each new one reduced the overall effectiveness of the system.
+This problem became particularly acute in the Early Pueblo III period.
+The establishment of increasing numbers of Outliers in the low diversity Basin interior (Powers et al.
+Doyel et al.
+1984) exacerbated the problem.
+This marginal, low productivity environment offered diversity as its best characteristic.
+The Chacoans initially made wise use of this feature, but came ultimately to dilute its effectiveness.
+An energy averaging system is most effective
+when adding a new participating community means increasing the diversity and/or productivity of the regional exchange pool.
+The Chacoans initially pursued such a strategy.
+Increasingly, though, communities were added that did not augment the system's diversity, and that actually caused deterioration in the ratio of communities/diversity.
+Such communities created a drag on the efficient operation of the network.
+Incorporating communities from the Basin interior made this problem considerably worse than it might otherwise have been, for such areas intrinsically had less to contribute to regional well-being.
+The florescence of Great House architectural construction in the Early Pueblo III period in Chaco Canyon may have been stimulated by the availability of enlarged labor pools from the addition of so many new participants in the system, and by increased storage requirements to serve these participants.
+Indeed, much of the late building was devoted to storage space (Lekson 1984: 66).
+This building boom, however, came at a very inopportune time, when the overall efficiency of the regional system was declining.
+It is possible to see, then, that the Chacoan system, established initially to provide subsistence security for a regional population, came eventually to experience a declining marginal return on investment in complexity.
+With the establishment of ever more Outliers, in closer and closer proximity, and in increasingly unfavorable settings, the major resource of the system - diversity - was diluted.
+The overall effectiveness of the network deteriorated.
+The result was that later Chacoan communities realized a proportionately lower advantage when some region experienced a surplus, and proportionately less could be distributed to each community experiencing a deficit.
+This deterioration coincided with a period of significantly increased investment in architectural construction.
+The net result was that Chacoan communities of the San Juan Basin, around 1100 A.D., derived less subsistence security at higher cost than had their ancestors of 100 to 150 years previously.
+Faced with such a declining marginal return they began to withdraw from the regional network, leading to the weakening of the system and its ultimate collapse.
+It was no coincidence that the most densely packed Outlier communities, those at the southern edge of the Basin, may have been the first to withdraw from the network (perhaps in the later eleventh century) (Gauthier, Acklen, and Stein 1977: 24).
+Their loss would have been detrimental to the system as a whole, for this area contained some of the most productive agricultural land in the Basin (Powers et al.
+Lacking true coercive force, the Canyon administrators could not enforce participation, and as the number of participating Outliers dwindled those that were left were probably the weaker ones, less able to survive on their own, with less to contribute to the regional pool.
+It is possible that the collapse of Chacoan society was partially a consequence of its success.
+By increasing subsistence security and reducing natural checks on population, the Chacoan system allowed regional population to rise to a level that would otherwise have never been attained.
+As a result, increasingly marginal lands had to be taken in for agriculture, and for incorporation into the exchange network.
+Outliers were established in precarious areas that could produce little surplus for export (Doyel et al.
+1984: 44, 48, 49), but even these small surpluses may have been necessary.
+The great investment, during the later Chacoan era, in building storage rooms at Great Houses (Lekson 1984: 66) indicates increased concern with subsistence insecurity and the possibility of temporary
+food shortages.
+This costly investment in a low-return payoff is a classic example of a declining marginal return.
+A final blow may have been administered by a severe, prolonged drought from 1134-81 A.D. (Powers et al.
+345; Schelberg 1982: 273).
+Some archaeologists believe this drought caused the Chacoan collapse.
+The Chacoans had, however, previously survived droughts in the mid tenth, the early eleventh, and the late eleventh centuries without collapsing (Schelberg 1982: 273; Powers et al.
+This final drought does not seem, then, to be a sufficient reason for the system's demise.
+The Canyon inhabitants did have alternatives for dealing with the 1134-81 drought.
+Among the strategies they could have pursued are: military mobilization of the labor forces at their disposal, leading to forced participation of target communities in the Basin network, or even to conquest of other populations and imposition of tribute (the energy subsidy strategy); digging walk-in wells and practicing pot irrigation; or importing water for crops, pot by pot or (watertight) basket by basket, from the Basin margins.
+Specialists in Southwestern prehistory will find these alternatives farfetched.
+I agree; they are indeed.
+I raise them because it is interesting to discuss why they seem farfetched.
+None of these was technically impossible; the Chacoans could have attempted any of these strategies.
+They did not do so because of the extreme cost.
+The marginal return for any of these practices was simply too low.
+It
+was not that the Canyon inhabitants had no alternatives; they simply had no economical ones.
+Sociopolitical collapse was preferable from an economic viewpoint.
+In this case, what the Chacoans did not do illustrates the thesis of this work as clearly as what they did.
+What the final drought may have accomplished was to change the curve of marginal return on investment in complexity from a smoothly to a sharply declining one, and so to hasten the end.
+The drought did not cause the collapse.
+Given the trends in marginal productivity that the Chacoans faced, this complex society would have ultimately collapsed with or without the final drought.
+Evaluation
+The three cases examined in this chapter were significantly different in sociopolitical structure, level of complexity, economy, territorial extent, and evolutionary trend, and in details of their respective collapses.
+They were located in contrasting environments, and are known to us from very different data sources.
+And yet the collapse of each may be understood by the same general principles.
+The collapses of these societies cannot be understood solely by reference to their environments and subsistence practices (or to changes in these), to the pressure of outside peoples, to internal conflict, to population growth, to catastrophes, or to sociopolitical dysfunction.
+What affected the Romans, Maya, and Chacoans so adversely was how one or more of these factors was related to the cost/benefit ratio of investment in complexity.
+When challenges and stresses caused this ratio to deteriorate excessively, or coincided with a declining marginal return, collapse became increasingly likely.
+The Roman collapse
+The Romans established an empire that was paid for largely by the monetary subsidy of successive conquests.
+Captive peoples financed further subjugations, until the Empire grew to the point where further expansion was exceedingly costly and decreasingly profitable.
+As windfalls from new conquests ceased to pour into the treasury, the administration and defense of the Empire had to be covered primarily out of yearly agricultural production.
+This proved to be both insufficient for the maintenance of the Empire, and costly to the support population.
+A strategy that at first yielded a high marginal return became, by the time of Augustus, an increasing burden, so that most emperors faced problems of fiscal insufficiency.
+The Empire, nevertheless, provided conditions of relative peace and prosperity through the first two centuries A.D. It might be argued, then, that although by this time the marginal return on investment in empire had declined, it had not yet declined to the point where continuation of that investment was not worthwhile.
+Serious stress surges, in the form of barbarian incursions, began to affect the Empire in the mid second century A.D., and increasingly thereafter.
+Unable to bear the cost of meeting these challenges out of yearly productivity, the emperors adopted a strategy of artificially inflating the value of their yearly budgets by debasing the currency.
+This shifted the cost of current crises to future taxpayers.
+Such a strategy assumes that the future will experience no equivalent crisis.
+When this assumption proved grossly in error, the existence of the Empire was imperiled.
+A series of escalating crises from the third through the fifth centuries, both internal and external, proved increasingly detrimental to the welfare of the State.
+The costs of meeting these crises fell on a decimated support population.
+By debasing the currency, increasing taxes, and imposing stringent regulations on the lives of individuals, the Empire was, for a time, able to survive.
+It did so, however, by vastly increasing its own costliness, and in so doing decreased the marginal return it could offer its population.
+These costs drained the Empire's peasantry so thoroughly that population could not recover from outbreaks of plague, producing lands were abandoned, and the ability of the State to support itself deteriorated.
+As a result, the barbarian incursions of the late fourth and fifth centuries were increasingly successful and devastating.
+The burden and costliness of the Empire not only increased over time, but the benefits it afforded its members declined.
+As crops were confiscated for taxation and peasant's children sold into slavery, lands were increasingly ravaged by barbarians who could not be halted with the Empire's resources.
+The advantage of empire declined so precipitously that many peasants were apathetic about the dissolution of Roman rule, while some actively joined the invaders.
+In being unable to maintain an acceptable return on investment in complexity, the Roman Empire lost both its legitimacy and its survivability.
+The Germanic kingdoms that succeeded Roman rule in the West were more successful at resisting invasions, and did so at lower levels of size, complexity, permanent military apparatus, and costliness.
+This indicates a significant development: with the fall of the Roman Empire, the marginal return on investment in complexity increased significantly in Western Europe.
+The Mayan collapse
+The Preclassic and Classic Maya of the Southern Lowlands were a densely packed, territorially constrained people, bounded by ocean, by highlands, and by other populations.
+Colloquially, it is tempting to describe the prehistoric Lowlands as like a sealed cauldron, where population growth, and the lack of an external outlet, produced a tense, pressurized atmosphere in which Mayan communities could do little but turn on each other.
+By the last few centuries B.C. population pressure in some parts of the Lowlands had reached the point where a variety of stress responses developed.
+These included cultivation of marginal lands, agricultural intensification, the development of sociopolitical hierarchies and public architecture, and predation on neighbors to counter resource fluctuations.
+While many factors were involved in the development of Mayan Civilization, several features of that civilization seem to have been at least partly shaped by competition and warfare.
+Conflict, raiding, and the consequent insecurity among the rural population selected for aggregation into the more secure political centers.
+The resulting increases in local resource pressure, coupled with the indefensible nature of scattered swidden plots, gave further impetus to the development of intensive agricultural systems such as raised fields and terraces.
+Such systems were not only more productive per unit of land, they were also relatively compact, defensible, and worth defending.
+Once warfare became a serious threat in the Lowlands, agricultural and military strategy evolved in concert.
+Both, in turn, further encouraged social and economic stratification.
+Personnel needs for warfare, agriculture, and monumental construction may in turn have led the elites to encourage further population growth.
+Monumental architecture and public art are normal characteristics of a civilization, but among the Maya they seem to have served a special purpose.
+Once warfare had developed throughout the region, avoiding or forestalling attack became a major consideration.
+The external trappings of Mayan Civilization helped to achieve this by: (a) signaling the wealth of polities and the relative population pools on which they could draw (as Mayan art and architecture still do to this day); (b) attracting unaffiliated populations by the promise of strength and security; and (c) communicating unequivocally to visitors a center's successes at warfare and its treatment of prisoners.
+This investment in visual display helped to compensate for the lack of significant standing military forces.
+It was, however, costly.
+While other peoples have been economically devastated when locked into an escalating campaign of military preparedness, the Maya became trapped in what may be called an `art race.'
+This, and the other consequences of military competition, were as detrimental to their economy and support population as investment was for the Romans in real military power.
+The Mayan peasantry supported, for a period exceeding a thousand years, an upwardly-spiraling system of interlinked responses to demographic and political pressures.
+These responses included monumental construction, agricultural intensification, conflict, and support of elite hierarchies, military and civil specialists, and an artisan class.
+This investment appears to have brought no increased subsistence security per capita, for the health and nutritional status of the population was low, and deteriorated throughout the Classic period.
+The Late
+Classic hierarchy imposed an expanded building program on a weakened, undernourished population.
+With such an unfavorable, and deteriorating, marginal return on investment in complexity, the collapse of the southern Classic Maya was to be expected.
+The Chacoan collapse
+Chacoan society of the American Southwest may, like the Romans, have attempted too much of a good thing.
+An early system of energy averaging made good use of the San Juan Basin's best characteristic - diversity - by means of a hierarchical network of economic linkages that was centered in Chaco Canyon.
+By use of this network the effects of such things as a shift in rainfall from the San Juan River (at the northern edge of the Basin) to the Red Mesa Valley (at the southern edge), an early frost near the Chuska Mountains (on the west), or a raid by one's neighbors in any area, could be distributed among all the Basin's communities.
+By participating in this network, each local group could insure itself against the fluctuating, unpredictable climate of this and land, thereby increasing subsistence security, and accommodating a growing population.
+In effect, the scale of the production and consumption unit was raised from the local group, occupying a restricted area, to the regional population, occupying a diversified territory.
+Any community that linked itself to this regional pool was able to average its yearly productivity by contributing surplus produce in good years, and receiving support from the hierarchy when local productivity faltered.
+For a time, when newly established, such a system can increase its effectiveness by adding new participants who increase the pool of regional diversity.
+The Chacoans initially pursued such a strategy, as Outlier communities were incorporated from the high diversity, high productivity Basin edge.
+In time, though, communities came to be added that increasingly duplicated the resource bases of existing members, that were situated in poorer, less
+productive areas, and that ultimately came to be located in the low diversity Basin floor itself.
+The result was that, as the ratio of communities/diversity deteriorated, so also did the effectiveness of the network.
+As proportionately fewer communities differed in their productivity cycles, the system's ability to fulfill its main purpose of buffering productivity fluctuations declined.
+The more densely packed communities in the productive southern Basin lands saw that opportunity and security lay elsewhere, and withdrew from the network.
+This weakening and decline in effectiveness coincided with a major construction boom.
+The regional population, weakened in its subsistence security, was asked to support increased investments in complexity that were no longer bringing increased marginal returns.
+Within a few decades, construction ceased and Chacoan society collapsed.
+Conclusions
+A number of observations about the collapse process emerge from this chapter:
+In each of the cases examined, the costliness of complexity increased over time while benefits to the population declined.
+In each case, substantially increased costs occurred late, shortly before the collapse, and these were imposed on a population already weakened by the previous pattern of declining marginal returns.
+For Rome and the Maya, population leveled off or declined before the collapse, and the well-being of most people deteriorated.
+This seems to have come about from the demands of supporting such complex systems.
+It is not currently known whether something similar happened in the Chacoan case, but it is noteworthy that the number of Outliers participating in this system dropped prior to the final collapse.
+Quite possibly Outlier communities, whose participation could not be enforced (unlike the Roman and Mayan cases), withdrew from the network before declining marginal productivity adversely affected their local populations.
+For the Maya and Chacoans, subsequent abandonment of their territories, and the lack of a substantial reoccupation by agricultural peoples, suggests that there was environmental deterioration during the period of growth.
+This may indicate that pressures of population on resources had more to do with the Mayan and Chacoan collapses than with that of Rome.
+The Roman
+case is very different, for the later Empire was decidedly underpopulated.
+In each case, peoples on the periphery (the northern European barbarians, the northern Maya, and the Western and Eastern Pueblos) rose to prominence after the older society had collapsed.
+None of these cases can be completely understood by the explanations commonly advanced for them.
+The fall of Rome was not due to barbarians, for the Empire was economically, organizationally, and militarily stronger than its besiegers.
+And it was not due to internal weaknesses, for the Empire remained essentially intact for a period of several hundred years.
+Rome's collapse was due to the excessive costs imposed on an agricultural population to maintain a far-flung empire in a hostile environment.
+The fall of the Maya was not due to peasant revolt, for peasants supported this civilization for over 1000 years.
+It was not due to invasions, for which there is unclear evidence and uncertain causality, nor to agricultural deterioration, for the evidence of agricultural intensification indicates that the Maya were fully capable of increasing the productivity of their environment.
+The collapse of Maya Civilization was due to the burdens of an increasingly costly society borne by an increasingly weakened population.
+Peasant dissatisfaction, foreign pressures, internal conflict, or an agricultural crisis may have provided a final, insurmountable challenge, but such a challenge was effec tive only because the Maya were following a course that made them vulnerable to collapse.
+The Chacoan collapse was not due to drought or to environmental deterioration, for these were factors with which the Chacoans were technically capable of dealing, and indeed had previously done so.
+The regional population of the San Juan Basin chose not to continue participating in the Chacoan network, nor to rise to the challenge of the final drought, because the costs of doing so had grown too high in comparison to the advantages conferred.
+Collapse and migration were economically preferable.
+This chapter began with the observation that the framework for explaining collapse could probably not be subjected to a formal, quantitative test.
+The alternative was to investigate three cases in detail, asking whether the framework developed in Chapter 4 helps us to understand why these societies collapsed.
+The results lead us to answer the question affirmatively: the collapses of the Western Roman Empire, the Southern Lowland Maya, and Chacoan society can be understood as responses to declining marginal returns on investment in complexity.

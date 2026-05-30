@@ -1,0 +1,722 @@
+Chapter 4. Understanding Collapse: The Marginal Productivity of Sociopolitical Change, Part One.
+It is provided in the essence of things that from any fruition of success, no matter what, shall come forth something to make a greater struggle necessary.
+Walt Whitman (quoted in Toynbee [1962 (111): 1231) Human societies and political organizations, like all living systems, are maintained by a continuous flow of energy.
+From the simplest familial unit to the most complex regional hierarchy, the institutions and patterned interactions that comprise a human society are dependent on energy.
+At the same time, the mechanisms by which human groups acquire and distribute basic resources are conditioned by, and integrated within, sociopolitical institutions.
+Energy flow and sociopolitical organization are opposite sides of an equation.
+Neither can exist, in a human group, without the other, nor can either undergo substantial change without altering both the opposite member and the balance of the equation.
+Energy flow and sociopolitical organization must evolve in harmony.
+Not only is energy flow required to maintain a sociopolitical system, but the amount of energy must be sufficient for the complexity of that system.
+Leslie White observed a number of years ago that cultural evolution was intricately linked to the quantities of energy harvested by a human population (1949: 363-93).
+The amounts of energy required per capita to maintain the simplest human
+institutions are incredibly small compared with those needed by the most complex.
+White once estimated that a cultural system activated primarily by human energy could generate only about 1/20 horsepower per capita per year (1949: 369, 1959: 41-2).
+This contrasts sharply with the hundreds to thousands of horsepower at the command of the members of industrial societies.
+Cultural complexity varies accordingly.
+Julian Steward pointed out the quantitative difference between the 3,000 to 6,000 cultural elements early anthropologists documented for native populations of western North America, and the more than 500,000 artifact types that U.S. military forces landed at Casa Blanca in World War 11 (1955: 81).
+More complex societies are more costly to maintain than simpler ones, requiring greater support levels per capita.
+As societies increase in complexity, more networks are created among individuals, more hierarchical controls are created to regulate these networks, more information is processed, there is more centralization of information flow, there is increasing need to support specialists not directly involved in resource production, and the like.
+All of this complexity is dependent upon energy flow at a scale vastly greater than that characterizing small groups of self-sufficient foragers or agriculturalists.
+The result is that as a society evolves toward greater complexity, the support costs levied on each individual will also rise, so that the population as a whole must allocate increasing portions of its energy budget to maintaining organizational institutions.
+This is an immutable fact of societal evolution, and is not mitigated by type of energy source.
+Whether one endorses a conflict or an integration model of society, or some synthesis of these, it is necessary to inquire into the benefits that a population derives from its investment in complexity.
+Although in the previous
+chapter serious questions were raised about the view that complex societies collapse as a result of overtaxing their populations, nevertheless the question of benefits relative to investment merits a close look.
+This is so under either a conflict model, in which complexity is seen as a response to class competition and the needs of an elite to maintain privilege, or an integration model, in which complexity is viewed as a response to social needs.
+In either view, complexity is a solution to perceived problems, and its facility in resolving these problems is based in part on its ratio of benefits/investment.
+Where this ratio is unfavorable, complexity is not a very successful strategy.
+As with energy and organization, the benefits and costs of investment in complexity are opposite poles of an equation.
+Neither can be considered without the other, although regrettably they usually are.
+It is the thesis of this chapter that return on investment in complexity varies, and that this variation follows a characteristic curve.
+More specifically, it is proposed that, in many crucial spheres, continued investment in sociopolitical complexity reaches a point where the benefits for such investment begin to decline, at first gradually, then with accelerated force.
+Thus, not only must a population allocate greater and greater amounts of resources to maintaining an evolving society, but after a certain point, higher amounts of this investment will yield smaller increments of return.
+Diminishing returns, it will be shown, are a recurrent aspect of sociopolitical evolution, and of investment in complexity.
+The principle of diminishing returns is one of the few phenomena of such regularity and predictability that economists are willing to call it a `law' (Hadar 1966: 30).
+In manufacturing, diminishing returns set in when investment in the form of additional inputs causes a
+decline in the rate of productivity.
+While this is not exactly analogous to the processes that cause diminishing returns in sociopolitical evolution, some of the terminology developed by economists will nevertheless be helpful in the discussion that follows.
+Two concepts commonly used by economists are useful here.
+These are average product and marginal product.
+The average product of an economic activity is simply the output per unit of input.
+The marginal product of any input is the increase in the total output resulting from the input.
+Similarly, the average cost is the cost per unit of input, while the marginal cost is the increase or decrease in total cost resulting from one more (or less) unit of output (Hadar 1966; Hailstones 1976).
+The law of diminishing returns refers to changes in average and marginal products and costs.
+Average product and average cost respond to, and ultimately follow, changes in marginal product and cost.
+Both are subject to this principle, which is also called the law of diminishing marginal productivity (Hailstones 1976).
+The relationship between marginal and average product is shown in Fig.
+For present purposes one term will be emphasized.
+The discussion will most often refer to the concept `marginal return.'
+This may be taken to mean the same thing as marginal product, that is, return per increased unit of investment.
+The word `return' is preferred to `product' to emphasize the concern with whatever benefits a population obtains from its investment in complexity.
+The proposition introduced above may now be rephrased in the terminology that will be used throughout the remainder of this work.
+It is suggested that the increased costs of sociopolitical evolution frequently reach a point of
+diminishing marginal returns.
+This is to say that the benefit/investment ratio of sociopolitical complexity follows the marginal product curve of Fig.
+After a certain point, increased investments in complexity fail to yield proportionately increasing returns.
+Marginal returns decline and marginal costs rise.
+Complexity as a strategy becomes increasingly costly, and yields decreasing marginal benefits.
+Four concepts discussed to this point can lead to an understanding of why complex societies collapse.
+These concepts are:
+human societies are problem-solving organizations;
+sociopolitical systems require energy for their maintenance;
+increased complexity carries with it increased costs per capita; and 4.
+investment in sociopolitical complexity as a problemsolving response often reaches a point of declining marginal returns.
+The remainder of this chapter will be devoted to showing how these factors are related to collapse.
+First, the proposition that investment in complexity breeds diminishing returns will be examined in some detail, for this proposition is crucial for explaining collapse.
+Next, the reasons for such declining marginal productivity will be examined.
+And finally, a synthetic explanation of collapse will be developed from these concepts.
+The marginal productivity of increasing complexity In this section it will be useful to break complexity down into several of its constituent parts, and examine these individually.
+The constituents include agriculture and resource production, information processing, sociopolitical control and specialization, and overall economic productivity.
+In reality, of course, none of these is an independent entity.
+They form together an interdependent system that can be divided only artificially.
+They are separated here solely for the purposes of analysis and illustration.
+All of these spheres of activity represent investments by human populations in stability and welfare.
+Fig.
+Relationship of marginal and average product.
+The examples that follow are drawn from a variety of cases spanning the last several hundred years.
+Many are drawn from recent history.
+It might be worthwhile to point out that I do not imply by these illustrations that any of these societies is in immediate danger of collapse.
+The examples merely show what are common problems faced by all complex societies.
+The relationship of these problems to collapse varies with the historical contexts of individual societies.
+Agriculture and resource production
+In 1965 the economist Ester Boserup put forward the radical thesis that increasing intensity in agricultural use of land is brought about by labor investment that is disproportionately greater than the returns received.
+Thus, although productivity per unit of land increases under intensification, productivity per unit of labor actually decreases.
+Boserup developed an idealized (and as she recognized, somewhat arbitrary) typology of agricultural land use.
+Her idealized types are as follows:
+Forest fallow cultivation.
+Also known as swidden, milpa, or slash-and-burn, this is a system in which plots of land are cleared in forest and planted for a number of years.
+As yields decline and weeds encroach, the plot is abandoned to forest succession and not used again until forest has become fully established.
+This fallow period may be as long as 25 years.
+Bush fallow cultivation.
+This system employs a shorter fallow of between six and ten years, so that no forest can grow.
+Short fallow cultivation.
+Fallow under this regime lasts only one or two years.
+Annual cropping.
+This is not really a fallow system except that a period of a few months is left between one harvest and the next planting.
+Multi-cropping.
+This is Boserup's most intensive system of land use, although it may be practiced in only
+a few favorable regions that do not have seasons of extreme cold (Boserup 1965: 15-16).
+Boserup argues that through such factors as increasing land preparation, fertilization, and irrigation, human labor per unit of agricultural output rises throughout this sequence (cf. Boserup 1981: 45).
+She proposes that the factor inducing agriculturalists to undertake such increased labor for diminishing marginal returns is growth of population.
+Expanding population inevitably strains each successive form of land use, forcing a shift to the next one, so that the productivity of labor inevitably declines.
+Boserup's framework is generalizable to other types of subsistence regimes.
+Asch, Ford, and Asch, for example, have developed a compatible framework to explain change in hunter-gatherer subsistence, from natural resources that are nutritious and easily processed to ones that are less so (1972).
+Mark Cohen has argued that the transition from hunting and gathering to agriculture can be understood as an adaptation to population growth, with such growth ultimately requiring the development of a more intensive and more costly system of resource production - agriculture (1977).
+Hunter-gatherer foraging strategies are not immediately germane to the matter at hand, but these two studies do illustrate the universal nature of the economic process Boserup described.
+Boserup's framework has been subject to some debate, particularly in the driving role of population growth.
+That debate will not be reviewed here, for it is not necessary to accept the demographic-stress argument to grasp the point of immediate relevance.
+This is that marginal returns on agriculture, in a subsistence economy, decline with increasing labor.
+That point can he amply illustrated.
+Clark and Haswell have shown that, in subsistence regimes,
+both the average and the marginal return on agriculture do indeed decline with increasing labor (1966: 83-4).
+This can be readily verified from Figs.
+2, 3, 4, 5, 6, and 7.
+These illustrations, compiled by Clark and Haswell (1966), and Wilkinson (1973), provide the quantitative data lacking in Boserup's (1965) work, and needed to verify her proposition.
+It is clear from inspection that these data verify it substantially.
+Animal husbandry follows the same pattern.
+The labor intensive nature and the costliness of animal husbandry is well known.
+Illustrating this point, the canals and steam railways that accompanied the development of industrialism in England were seen, at least in part, as a means of reducing the competition between people and horses for the produce of land (Wilkinson 1973: 124).
+Fred Bateman (1969) has investigated changes in labor efficiency in the American dairy industry between 1850 and 1910.
+There was no major technological breakthrough in this interval, but other changes took place.
+One major shift was the widespread extension of dairying into the winter months.
+Another was improvements in feeding.
+Still a third was the addition of stricter sanitation requirements.
+All of these added to the labor requirements of dairying, although yields did not increase proportionately.
+The figures in Table 1 show that between 1850 and 1910 dairy output per unit of labor declined by 17.5 percent.
+The investment that the human species as a whole makes in overall nutrition, moreover, reaches a point where further investment gives a declining marginal payoff in enhanced life expectancy.
+Fig.
+8 shows that nutritional level varies nonlinearly with life expectancy, so that the productivity of nutritional investment for producing longer life declines as such investment increases.
+Complex societies depend on the production of other resources besides agricultural crops.
+Energy and minerals production, as the modern industrial world is well aware, follows the same productivity curve as subsistence agriculture, and for a similar reason.
+The fuel resources used first by a rationally-acting human population, and the mineral deposits mined first, are typically those that are most economically exploited, that is, most abundant, most accessible, and most easily converted to the needs at hand (Rifkin with Howard 1980: 73).
+When it subsequently becomes necessary to use less economical resources marginal returns automatically decline.
+Fig.
+Average returns of agriculture (after Clark and Haswell 1966: 83).
+Reproduced by permission of Macmillan Publishers Ltd., London and Basingstoke.
+Fig.
+Marginal returns of agriculture (after Clark and Haswell 1966: 84).
+Reproduced by permission of Macmillan Publishers Ltd., London and Basingstoke.
+Fig.
+Average returns of agriculture in Jamaica, 1954-5 (after Clark and Haswell 1966: 87).
+Reproduced by permission of Macmillan Publishers Ltd., London and Basingstoke.
+Fig.
+Marginal returns of agriculture in India (after Clark and Haswell 1966: 88).
+Reproduced by permission of Macmillan Publishers Ltd., London and Basingstoke.
+Fig.
+Marginal productivity of agriculture in northern Greece (after Clark and Haswell 1966: 135).
+Reproduced by permission of Macmillan Publishers Ltd., London and Basingstoke.
+Fig.
+Labor productivity in Asian agriculture (after Wilkinson 1973: 98).
+Reproduced by permission of Methuen & Co., London.
+Fig.
+Productivity of caloric intake for increasing life expectancy (after Cepede et al.
+The development of the coal-based economy in England is a case in point.
+Wilkinson (1973) has shown that major jumps in population, at around A.D. 1300, 1600, and in the late eighteenth century, each led to intensification in agriculture and industry (see also North and Thomas [1973]).
+As the land in the late Middle Ages was increasingly deforested to provide fuel and agricultural space for a growing population, basic heating, cooking, and manufacturing needs could no longer be met by burning wood.
+A shift to reliance on coal began, gradually and with apparent reluctance.
+Coal was definitely a fuel source of secondary desirability, being more costly to obtain and
+distribute than wood, as well as being dirty and polluting.
+Coal was more restricted in its spatial distribution than wood, so that a whole new, costly distribution system had to be developed.
+Mining of coal from the ground was more costly than obtaining a quantity of wood equivalent in heating value, and became even more costly as the most accessible reserves of this fuel were depleted.
+Mines had to be sunk ever deeper, until groundwater flooding became a serious problem.
+Ultimately the steam engine was developed, and employed to pump water out of mines.
+A similar historical course was followed with the depletion of the forests in the earliest settled parts of the United States (Wilkinson 1973).
+The increased costliness per unit of thermal value in the initial shift from wood to coal is apparent, but unfortunately good quantitative data on returns to energy investment are usually not available before the recent period.
+Modern data not only illustrate the trend quantitatively, but indicate that the process of declining marginal returns is continuing.
+Adjusted for inflation, each dollar invested in energy production in 1960 yielded approximately 2,250,000 BTUs.
+By 1970 this had declined to 2,168,000 BTUs, while in 1976 the same dollar could produce only 1,845,000 BTUs (Rifkin with Howard 1980: 124).
+The world's consumers do not need to be shown such figures to know that energy and minerals production follows the classic curve of declining marginal returns.
+Information processing
+The processing of large quantities of information is an essential aspect of complex societies, and indeed the need for this processing is probably one of the reasons that such societies came into existence.
+Yet the costs of information processing, in many spheres, show a trend of declining marginal productivity.
+Gregory Johnson (1982) has shown graphically that as the size of a social group increases, the communication load increases even faster.
+Information processing increases in response until capacity is reached.
+After this point, information processing performance deteriorates, so that greater costs are allocated to processing that is less efficient and reliable.
+At this point information processing hierarchies may be expected to develop (Johnson 1982: 394-5).
+In the same vein, Moore has suggested that when the amount of information processed by a society is small, much can be collected at low cost.
+As the amount of information spreads, however, the marginal cost of useful information grows rapidly, in part because redundancy of information increases (1981: 212).
+Complex societies engage in a large number of informationprocessing activities.
+Among those for which data could be gathered that would be pertinent to the present problem are: research and development, education, and development/maintenance of information channels.
+These are certainly not the only spheres of information processing in complex societies, but they are essential ones.
+The marginal productivity of research and development (R&D) in the United States, and elsewhere, displays a disturbing trend.
+Fig.
+9 shows clearly that as the number of scientists, engineers, and technicians in the United States rose between 1900 and 1954, their productivity, as reflected in patents issued, declined sharply.
+Furthermore, the number of patent applications relative to the population of the United States rose until about 1920, and then began to decline.
+Patent applications filed between 1941 and 1960, relative to personnel and expenditures committed to research and development, declined noticeably (Fig.
+At first glance these charts seem to indicate declining marginal returns for investment in research and development.
+Some additional discussion is necessary, though, to demonstrate that this is so.
+Fritz Machlup, the source of these data, suggests that three factors may potentially account for them: (a) declining productivity of inventing; (b) decline it, proportion of patentable inventions; and (c) decline in propensity to patent (1962:
+Various economists have made similar suggestions (e.g., Schmookler 1966; Griliches 1984).
+Machlup suggests that the major part of the decline in patenting is due to the growth of military R&D, which does not usually yield patentable inventions.
+Despite Machlup's caution, a number of factors suggest that the productivity of research and development has indeed declined.
+For one thing, the data in Fig.
+9 show that patents have been declining in respect to population and number of technical workers since about 1920, well before the R&D effort of World War II and thereafter.
+Even more significantly, patenting relative to numbers of scientists and engineers has declined continuously since 1900.
+Jacob Schmookler has compiled figures showing that,
+excluding government-financed projects, the number of industrial research personnel increased 5.6 times from 1930 to 1954, while the numbers of corporate patents rose between 1936-40 and 1956-60 by only 23 percent (1966: 28- 9).
+Fig.
+Patent applications and issues in respect to population and scientific/technical personnel, 1870-1950 (data from Machlup 1962: 172).
+The problem, furthermore, is not restricted to the United States.
+In a survey of 50 countries (many of which do not
+invest heavily in military R&D), Evenson showed that inventions per scientist and engineer have declined in nearly all cases between the late 1960s and the late 1970s (1984: 89).
+In both the U.S. and Japan, between 1964 and 1979-80, the ratio of patents to productive inputs fell in almost all industries.
+In the U.S. between 1964 and 1978 R&D spending per scientist and engineer increased at an annual rate of .0047, while patenting declined at an annual rate of .0283.
+There has been a similar pattern in Japan (Evenson 1984: 107-8).
+There are, moreover, other data suggesting declining productivity of inventing activity in the industrial world.
+Hornell Hart has demonstrated consistent patterns of increasing and then declining rates of patenting (logistic curves) in many fields that are partially or wholly unrelated to military R&D. These include airplanes, automobiles, cotton machinery, electric meters, radios, sewing machines, spinning machinery, sulky plows, telegraphy, telephony, typewriters, and weaving machinery (Hart 1945: 338).
+He also noted that the same patterns are evident in the major inventions and discoveries of the Western world, and in patents sealed in Great Britain between 1751 and 1820, and between 1821 and 1938 (Hart 1945: 338).
+Fig.
+Patent applications in respect to research inputs (data from Machlup 1962: 173).
+Thus, it seems that military R&D cannot account for more than a small part of the decline in patents.
+Furthermore, the decline is widespread in so many fields, over such a long time, that declining propensity to patent can hardly account for it either.
+Recent research shows that there is in fact a strong positive relationship between R&D and patenting (Schmookler 1966: 44-6; Bound et al.
+Pakes and Griliches 1984: 63).
+Thus the patent statistics appear to be a reliable indicator of inventive accomplishment.
+It would appear that there has indeed been a genuine drop in the inventive productivity of research and development, and that as investments in R&D have increased (from 0.1 percent of gross national product in 1920 to 2.6 percent in 1960 [Rescher 1978: 67]), the marginal product of these investments has declined.
+Although there are some demurrals (e.g., Clark and Griliches 1984), many economists recognize this trend (e.g., Mansfield 1971: 32, 34-5; Nordhaus 1969:
+20-4; Denison 1979: 126; Sato and Suzawa 1983: 65).
+Medical research and application provide a good example of a declining marginal return for increased investment in a scientific field.
+While it is less easy to measure the benefits of medicine than its costs, one sure indicator is life expectancy.
+Unfortunately, ever larger investments in health care do not yield proportionate increases in longevity.
+In 1930 the United States expended 3.3 percent of its gross national product (GNP) to produce an average life expectancy of 59.7 years.
+By 1982, 10.5 percent of GNP was producing a life expectancy of 74.5 years.
+The pattern in the intervening years is shown in Fig.
+It can be seen from this chart that from 1930 to 1982 the productivity of the U.S. national health care system (measured thus) declined by over 57 percent (after Worthington [1975: 5] and U.S. Bureau of the Census [1983:
+(In fact, it is likely that the decline in the productivity of medicine has been even greater, for the effects of improved nutrition and sanitation on increasing life expectancy have not been included.)
+As surprising as it may seem, investment in education also shows a trend of declining marginal productivity.
+To begin
+with, a complex society that must process large quantities of information will be faced with costs for education that will almost certainly rise.
+Between 1870 and 1960 the proportion of the population between the ages of 18 and 21 enrolled in institutions of higher education in the United States increased from 1.7 percent to 33.5 percent (Machlup 1962: 78).
+Moreover, the institutions of higher learning in which these students were enrolled consumed a portion of the gross national product that rose from 0.26 percent in 1900 to 1.23 percent in 1960 (Fig.
+12) (Machlup 1962: 79).
+The number of students per faculty member declined from 12.8 in 1900 to 9.5 in 1958 (Machlup 1962: 81).
+At the same time, more and more students pursued educational courses that were longer and more specialized (Fig.
+13), and more costly (Fig.
+12) (Machlup 1962: 79, 91).
+The national cost of higher education, both actual and relative, has clearly increased.
+But hasn't this increased investment in higher education brought at least equivalent, if not greater, returns?
+While the returns on investment in education are difficult to assess, most people would assume that the answer to that question must be yes.
+But there are ways of looking at the matter that suggest that this investment has not brought greater marginal returns.
+With increasing time spent in education and greater specialization, the learning that occurs yields decreased general benefits for greater costs.
+The greatest quantities of learning are accomplished in infancy; learning that occurs earlier in life tends to be more generalized.
+Later, specialized learning is dependent upon this earlier, generalized knowledge, so that the benefits of generalized learning include all derivative specialized knowledge.
+Axiomatically, therefore, generalized learning is of overall greater value than specialized.
+Moreover, this early, generalized learning is accomplished at substantially lower cost.
+Machlup (1962: 104-5) has compiled figures showing that, in 1957-8, education of preschool children in the home cost the United States $4,432,000,000 (in income foregone by mothers), which yields $886,400,000 per year for ages 0 through 5.
+Elementary and secondary education cost $33,339,000,000, or $2,564,538,462 per year for ages 6 through 18.
+Higher education cost $12,757,000,000, or $2,514,000,000 per year for far fewer students, assuming an average of five years spent in higher education.
+In other words, the monetary cost to the nation of a year of education between preschool, when the most generalized, highly useful education takes place, and college, when the most specialized learning is accomplished, increases by about 284 percent.
+And this increase would be even more dramatic if these figures took into account the fact that college enrollment is but a fraction of the available population.
+Fig.
+Productivity of the U.S. health care system, 1930-82 (data from Worthington [1975: 5] and U.S. Bureau of the Census [1983: 73, 102]).
+Productivity index = (Life expectancy)/(National health expenditures as percent of GNP).
+Fig.
+American expenditures on higher education, 1900-60 (data from Machlup 1962: 79).
+Similarly, Fig.
+14 shows that the overall productivity of investment in higher education for the development of specialized expertise has declined substantially since 1900.
+D. Price has demonstrated, in regard to the education of scientists, that educating more scientists causes those of average ability to increase in number faster than those who are most productive (1963: 102-3).
+Thus, increasing
+investments in specialized education yield declines in both marginal and average returns.
+In 1924, S.G. Strumilin collected in the Soviet Union a set of educational data that reveal a corroborative pattern.
+He showed that the marginal return on investment in education declines with increasing education.
+The first two years of education, according to Strumilin, raise a Soviet worker's production skills an average of 14.5 percent per year.
+Yet the third year of education yields an increase of only an additional 8 percent, while the fourth through sixth years raise skills only a further 4-5 percent per year (Tul'chinskii 1967: 51-2).
+Such examples indicate the kinds of costs incurred by complex societies that must invest resources in preparing people for specialized tasks.
+While the performance of these tasks may be quite essential to the society's needs, it cannot be claimed that benefits for investment in education increase proportionate to costs.
+To the contrary, increasingly specialized training serves ever narrower segments of the system, at ever greater cost to the society as a whole.
+What is more, the benefits derived from specialized training are equally attributable to the generalized education which necessarily precedes it.
+Specialized training can be costly in other ways.
+Where flexibility is required in task performance, specialized personnel may not be capable of performing tasks for which they were not prepared.
+And where the need for certain kinds of specialized tasks arises and disappears, the investment in training may be largely wasted.
+Contemporary transformations in industry, and in its trained, specialized personnel, illustrate this point tragically.
+A society able to meet its needs by generalized education will inevitably, then, obtain greater value for its
+investment than will a society dependent on specialized training.
+As complexity and specialization increase, the cost of education does also, while its marginal product declines.
+A complex society must invest heavily in the development and maintenance of information channels.
+While it is not possible to show with available data that this yields a 3eclining marginal product, it can be shown that it is an increasingly costly activity.
+Between 1940 and 1957, expenditures for radio and television services in the United States increased from 0.57 to 1.00 percent of GNP (Machlup 1962: 253).
+Telephone operating revenues, from 1880 to 1958, grew from 0.03 to 1.73 percent of GNP (Machlup 1962: 253).
+The important point to note from these figures is that when a sphere such as information processing acquires an increasing share of a society's available resources (in this case, GNP), the share available for other spheres must automatically decline.
+Fig.
+Specialization in American education, 1870-1960 (data from Machlup 1962: 91).
+Sociopolitical control and specialization
+There is in complex societies a recurrent and seemingly inexorable trend toward declining marginal productivity in hierarchical specialization.
+So widespread is this trend that, in democratic nations, entire political careers have been successfully based on rallying voters against it.
+C. Northcote Parkinson comes immediately to mind as the writer who has most effectively conjured the vision of bloated bureaucracies growing ever larger, devouring ever more of the produce of taxpayers, and producing ever less of real value (1957).
+And although much of his writing has a superficial tone, he has compiled some informative statistics to back up his view.
+Table 2 shows that, between 1914 and 1967, the number of capital ships in the British Navy declined by 78.9 percent, the number of officers and enlisted men by 32.9 percent, and the number of dockyard workers by 33.7 percent.
+Yet during this period the number of dockyard officials and clerks increased by 247 percent, and the number of Admiralty officials by 769 percent (Parkinson 1957: 8; 1971: 4).
+Table 3 shows that between 1935 and 1954 the number of officials in the British Colonial Office increased by 447 percent.
+During this same period, of course, the empire administered by these officials shrank considerably (Parkinson 1957: 11).
+Fig.
+Productivity of educational investment for the development of specialized expertise (data from Machlup 1962:
+Parkinson has elsewhere suggested that, beyond a certain point, increasing taxation begins to yield declining marginal returns.
+Two of the reasons for this are increased avoidance on the part of taxpayers, requiring still further
+bureaucracy to enforce compliance, and inflation, which reduces the value of the money collected.
+Beyond a rate of 20 percent, Parkinson suggests, the marginal return on taxation declines (1960: 79).
+Such views, as is well known, figure prominently in current political and economic debates.
+Parkinson (1957) indicted bureaucratic self-serving to account for declining marginal returns on investment in hierarchical specialists.
+However comforting to some, this is far too simplistic an explanation.
+Bendix (1956) has compiled for private industry, in several nations, data similar to those Parkinson has uncovered in government.
+He was able to show that a pattern of increasing hierarchical specialization characterizes the private sector as strongly as Parkinson has demonstrated for the public (Fig.
+Clearly in the private sector, where economic success depends on efficiency, this pattern cannot be attributed to self-serving inefficiency.
+The reason why complex organizations must allocate ever larger portions of their personnel and other resources to administration is because (as discussed in Chapter 2) increased complexity requires greater quantities of information processing and greater integration of disparate parts.
+Even popular government products are subject to the law of diminishing returns.
+Mohring (1965) has shown that as the ratio of high speed freeway capacity to street capacity increases, the marginal return on investment in freeway construction declines sharply.
+Overall economic productivity
+Complex societies with large, well-developed economies have historically been able to sustain only rather inferior rates of economic growth.
+Latecomers to economic growth tend to have higher growth rates than early starters (Rostow with Fordyce 1978: 48).
+This is evident in Table 4, which shows that rates of economic growth are highest in middle income countries, followed by high income and low income nations (Kristensen 1974: 27).
+Kristensen (1974: 28) infers from these data that, through time, rates of economic growth tend to slow down, as projected in Fig.
+Such a trend suggests that societies with more developed economies face a situation in which the productivity of GNP for stimulating further growth tends to decline.
+Although some authors (e.g. Schmookler 1962) believe that technical innovation responds to economic productivity, there are also data suggesting that technical innovation often occurs along a curve of declining marginal productivity.
+Fig.
+17 shows reductions in fuel consumption of steam engines resulting from increases in thermal efficiency, from the early eighteenth to the middle twentieth centuries.
+In such a field, technical innovation slows down as returns for improvement diminish.
+For the steam engine, the remaining possibilities of fuel-saving were reduced as thermal efficiency was increased.
+A doubling of efficiency in this century would save much less fuel, per engine, than would a 10 percent increase in the eighteenth century, and the saving would be much harder to achieve (Wilkinson 1973: 144-5).
+Fig.
+Ratios of administrative and production employees in five countries for selected years (after Bendix 1956: 216).
+Zolotas has argued that the productivity of industrialism for producing social welfare is declining.
+In partial support of this assertion he points out that while U.S. per capita product increased 75 percent from 1950 to 1977, weekly work hours declined by only 9.5 percent (Zolotas 1981: 92-3).
+Explaining declining marginal returns in complex societies The discerning reader might reasonably question much that was presented in the preceding section.
+It might be said that examples of declining marginal productivity have deliberately been sought, and that the role of technological innovation in alleviating such problems was not considered.
+In fact, what was presented are simply examples of what is proposed to be a problem common to many situations of increasing complexity, intensification in resource extraction, and economic growth.
+The fact that such examples can be compiled does not mean that all economic trends follow the same curve, nor that socioeconomic processes in complex societies follow only the law of diminishing returns.
+It also does not mean that such trends occurring in any specific sphere are irreversible.
+Where this law is operative, however, serious consequences can be expected, and those are the situations of interest here.
+The role of technological innovation is another matter; more will be said about it later.
+Suffice to say at this point that technical innovation in at least some cases (e.g., steam engines, as just described) can be shown to decline in its marginal product over time (e.g., Wilkinson 1973: 144-5).
+Fig.
+Growth of GNP per capita.
+From Development in Rich and Poor Countries by Thorkil Kristensen, p. 28.
+Copyright © 1974 by Praeger Publishers, Inc.
+Reprinted by permission of Praeger Publishers.
+The proposition that societies regularly face declining productivity for investment in complexity can be more securely demonstrated if it can be shown why this is so.
+This can indeed be done for the four spheres just discussed.
+Agriculture and resource production
+The reason why intensification in agriculture and resource production follows a pattern of declining marginal productivity is fairly easy to show, due to the work of Boserup (1965, 1981), Clark and Haswell (1966), and Wilkinson (1973).
+Simply put, rationally-acting human populations will first exploit those resources that yield the best return per unit of effort, and still meet the needs of the population.
+If this is so, then it follows that any change in resource extraction must be in the direction of using resources that are more costly to obtain, process, distribute, and/or market, so that the marginal product of labor and other inputs declines.
+Thus, hunters and gatherers first exploit foods that are higher in nutritional value, and easier to obtain and process, than resources that are less favorable for these characteristics (Asch, Ford, and Asch 1972).
+Populations employ labor-conserving, extensive patterns of land use, such as hunting and gathering, prior to labor-consuming, intensive patterns such as agriculture (Cohen 1977).
+Among those who practice agriculture, extensive systems, such as slash-and-burn, are preferred to intensive ones (Boserup 1965).
+Among intensive agriculturalists, lower labor quantities per unit of return are preferred to higher (Clark and Haswell 1966).
+Fig.
+Reductions in fuel consumption of steam engines resulting from increases in thermal efficiency (after Wilkinson 1973: 144).
+Reproduced by permission of Methuen & Co., London.
+In other spheres of resource extraction, minerals and energy forms can be ranked in terms of their ease of discovery, extraction, processing, and use.
+Resources that rank higher in these dimensions will be used before resources that don't, and when these are no longer sufficient, secondary resources will be employed.
+The shift from wood to coal in England and the United States is a case in point (Wilkinson 1973).
+In the contemporary petroleum industry, the extraction of less readily available deposits by secondary and tertiary recovery techniques yields a product with a substantially higher monetary cost but no greater energy value.
+There are of course ambiguities in these matters.
+It would be unwise to assume that human populations always behave with economic rationality, and even when they attempt to, information may not be available to ensure success.
+Further, people do some things for reasons that are not directly economic, but these activities nonetheless consume resources.
+Acquisition of distant, costly, and rare prestige goods is a ready example.
+Such uncertainties are easily answered.
+Among whatever set of resources a population obtains, for whatever reasons, the law of diminishing returns is likely to apply.
+As demand for a commodity grows, increased production will at some point mean depletion or insufficiency of the least costly sources.
+At that point, more costly sources must be used, with declining marginal returns.
+For the present purposes, it need not be argued that population growth is the sole driving force behind intensification in resource production.
+No doubt it often is, as in post-Medieval England (Wilkinson 1973), but other factors can also create rising commodity demands.
+Information processing
+Why does information processing often show a declining marginal return?
+Why do investment in education, and in research and development, result in decreasing productivity?
+The answers in both spheres are similar.
+The case of education was touched on earlier.
+Reiterating in brief: general education, which occurs in the earliest years of life, is of the most lasting, widespread value.
+It is also attained at the lowest comparative cost.
+Later, more specialized training is considerably costlier.
+Its benefits may apply only to narrow segments of the society, while its costs are spread throughout the system.
+It may institutionalize rigidity where flexibility is called for.
+What is more, the benefits of specialized training are at least partly attributable to the generalized knowledge on which it depends.
+Axiomatically, then, general knowledge will always yield greater benefits than specialized.
+A society that can meet its needs through generalized education will obtain greater marginal returns on its investment than a society dependent on specialized training.
+The situation in research and development is similar.
+As with education, specialized scientific knowledge depends upon prior, general principles.
+Within a scientific field, early work develops the general parameters of the discipline, the nature of the subject matter, the scope of inquiry, broad research questions, and like matters.
+And although much of this early work may come to be rejected by later scholars (Kuhn 1962), nevertheless there is also substantial derivation from it (Schwartz 1971: 43).
+Thus, the product of early, generalized work in a scientific
+field includes all knowledge derived from later, specialized research.
+And so - again axiomatically specialized work can never yield the benefits achieved by earlier, generalized research.
+It is no coincidence that the most famous practitioners historically in each field tend to be persons who were instrumental in developing the field, and in establishing its basic outline.
+No Einsteinian physicist, no Darwinian biologist, and no Marxist social scientist will ever achieve the fame and influence of these masters who revolutionized their fields.
+Yet science is not completely a cumulative, linear process.
+Rethinking, reformulation, and outright rejection of earlier work are commonplace (Kuhn 1962).
+When new schools of thought (what Kuhn [1962] calls `paradigms') emerge through scientific revolutions, a new, generalized groundwork is laid upon which later, specialized work is built.
+The movement from general and most widely applicable, to specific and most narrowly focused (which characterizes the history of a scientific field), is duplicated repeatedly in the cycle of revolution, paradigm development, paradigm application, and revolution that Kuhn (1962) has noted.
+Again, the knowledge of greatest lasting benefit comes from the general formulations which initiate a paradigm, while the scientists who accomplish this tend to become more famous than their successors who produce derivative work.
+Rostow (1980: 170-1) has graphed what he argues is the characteristic marginal product curve of individual branches of science.
+As shown in Fig.
+18, Rostow projects that marginal productivity will first rise and then decline in each specific field (although he asserts that the marginal product for science as a whole continually rises).
+Sato and Suzawa argue analogously for technical progress: that its production function has the standard neoclassical
+properties of diminishing returns to R&D expenditures (1983: 65).
+The decreasing benefits from specialized, derivative work, viewed from the perspective of the overall history of science, are acquired at substantially greater cost.
+The costs to societies of early support of science tended to be minimal (and as D. Price cogently noted, in many cases `...society almost dared [scientists] to exist' [1963:
+Generally, as in the ancient Mediterranean or Medieval Europe, it consisted of little more than the support of individual naturalists or mathematicians and their students, or the support of religious specialists who also performed scientific inquiry.
+Science today, in contrast, is a costly process involving complex institutions, sophisticated technology, and large, interdisciplinary research teams (cf. Schwartz 1971: 267- 8).
+This costly science certainly produces astonishing results, but these cannot be claimed to be more valuable than the generalized knowledge of earlier, less expensive science.
+As impressive, for example, as modern travel technology is, it is hard to argue that it is of greater consequence than the development of the wheel, or of water craft, or of the steam engine.
+As astounding as it is to put human beings on the moon, this is not of greater import than the principles of geometry or the theory of gravity.
+However valuable may be genetic engineering, the benefits of this complex process must always be attributed in part to the nearly cost-free work of Gregor Mendel.
+The contemporary field of archaeology provides a useful, if anecdotal, example.
+Archaeology in the United States during the nineteenth and early twentieth centuries was a low-cost, generalized affair, supported initially by individuals, local interest societies, and philanthropic institutions.
+Government spending in support of archaeology
+during the nineteenth century was comparatively small.
+By the mid-twentieth century Federal support, primarily through the National Science Foundation, had substantially increased.
+In the 1970s and 1980s Federal and private support grew exponentially, due to Federally-mandated conservation and recovery of archaeological data in the face of land development.
+Vastly larger sums have been expended on archaeology in the United States in the last fifteen years than ever before.
+Has this produced knowledge exceeding, or even equivalent to, that derived from earlier, low-cost research?
+While the question is impossible to respond to in any quantitative sense, many professionals feel the answer is no.
+Early archaeology established the parameters of the field, defined regional and temporal variation, established rudimentary chronologies, and did a remarkably good job of setting out basic lines of inquiry.
+More recent, highly funded archaeology, asserts one critic, has not succeeded in answering a single, major research question (King 1981).
+(A related point worth recalling here is the fact, discussed in Chapter 2, that the major current explanations for the origin of the state were basically set out over 2000 years ago [Haas 1982].
+Modern, costly research has still achieved no universally acceptable answer to these ancient questions.)
+What has happened?
+Are archaeologists, as some assert, interested more in material rewards than in production of knowledge?
+Are we, as others believe, merely a profession of unimaginative muddlers?
+While these characterizations might describe some practitioners, they do not account for the current lack of scientific breakthroughs.
+The answer is that archaeology has followed the direction taken by other disciplines.
+It has become highly specialized and costly.
+Furthermore, the narrowly-focused, intensive research
+questions being asked today are harder to answer than those of the past.
+There are two reasons for this.
+One is that the profession now demands higher standards of fieldwork and analysis.
+But perhaps more importantly, in any field, as each research question among the stock waiting to be answered is resolved, the costliness of deciphering the remainder increases.
+Fig.
+Marginal yield in a branch of science (after Rostow 1980: 171).
+Reproduced by permission of Macmillan Publishers Ltd., London and Basingstoke.
+Admittedly such a view is oversimplified, for it is unlikely that there is any finite `stock' of research questions waiting to be answered in a field (cf. Kuhn 1962).
+The point, however, has illustrative value.
+As more generalized knowledge is established early in the history of a discipline, only more specialized work remains to be done.
+This tends to be more costly and difficult to resolve, so that increasing investments yield declining marginal returns.
+Hence, contemporary archaeology appears to be unproductive, not because its practitioners are so, but because they are forced to grapple with increasingly complex questions.
+Where archaeology once asked primarily factual questions (what, where, and when?)
+that were inexpensive to answer, the focus today is more often on the difficult topic of explaining cultural processes.
+This is probably a good part of the reason for the declining productivity of research and development.
+Modern science is becoming less productive overall (there are always countervailing trends in some fields) because it has become increasingly specialized and expensive, and has depleted much of the stock of less costly questions.
+The principles of gravity and of natural selection no longer wait to be discovered.
+They have been replaced as research foci by more complex matters such as space exploration and genetic engineering.
+As McCain and Segal have observed, it is not likely that science can still be advanced by flying a kite in a thunderstorm or peering through a homemade microscope (1973: 158).
+The great physicist Max Planck, in a statement that Rescher calls `Planck's Principle of Increasing Effort,' noted that `...with every advance [in science] the difficulty of the task is increased' (Rescher 1980: 80).
+As easier questions are resolved, science moves inevitably to more complex research areas and to larger, costlier organizations (Rescher 1980: 93-4).
+It is at least in part for this reason that U.S. defense expenditures (with their great emphasis on complex technologies and R&D) grew from 0.7 percent of GNP in 1913 to 10 percent in 1970 (Mishan 1977: 239).
+`As science progresses within any of its specialized branches,' writes Rescher, `there is a marked increase in the over-all resource-cost to realizing scientific findings of a given level [of] intrinsic significance...'
+Thus from 1966 to 1971 constant dollar expenditures in the average National Institutes of Health project rose 13 percent, with no comparable increase in the apparent merit of the research (Rescher 1980: 85).
+Exponential growth in the size and costliness of science, in fact, is necessary simply to maintain a constant rate of progress (Rescher 1980: 92).
+So as D. Price noted in 1963, science is growing faster than
+either the population or the economy, and of all scientists who had ever lived, 80-90 percent were still alive at the time of his writing.
+The declining productivity of the U.S. health care system becomes intelligible in this light.
+Rescher points out:
+Once all of the findings at a given state-of-the-art level of investigative technology have been realized, one must move to a more expensive level...
+In natural science we are involved in a technological arms race: with every `victory over nature' the difficulty of achieving the breakthroughs which lie ahead is increased (1980: 94, 97).
+The declining productivity of medicine is due to the fact that the inexpensive diseases and ailments were conquered first (the basic research that led to penicillin costing no more than $20,000), so that those remaining are more difficult and costly to resolve (Rescher 1978: 85-6, 1980:
+Moreover, as each increasingly expensive disease is conquered, the increment to average life expectancy becomes ever smaller.
+And in fighting a new malady such as Acquired Immune Deficiency Syndrome, large sums are spent simply trying to prevent a drop in life expectancy.
+Sociopolitical control and specialization
+Control and specialization are the very essence of a complex society.
+The reasons why investment in complexity yields a declining marginal return are: (a) increasing size of bureaucracies; (b) increasing specialization of bureaucracies; (c) the cumulative nature of organizational solutions; (d) increasing taxation; (e) increasing costs of legitimizing activities; and (f) increasing costs of internal control and external defense.
+These spheres are intertwined, and will be discussed together.
+Human social evolution has proceeded from lower to higher cost.
+As discussed earlier in this chapter, more complex social forms require greater support costs per capita.
+In the process of increasing complexity, less costly social features have been added before more costly ones.
+Thus, part-time leadership has preceded full-time; generalized administration has preceded and given way to specialized.
+Where at one stage in the development of a political hierarchy multiple administrative functions tend to be carried out by a single individual, a common trend among human organizations is to respond to problems by developing specialized administrators, and by increasing the proportion of the population engaged in administrative tasks.
+In many cases this increased, more costly complexity will yield no increased benefits, at other times the benefits will not be proportionate to the added costs.
+If increased complexity develops to deal with internal unrest or external threats, this solution may yield no tangible benefit for much of the population.
+Arms races present a classic example.
+Increasing costs of military hardware, and military and civilian personnel, when
+undertaken to meet a competitor's like increases, yield no increased security for the added cost.
+Such increased costs are often undertaken merely to maintain the balance-ofpower status quo.
+As a military apparatus increases in complexity its administrative costs increase disproportionately, as Parkinson's (1957, 1971) figures indicate, usually to little or no competitive advantage.
+Technological investments in military hardware, moreover, follow the marginal return curve of all technological developments.
+Improvement innovations (as in the steam engine) become harder to achieve and yield declining marginal benefits.
+Scherer concludes, for example, that the F-4 warplane was a greater technological leap relative to the subsonic F-85 or F-86 than the more recent F-15 was to the F-4 (1984: 266).
+Similarly, if increased complexity is undertaken because of a need for hierarchical administration of, say, agricultural production, the results are likely to be the provision of no more than the base subsistence level for the population so served.
+This would probably average around 2000 calories per person per day.
+Now this same population, at a previous point in their history, were probably able to provide themselves with these same 2000 calories without the cost of an administrative hierarchy.
+For whatever reason - whether population growth, soil deterioration, or climatic fluctuation - the population later comes to require the development of a hierarchy to reverse a trend of declining agricultural output.
+When this occurs, the per capita subsistence yield may be returned to the base level, yet now this is accomplished at considerably greater cost.
+The marginal productivity of the interlinked administrative-agricultural system has declined.
+Organizational solutions tend to be cumulative.
+Once developed, complex social features are rarely dropped.
+Tax rates go up more often than they go down.
+Information processing needs tend to move in only one direction.
+Numbers of specialists ordinarily don't decline.
+Standing armies rarely get smaller.
+Welfare and legitimizing costs are not likely to drop.
+An ever increasing stock of monumental architecture requires maintenance.
+Compensation of elites rarely goes down.
+What this means is that when there is growth in complexity it tends to be exponential, always increasing by some fraction of an already inflated size.
+Complex societies, by their very nature, tend to experience cumulative organizational problems.
+As systems develop more parts, and more complex interactions among these parts, the potential for problems, conflicts, and incongruities develops disproportionately.
+Mancur Olson has produced a good example of how complexity itself breeds further costs.
+Among contemporary societies, as regulations are issued and taxes established, lobbyists seek loopholes and regulators strive to close these.
+There is increased need for specialists to deal with such matters.
+An unending spiral unfolds of loophole discovery and closure, with complexity and costs continuously increasing (Olson 1982:
+Perrow (1984) has shown how in technological systems, the potential for catastrophic accidents increases solely by virtue of more complex linkages among parts.
+The cost of preventing accidents must therefore also rise.
+Any complex hierarchy must allocate a portion of its resource base to solving the problems of the population it administers, but must also set aside resources to solve problems created by its own existence, and created by virtue of overall societal complexity.
+Prior to the development of modern welfare states it is likely that
+these increased administrative costs did little for the population as a whole other than to maintain some semblance of basic needs.
+And often even that was not accomplished.
+To maintain growth in complexity, hierarchies levy heavier taxes on their populations.
+At some point even this yields declining marginal returns.
+This happens when rates are so high that avoidance increases, and taxation-induced inflation erodes the value of the money collected (Parkinson 1960: 79; Eisenstadt 1963: 152).
+Rulers, as discussed in Chapter 2, must constantly legitimize their reigns.
+Legitimizing activities include such things as external defense and internal order, alleviating the effects of local productivity fluctuations, undertaking local development projects, and providing food and entertainment (as in Imperial Rome) for urban masses.
+In many cases the productivity of these legitimizing investments will decline.
+Whatever activities a hierarchy undertakes initially to bond a population to itself (providing defense, agricultural development, public works, bread and circuses, and the like) often thereafter become de rigueur, so that further bonding activities are at higher cost, with little or no additional benefit to the hierarchy.
+This point may require clarification.
+Consider the situation of a hierarchy that must invest in legitimizing activities among a politically potent but minimally compliant segment of the population.
+Once this population segment has become accustomed to any pattern of increasing investment in legitimization, continuance of this trajectory is necessary to maintain the compliance status quo.
+Increased investment in legitimizing activities brings little or no increased compliance, and the marginal return on investment in legitimization correspondingly declines.
+The appeasement of urban mobs presents the classic illustration of this principle.
+Any level of activities undertaken to appease such populations - the bread and circuses syndrome - eventually becomes the expected minimum.
+An increase in the cost of bread and circuses, which seems to have been required in Imperial Rome to legitimize such things as the accession of a new ruler or his continued reign, may bring no increased return beyond a state of non-revolt.
+Rewards to Roman military personnel would often follow the same pattern, particularly when bounties were granted upon a ruler's accession.
+Roman soldiers regarded such bounties as a right (Mattingly 1960:
+The alternative course is to reduce legitimizing activities and increase other means of behavioral control.
+Yet in such situations, as resources committed to benefits decline, resources committed to control must increase (Wittfogel 1957: 112; Lenski 1966: 51).
+Although quantitative cost/benefit data for such control systems are rare, it seems reasonable to infer that as the costs of coercion increase, the benefits (in the form of population compliance) probably do not grow proportionately (Haas 1982: 211).
+In the United States from 1960 to 1973, for example, an increase in total crime of 258 percent required a rise in law enforcement expenditures of 332 percent (Rescher 1980: 64).
+Thus the marginal cost of coercion increases, and the marginal return declines.
+These remarks are not meant to suggest that social evolution carries no benefits, nor that the marginal product of social complexity always declines.
+The marginal product of any investment, as illustrated in Fig.
+1, declines only after a certain point; prior to that point benefits increase faster than costs.
+Very often, though, societies do reach a level where continued investment in
+complexity yields a declining marginal return.
+At that point the society is investing heavily in an evolutionary course that is becoming less and less productive, where at increased cost it is able to do little more than maintain the status quo.
+Overall economic productivity
+Per capita rates of economic growth decline with increasing GNP, so that as the economy of a society expands, its rate of growth slows down.
+Various economists (e.g., Kristensen 1974; Rostow with Fordyce 1978) attribute this in large part to the cost of producing technical knowledge.
+It has been suggested that high growth rates use up the existing backlog of knowledge, so that growth thereafter must rely on the rate at which new knowledge is created.
+Growth, therefore, follows a logistic curve.
+Middle income nations develop a faster growth rate because they are able to simply absorb knowledge and technology developed elsewhere.
+This is an interesting perspective, although it may not be readily applicable to the non-capitalist economies of early complex societies.
+There are, however, reasons to suspect that there is more behind declining economic growth than simply using up existing knowledge.
+It may well be that an overall trend of declining marginal productivity in a society simply leaves proportionately less capital for investment in future growth.
+Consider, for example, the plight of a society that must simultaneously face declining marginal productivity in any combination of the following: agriculture, minerals and energy extraction, science, education and information processing, size and costs of civil and military organizations, upkeep of capital stock (such as monumental architecture, or more practical things like aqueducts and bridges), etc.
+As each of these spheres requires an increased proportion of the society's budget, the portion available for investment in future growth must decline.
+Such a condition is more likely to characterize a country that has been growing for some time, than a newly emerging nation just entering a phase of growth.
+Productivity growth is highly dependent on research and development (Mansfield 1968: 4-5; Sato and Suzawa 1983:
+58), which like any scientific endeavor is susceptible to declining marginal returns.
+Cost records from seventeen research laboratories from 1950 to 1960, compiled by Ellis A. Johnson and Helen S. Milton, show that a doubling of R&D activity was gained only by an investment that grew 450 percent (Wolfle 1960: 517).
+Productivity growth requires technical innovation, but in the United States each one percent increase in the rate of cumulative R&D can yield an increase in the rate of technical change of only 0.1 to 0.7 percent (Mansfield 1971: 34-5).
+And once basic innovations have been achieved, derivative work and improvement innovations occur at high cost, with a declining marginal return (Mensch 1979; Scherer 1984).
+Explaining collapse
+At the beginning of this chapter it was proposed that four concepts would lead to an understanding of collapse.
+These are:
+human societies are problem-solving organizations;
+sociopolitical systems require energy for their maintenance;
+increased complexity carries with it increased costs per capita; and 4.
+investment in sociopolitical complexity as a problemsolving response often reaches a point of declining marginal returns.
+The first three points may be thought of as the conceptual underpinnings of the fourth, which is the crucial element in the explanation.
+A society increasing in complexity does so as a system.
+That is to say, as some of its interlinked parts are forced in a direction of growth, others must adjust accordingly.
+For example, if complexity increases to regulate regional subsistence production, investments will be made in hierarchy, in bureaucracy, and in agricultural facilities (such as irrigation networks).
+The expanding hierarchy requires still further agricultural output for its own needs, as well as increased investment in energy and minerals extraction.
+An expanded military is needed to protect the assets thus created, requiring in turn its own increased sphere of agricultural and other resources.
+As
+more and more resources are drained from the support population to maintain this system, an increased share must be allocated to legitimization or coercion.
+This increased complexity requires specialized administrators, who consume further shares of subsistence resources and wealth.
+To maintain the productive capacity of the base population, further investment is made in agriculture, and so on.
+The illustration could be expanded, tracing still further the interdependencies within such a growing system, but the point has been made: a society grows in complexity as a system.
+To be sure, there are instances where one sector of a society grows at the expense of others, but to be maintained as a cohesive whole, a social system can tolerate only certain limits to such conditions.
+Thus, it is possible to speak of sociocultural evolution by the encompassing term `complexity,' meaning by this the interlinked growth of the several subsystems that comprise a society.
+This growth carries an associated energy cost, which before the development of fossil-fuel economies was largely met by human labor.
+Growth also yields an array of benefits, including administration of resource storage and distribution, investment in agricultural, energy, and minerals production, internal order and external defense, information processing, and public works.
+Growth in benefits relative to costs will regularly follow the curve shown in Fig.
+19, which is to say that at some point in the evolution of a society, continued investment in complexity as a problemsolving strategy yields a declining marginal return.
+Let us examine this proposition in more detail.
+Fig.
+The marginal product of increasing complexity.
+The hypothetical society discussed a few paragraphs above responds to stress by increasing complexity.
+In so doing it increases investment in agricultural and other resource production, in hierarchy, in information processing, in education and specialized training, in defense, and so forth.
+The cost-benefit curve for these investments increases at first favorably, for the easiest, most general, most accessible, and least expensive solutions are attempted first.
+As these solutions are exhausted, however, continued stresses require further investments in complexity.
+The least costly solutions having been used, evolution now proceeds in a more expensive direction.
+The hierarchy expands in size, complexity, and specialization; resource production focuses increasingly on sources of supply that are more difficult to acquire and process; agricultural labor intensifies; information processing and training requirements become less generalized; and most
+likely, an increased military apparatus is seen as the solution to these problems.
+What benefits derive from these adjustments?
+Barring the acquisition of new energy sources, most often through conquest, such increased costs are usually undertaken merely to maintain the status quo.
+Stress that is met by increased complexity might come from such sources as agricultural deterioration, population growth, external danger, internal unrest, and threats to foreign sources of important commodities.
+When complexity increases to counter such stress, it achieves success when the factors that threaten stability no longer do so.
+So if agricultural production drops below about 2000 calories per person per day, increased complexity, and attendant agricultural development, may restore it to that level.
+Where stability is threatened by internal or external sources, increased complexity will achieve success when the prior state of orderliness has been restored, or the frontiers defended.
+Where the supply of a commodity is threatened, increased complexity and military adventures may ultimately secure an even greater supply of the commodity, but just as often they may not.
+Thus a growing sociocultural system ultimately reaches a point such as B1, C1 on the curve in Fig.
+19, whereafter investment in further complexity yields increased returns, but at a declining marginal rate.
+When this point is reached, a complex society enters the phase where it becomes increasingly vulnerable to collapse.
+There are two general factors that combine to make a society vulnerable to collapse when investment in complexity begins to yield a declining marginal return.
+First, stress and perturbation are a constant feature of any complex society, always occurring somewhere in its
+territory.
+Such a society will have a developed and operating regulatory apparatus that is designed to deal with such things as localized agricultural failures, border conflicts, and unrest.
+Since such continuous, localized stress can be expected to recur with regularity it can, to a degree, be anticipated and prepared for.
+Major, unexpected stress surges, however, will also occur given enough time, as such things as major climatic fluctuations and foreign incursions take place.
+To meet these major stresses the society must have some kind of net reserve.
+This can take the form of excess productive capacities in agriculture, energy, or minerals, or hoarded sur pluses from past production.
+Stress surges of great magnitude cannot be accommodated without such a reserve.
+Yet a society experiencing declining marginal returns is investing ever more heavily in a strategy that is yielding proportionately less.
+Excess productive capacity will at some point be used up, and accumulated surpluses allocated to current operating needs.
+There is, then, little or no surplus with which to counter major adversities.
+Unexpected stress surges must be dealt with out of the current operating budget, often ineffectually, and always to the detriment of the system as a whole.
+Even if the stress is successfully met, the society is weakened in the process, and made even more vulnerable to the next crisis.
+Once a complex society develops the vulnerabilities of declining marginal returns, collapse may merely require sufficient passage of time to render probable the occurrence of an insurmountable calamity.
+Secondly, declining marginal returns make complexity a less attractive problemsolving strategy.
+Where marginal returns decline, the advantages to complexity become ultimately no greater (for the society as a whole) than for less costly social forms.
+The marginal cost of evolution to
+a higher level of complexity, or of remaining at the present level, is high compared with the alternative of disintegration.
+Under such conditions, the option to decompose (that is, to sever the ties that link localized groups to a regional entity) becomes attractive to certain components of a complex society.
+As marginal returns deteriorate, tax rates rise with less and less return to the local level.
+Irrigation systems go untended, bridges and roads are not kept up, and the frontier is not adequately defended.
+The population, meanwhile, must contribute ever more of a shrinking productive base to support whatever projects the hierarchy is still able to accomplish.
+Many of the social units that comprise a complex society perceive increased advantage to a strategy of independence, and begin to pursue their own immediate goals rather than the long-term goals of the hierarchy.
+Behavioral interdependence gives way to behavioral independence, requiring the hierarchy to allocate still more of a shrinking resource base to legitimization and/or control.
+Thus, when the marginal cost of participating in a complex society becomes too high, productive units across the economic spectrum increase resistance (passive or active) to the demands of the hierarchy, or overtly attempt to break away.
+Both the lower ranking strata (the peasant producers of agricultural commodities) and upper ranking strata of wealthy merchants and nobility (who are often called upon to subsidize the costs of complexity) are vulnerable to such temptations.
+Effective political action on the part of peasantry can generally take place only when they are allied with other strata.
+This strategy is rarely employed, the usual course being recurrent peasant upheavals.
+Even still, peasantry can effectively weaken a hierarchy by other means when their marginal return for
+participating in a complex system is too low.
+A common strategy is the development of apathy to the well-being of the polity (Eisenstadt 1963: 207-10).
+In both the later Roman and Byzantine Empires the overtaxed peasantry offered little resistance to the foreign incursions that ultimately toppled these regimes (A. Jones 1964, 1974; Charanis 1953:
+And so, societies faced with declining marginal returns for investment in complex ity face a downward spiral from problems that seem insurmountable.
+Declining resources and rising marginal costs sap economic strength, so that services to the population cannot be sustained.
+As unrest grows among producers, increased resources from a dwindling supply must be allocated to legitimization and/or control.
+The economic sustaining base becomes weakened, and its members either actively or passively reduce their support for the polity.
+Reserve resources to meet unexpected stress surges are consumed for operating expenses.
+Ultimately, the society either disintegrates as localized entities break away, or is so weakened that it is toppled militarily, often with very little resistance.
+In either case, sociopolitical organization is reduced to the level that can be sustained by local resources.
+At this point it would be profitable to discuss Fig.
+19 in further detail.
+A society evolving in complexity undertakes a continuously escalating set of investments, as discussed throughout this chapter.
+At some point the investment/benefit ratio for this strategy reaches point B 1, Cl in Fig.
+Marginal productivity has reached the point where it can no longer rise, given the basic technology and energy resources available.
+Beyond this point, for at least a while, benefits still rise in response to increasing complexity, but at a declining marginal rate.
+The region on the marginal product curve (Fig.
+19) between B1, Cl, and B2, C2 depicts a realm in which a complex society experiences increased adversity and dissatisfaction.
+Stress begins to be increasingly perceived, and if modern history is any guide, ideological strife (for example, between growth and no-growth factions) may become noticeable.
+The system as a whole engages in `scanning' behavior, seeking alternatives that might provide a preferable adaptation.
+This scanning may result in the adoption by segments of the society of a variety of new ideologies and life-styles, many of them of foreign derivation (such as the proliferation of new religions in Imperial Rome).
+Some of these may be perceived by the hierarchy as hostile and subversive, others become briefly fashionable.
+At the same time, in an industrial society facing declining marginal returns, there may be increased investment in research and development (to the extent that declining resources permit), as solutions to declining productivity are sought, and in education, as individuals position themselves to reap a maximum share of a perceptibly faltering economy.
+Taxes rise, and inflation becomes noticeable.
+Prior to point B2, C2 investment and intensification can still produce positive benefits, but collapse becomes increasingly likely.
+The region between B2, C2 and B1, C3 is critical.
+In this part of the curve increasing complexity may actually bring decreased overall benefits, as the economic system and the sustaining base are taxed to the point where productivity declines.
+All segments of the society compete for a shrinking economic product.
+This is a realm of extreme vulnerability, as a major perturbation or stress surge will impinge on a society that has inadequate reserves.
+Surplus production for investment in research and development has declined.
+The scanning behavior of the previous stage may be terminated, as the hierarchy imposes rigid behavioral
+controls (as in later Imperial Rome) in an attempt to increase efficiency.
+As such a society evolves along the curve beyond B2, C2 it traverses a continuum of points, such as B 1, C3, where costs for complexity are increasing but the benefits have actually declined to those previously available at some lower level of investment.
+Thus the benefits derived from investment at B 1, C3 are no higher than those available at B1, Cl, but the marginal productivity of this latter point is far preferable.
+A society at B1, C3 is in serious danger of collapse from decomposition (as well as from any external threat), as constituent social units recognize that a strategy of severing their ties to the regional entity might yield highly increased marginal productivity (or however it may be conceptualized).
+The resulting rebellions and peasant wars further weaken the polity.
+At a point such as B1, C3 rapid disintegration, of the type that Renfrew (1979) predicts from the topological mathematics of Catastrophe Theory, is likely and expectable.
+One important question is why an equilibrium situation does not develop when marginal productivity can no longer rise.
+Why can't a society that has reached some optimum cost/benefit ratio for its investment in complexity simply rest on its accomplishments?
+While long-term equilibrium may be possible in comparatively simple foraging societies that are demographically flexible, it is less likely in more complex settings of greater density.
+Hunter-gatherers typically have the option of dispersing under resource shortages, so that population density is lowered in a distressed area.
+So long as new land is available, agriculturalists often have the same option (e.g., Renfrew 1982: 275; North and Thomas 1973; Rostow 1960: 34).
+Where demographic and/or sociopolitical factors limit the option of dispersal for a large segment of a population, though,
+the solution to stress must often be greater economic and/or sociopolitical investment.
+Since all human populations experience recurrent stresses, complex societies must constantly develop organizational features designed to alleviate new problems.
+To the extent that such problem-solving requires greater organizational investment, following the argument developed in this chapter, marginal returns on complexity will ultimately decline.
+Alternatives to collapse
+Much of the foregoing may read like the doom and gloom that issues from the Club of Rome (e.g., Meadows et al.
+Economists and others will rightly ask whether all this is really inevitable, or whether some salvation such as technical innovation can stave off collapse and permit continued growth.
+Tied up in all this is the question of the future of contemporary complex societies.
+Although contemporary societies will be discussed, that is deferred for a later chapter.
+For now the matter of innovation and growth, particularly in regard to ancient societies, will be briefly addressed.
+Technical innovation, particularly the institutionalized variety we know today, is unusual in human history (Elster 1983: 105).
+It requires some level of investment in research and development.
+Such investment is difficult to capitalize in an agriculturally-based society that produces little surplus per capita.
+Technical innovation often responds to labor shortages, which in the ancient world were the exception (Walbank 1967: 79-80).
+As a result, technical development in societies not based on a fossil fuel economy tends to be minimal.
+Where technical innovation in ancient societies did occur, it often tended actually to depress the productivity of labor (Renfrew 1982: 272; see also Wilkinson [1973]).
+In industrial societies, technical innovation responds to market factors, particularly physical needs and economic distress (Wilkinson 1973; Mensch 1979).
+It is not, though, always the panacea that is imagined.
+In an input-output analysis of the U.S. economy from 1947-58, corrected for inflation, Carter found that `technological change (or progress!)
+had actually added about $14 billion to the task
+of satisfying the same final [national] demand' (1966: 29).
+Technological innovation, as discussed above, is subject to the law of diminishing returns, and this tends to reduce (but not eliminate) its long-term potential for resolving economic weakness.
+Using the data cited by Wolfle (1960), Scherer observes that if R&D expenditures must grow at 4-5 percent per year to boost productivity 2 percent, such a trend cannot be continued indefinitely or the day will come when we must all be scientists.
+He is accordingly pessimistic about the prospects for long-term productivity growth (Scherer 1984: 239, 268-9).
+Colin Renfrew correctly points out (in the context of discussing the development of civilization in the Aegean) that economic growth is itself susceptible to declining marginal productivity (1972: 36- 7).
+For human societies, the best key to continued socioeconomic growth, and to avoiding or circumventing (or at least financing) declines in marginal productivity, is to obtain a new energy subsidy when it becomes apparent that marginal productivity is beginning to drop.
+Among modern societies this has been accomplished by tapping fossil fuel reserves and the atom.
+Among societies without the technical springboard necessary for such development, the usual temptation is to acquire an energy subsidy through territorial expansion.
+The occurrence of this temptation runs the gamut from simple agriculturalists (Vayda 1961a) to great empires.
+Whenever the marginal cost of financing a social system's needs out of local yearly productivity becomes perceptibly too high, this solution must seem attractive.
+The force of this attraction need hardly be argued, for the rise and expansion of empires provides one of the unequivocal touchstones of history.
+Such expansion, where successful, has at least the short-term advantage of
+providing the subsidy sought, as the accumulated reserves of the subject population, and a portion of their yearly productivity, are allocated to the dominant polity.
+When some new input to an economic system is brought on line, whether a technical innovation or an energy subsidy, it will often have the potential at least temporarily to raise marginal productivity.
+In the long run, however, marginal returns will ultimately begin to decline again, for the reasons discussed throughout this chapter.
+This process is illustrated in Fig.
+In the curve produced here, B1, Cl represents the point where, under the pressure of diminishing returns, a productive technical innovation or a new energy subsidy is adopted.
+Marginal productivity starts to rise for those aspects of complexity related to acquiring and initially developing the subsidy.
+(This may occur immediately or after some delay, as in Wilkinson's [1973] account of the development of a coal-based economy.)
+Ultimately, though, another point of declining marginal returns is reached, presaging further innovation and expansion, or collapse.
+The curve shown in Fig.
+20 presents a more realistic expression of the economic history of some societies than does Fig.
+19, but this only emphasizes the recurring problem of marginal decline.
+Fig.
+The marginal product of increasing complexity, with technological innovation or acquisition of an energy subsidy.
+A complex society pursuing the expansion option, if it is successful, ultimately reaches a point where further expansion requires too high a marginal cost.
+Linear miles of border to be defended, size of area to be administered, size of the required administration, internal pacification costs, travel distance between the capital and the frontier, and the presence of competitors combine to exert a depressing effect on further growth.
+Thus, as Taagepera (1968) has demonstrated, empire growth tends to follow a logistic curve (Fig.
+Growth begins slowly, accelerates as the energy subsidy is partially invested in further expansion, and falls off when the marginal cost of further growth becomes too high.
+Fig. 21. Growth curves of empires (after Taagepera 1968:
+Reproduced by permission of the Society for General Systems Research.
+Once conquered, subject lands and their populations must be controlled, administered, and defended.
+Given enough time, subject populations often achieve, at least partially, the status of citizens, which entitles them to certain benefits in return for their contributions to the hierarchy, and makes them less suitable for exploitation.
+The energy subsidy obtained from a conquest is highest initially, due to plunder of accumulated surpluses, and then begins to decline.
+It declines as administrative and occupation costs rise, and as the subject population gains political rights and benefits.
+Ultimately the marginal
+returns for the conquest start to fall, whereupon the society is back to its previous predicament.
+Now, however, the marginal cost of further expansion has risen even higher.
+Thus, lacking dependence on such energy sources as fossil fuels, the limited technical development of which the ancient world was capable, and the extensive territorial expansion for which it is noted, could only provide a temporary respite from declining marginal productivity.
+The latter tendency in particular resulted in a situation where collapse, when it did occur, affected a wider territorial sphere in a more devastating manner than might have otherwise been the case.

@@ -1,0 +1,55 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - complementary [ref=e3]:
+      - paragraph [ref=e4]: The Collapse of Complex Societies (New Studies in Archaeology)
+      - navigation [ref=e5]:
+        - button "01 Unit 001" [ref=e6] [cursor=pointer]:
+          - generic [ref=e7]: "01"
+          - generic [ref=e8]: Unit 001
+        - button "02 Unit 002" [ref=e9] [cursor=pointer]:
+          - generic [ref=e10]: "02"
+          - generic [ref=e11]: Unit 002
+        - button "03 Unit 003" [ref=e12] [cursor=pointer]:
+          - generic [ref=e13]: "03"
+          - generic [ref=e14]: Unit 003
+        - button "04 Unit 004" [ref=e15] [cursor=pointer]:
+          - generic [ref=e16]: "04"
+          - generic [ref=e17]: Unit 004
+        - button "05 Unit 005" [ref=e18] [cursor=pointer]:
+          - generic [ref=e19]: "05"
+          - generic [ref=e20]: Unit 005
+        - button "06 Unit 006" [ref=e21] [cursor=pointer]:
+          - generic [ref=e22]: "06"
+          - generic [ref=e23]: Unit 006
+        - button "07 Unit 007" [ref=e24] [cursor=pointer]:
+          - generic [ref=e25]: "07"
+          - generic [ref=e26]: Unit 007
+        - button "08 Unit 008" [ref=e27] [cursor=pointer]:
+          - generic [ref=e28]: "08"
+          - generic [ref=e29]: Unit 008
+        - button "09 Unit 009" [ref=e30] [cursor=pointer]:
+          - generic [ref=e31]: "09"
+          - generic [ref=e32]: Unit 009
+        - button "10 Unit 010" [ref=e33] [cursor=pointer]:
+          - generic [ref=e34]: "10"
+          - generic [ref=e35]: Unit 010
+        - button "11 Unit 011" [ref=e36] [cursor=pointer]:
+          - generic [ref=e37]: "11"
+          - generic [ref=e38]: Unit 011
+    - main [ref=e39]:
+      - generic [ref=e40]:
+        - heading "Chapter 1. Unit 001" [level=1] [ref=e41]
+        - generic [ref=e42]: 0:00 / 10:27:06
+      - article [ref=e43]:
+        - paragraph [ref=e44] [cursor=pointer]: Cover
+        - paragraph [ref=e45] [cursor=pointer]: The Collapse of Complex Societies (New Studies in Archaeology) by Joseph A. Tainter
+        - paragraph [ref=e46] [cursor=pointer]: NEW STUDIES IN ARCHAEOLOGY
+        - paragraph [ref=e47] [cursor=pointer]: The Collapse of Complex Societies (New Studies in Archaeology) by Joseph A. Tainter
+        - paragraph [ref=e48] [cursor=pointer]: The Collapse of Complex Societies
+        - paragraph [ref=e49] [cursor=pointer]: The Collapse of Complex Societies (New Studies in Archaeology) by Joseph A. Tainter
+  - generic [ref=e50]:
+    - button "Prev" [ref=e51] [cursor=pointer]
+    - button "Play" [ref=e52] [cursor=pointer]
+    - button "Next" [ref=e53] [cursor=pointer]
+    - slider "Seek" [ref=e54]: "0"
+    - generic [ref=e55]: 0:00 / 0:26

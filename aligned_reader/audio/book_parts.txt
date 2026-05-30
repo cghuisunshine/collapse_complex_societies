@@ -1,0 +1,3 @@
+file '/Users/chenguagnghui/audio_text_sync/CollapseComplexSocieties/007 - The Collapse of Complex Societies .mp3'
+file '/Users/chenguagnghui/audio_text_sync/CollapseComplexSocieties/008 - The Collapse of Complex Societies .mp3'
+file '/Users/chenguagnghui/audio_text_sync/CollapseComplexSocieties/009 - The Collapse of Complex Societies .mp3'
